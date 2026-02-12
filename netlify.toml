@@ -1,5 +1,5 @@
 [build]
-    publish = "dist"
+    publish = "build_output"
     command = "echo 'Using pre-built files'"
 
 [build.environment]
