@@ -1,5 +1,5 @@
 import React from 'react';
-import { Zap } from 'lucide-react';
+import { Zap, Mail, Phone, MapPin, Twitter, Linkedin, Instagram } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Footer: React.FC = () => {
@@ -32,39 +32,55 @@ const Footer: React.FC = () => {
                     </div>
                  </Link>
 
-                 <p className="text-gray-500 mb-6 leading-relaxed">
+                 <p className="text-gray-500 mb-6 leading-relaxed text-sm">
                     Growth on autopilot. We build systems that help businesses scale without the headache.
                  </p>
                  <div className="flex gap-4">
-                    {/* Socials placeholder */}
-                    <div className="w-8 h-8 rounded-full bg-white/5 hover:bg-white/10 border border-white/5 transition-colors cursor-pointer flex items-center justify-center group">
-                        <span className="text-xs text-gray-500 group-hover:text-white">tw</span>
+                    <div className="w-10 h-10 rounded-xl bg-white/5 hover:bg-white/10 border border-white/5 transition-colors cursor-pointer flex items-center justify-center text-gray-400 hover:text-white">
+                        <Twitter className="w-5 h-5" />
                     </div>
-                    <div className="w-8 h-8 rounded-full bg-white/5 hover:bg-white/10 border border-white/5 transition-colors cursor-pointer flex items-center justify-center group">
-                        <span className="text-xs text-gray-500 group-hover:text-white">li</span>
+                    <div className="w-10 h-10 rounded-xl bg-white/5 hover:bg-white/10 border border-white/5 transition-colors cursor-pointer flex items-center justify-center text-gray-400 hover:text-white">
+                        <Linkedin className="w-5 h-5" />
                     </div>
-                    <div className="w-8 h-8 rounded-full bg-white/5 hover:bg-white/10 border border-white/5 transition-colors cursor-pointer flex items-center justify-center group">
-                        <span className="text-xs text-gray-500 group-hover:text-white">ig</span>
+                    <div className="w-10 h-10 rounded-xl bg-white/5 hover:bg-white/10 border border-white/5 transition-colors cursor-pointer flex items-center justify-center text-gray-400 hover:text-white">
+                        <Instagram className="w-5 h-5" />
                     </div>
                  </div>
             </div>
             
-            {['Product', 'Company', 'Legal'].map((col, i) => (
-                <div key={i}>
-                    <h4 className="text-white font-bold mb-6">{col}</h4>
-                    <ul className="space-y-4 text-gray-500 text-sm">
-                        {['Features', 'Pricing', 'Case Studies', 'Documentation'].map(item => (
-                            <li key={item} className="hover:text-white transition-colors cursor-pointer">{item}</li>
-                        ))}
-                    </ul>
-                </div>
-            ))}
+            <div>
+                <h4 className="text-white font-black text-xs uppercase tracking-[0.2em] mb-8">Services</h4>
+                <ul className="space-y-4 text-gray-500 text-sm font-medium">
+                    <li><Link to="/services/ai-chatbot" className="hover:text-amp-primary transition-colors">AI Chatbot</Link></li>
+                    <li><Link to="/services/ai-voice" className="hover:text-amp-primary transition-colors">AI Voice</Link></li>
+                    <li><Link to="/services/lead-funnel" className="hover:text-amp-primary transition-colors">Sales Funnels</Link></li>
+                    <li><Link to="/services/seo-content" className="hover:text-amp-primary transition-colors">SEO Engine</Link></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4 className="text-white font-black text-xs uppercase tracking-[0.2em] mb-8">Company</h4>
+                <ul className="space-y-4 text-gray-500 text-sm font-medium">
+                    <li><Link to="/about" className="hover:text-amp-primary transition-colors">About Us</Link></li>
+                    <li><Link to="/pricing" className="hover:text-amp-primary transition-colors">Pricing</Link></li>
+                    <li><Link to="/contact" className="hover:text-amp-primary transition-colors">Contact</Link></li>
+                    <li><Link to="/blog" className="hover:text-amp-primary transition-colors">Blog</Link></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4 className="text-white font-black text-xs uppercase tracking-[0.2em] mb-8">Legal</h4>
+                <ul className="space-y-4 text-gray-500 text-sm font-medium">
+                    <li className="hover:text-white transition-colors cursor-pointer">Privacy Policy</li>
+                    <li className="hover:text-white transition-colors cursor-pointer">Terms of Service</li>
+                    <li className="hover:text-white transition-colors cursor-pointer">Cookie Policy</li>
+                </ul>
+            </div>
         </div>
         <div className="max-w-7xl mx-auto px-6 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-600 text-xs">© 2026 AMP Marketing. All rights reserved.</p>
-            <div className="flex gap-8 text-xs text-gray-600">
-                <span className="hover:text-gray-400 cursor-pointer">Privacy Policy</span>
-                <span className="hover:text-gray-400 cursor-pointer">Terms of Service</span>
+            <p className="text-gray-600 text-[10px] font-bold uppercase tracking-widest">© 2026 AMP Marketing. All rights reserved.</p>
+            <div className="flex gap-8 text-[10px] text-gray-600 font-bold uppercase tracking-widest">
+                <span className="hover:text-gray-400 cursor-pointer">Built with AI</span>
             </div>
         </div>
       </footer>

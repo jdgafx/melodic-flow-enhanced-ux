@@ -6,6 +6,9 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Services from './pages/Services';
 import Pricing from './pages/Pricing';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import ServiceDetail from './pages/ServiceDetail';
 
 const ScrollToTop = () => {
   const { pathname } = useLocation();
@@ -19,21 +22,19 @@ function App() {
   return (
     <Router>
       <ScrollToTop />
-      {/* Main Container */}
-      <div className="relative w-full min-h-screen flex flex-col font-sans text-gray-100 selection:bg-amp-secondary selection:text-white overflow-x-hidden">
+      <div className="relative w-full min-h-screen flex flex-col font-sans text-gray-100 selection:bg-amp-secondary selection:text-white overflow-x-hidden bg-amp-bg">
         
-        {/* Background Layer: Fixed position, z-index 0 */}
         <AnimatedBackground />
-        
-        {/* Navigation: Fixed position, z-50 high priority */}
         <Navbar />
 
-        {/* Content Layer: z-10 ensures it sits on top of the background */}
         <main className="relative z-10 flex-grow w-full flex flex-col">
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
+            <Route path="/services/:id" element={<ServiceDetail />} />
             <Route path="/pricing" element={<Pricing />} />
+            <Route path="/contact" element={<Contact />} />
             <Route path="*" element={<Home />} />
           </Routes>
         </main>

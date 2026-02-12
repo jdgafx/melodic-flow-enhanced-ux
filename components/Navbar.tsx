@@ -43,18 +43,16 @@ const Navbar: React.FC = () => {
                   {/* SVG Gradient Definition */}
                   <svg width="0" height="0" className="absolute">
                     <linearGradient id="logo-gradient-nav" x1="0%" y1="0%" x2="100%" y2="100%">
-                      <stop stopColor="#60A5FA" offset="0%" /> {/* Blue-400 */}
-                      <stop stopColor="#C084FC" offset="100%" /> {/* Purple-400 */}
+                      <stop stopColor="#60A5FA" offset="0%" />
+                      <stop stopColor="#C084FC" offset="100%" />
                     </linearGradient>
                   </svg>
                </div>
             </div>
             
-            {/* Text & Tagline - UPDATED TYPOGRAPHY */}
             <div className="flex flex-col justify-center">
               <div className="flex items-baseline leading-none mb-1">
                  <span className="text-xl font-bold text-white tracking-tight mr-1">AMP</span>
-                 {/* High Contrast 'Marketing' */}
                  <span className="text-xl font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-indigo-200 to-indigo-400 drop-shadow-[0_2px_10px_rgba(165,180,252,0.2)]">Marketing</span>
               </div>
               <span className="text-[10px] font-extrabold text-slate-400 tracking-[0.2em] uppercase pl-0.5">Growth on Autopilot</span>
@@ -76,9 +74,11 @@ const Navbar: React.FC = () => {
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <button className="bg-white text-black hover:bg-indigo-50 px-6 py-2.5 rounded-xl text-sm font-bold transition-all shadow-[0_0_20px_rgba(255,255,255,0.15)] hover:shadow-[0_0_30px_rgba(255,255,255,0.3)] hover:scale-105">
-              Get Started
-            </button>
+            <Link to="/contact">
+              <button className="bg-white text-black hover:bg-indigo-50 px-6 py-2.5 rounded-xl text-sm font-bold transition-all shadow-[0_0_20px_rgba(255,255,255,0.15)] hover:shadow-[0_0_30px_rgba(255,255,255,0.3)] hover:scale-105">
+                Get Started
+              </button>
+            </Link>
           </div>
 
           {/* Mobile Toggle */}
@@ -102,9 +102,11 @@ const Navbar: React.FC = () => {
                 {item.label}
               </Link>
             ))}
-            <button className="w-full mt-4 bg-white text-black py-3 rounded-lg font-bold">
-              Get Started
-            </button>
+            <Link to="/contact" onClick={() => setIsOpen(false)}>
+              <button className="w-full mt-4 bg-white text-black py-3 rounded-lg font-bold">
+                Get Started
+              </button>
+            </Link>
           </div>
         )}
       </nav>
