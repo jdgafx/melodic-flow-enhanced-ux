@@ -1,0 +1,23 @@
+{
+  "sites": {
+    "melodic-flow-site-1": {
+      "status": "pending",
+      "deployments": [],
+      "created_at": null,
+      "last_deployment": null
+    },
+    "melodic-flow-site-2": {
+      "status": "pending", 
+      "deployments": [],
+      "created_at": null,
+      "last_deployment": null
+    },
+    "melodic-flow-site-3": {
+      "status": "pending",
+      "deployments": [],
+      "created_at": null,
+      "last_deployment": null
+    }
+  },
+  "last_updated": "$(date -Iseconds)"
+}
