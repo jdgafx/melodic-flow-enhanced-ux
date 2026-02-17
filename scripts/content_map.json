@@ -1,0 +1,1722 @@
+{
+  "src/app/page.tsx": {
+    "page_id": "homepage",
+    "display_name": "Homepage",
+    "blocks": [
+      {
+        "id": "homepage-01",
+        "type": "data",
+        "original": "We set up AI that hunts down your perfect customers on social media, Google, and a bunch of ad platforms. Your pipeline stays packed so you can focus on closing deals. Think of it like having a sales team that works around the clock without needing coffee breaks."
+      },
+      {
+        "id": "homepage-02",
+        "type": "data",
+        "original": "We use AI to research and write high-quality articles that actually rank on Google. You get fresh content that brings in organic traffic without the high cost of a writing agency. It's the smartest way to grow your authority."
+      },
+      {
+        "id": "homepage-03",
+        "type": "data",
+        "original": "Our AI answers your phone, asks the right questions, and books appointments. Inbound or outbound calls—doesn't matter. Your phone turns into a money-making machine that never takes a break. Your phone becomes a 24/7 booking machine."
+      },
+      {
+        "id": "homepage-04",
+        "type": "data",
+        "original": "You've got maybe 3 seconds before someone bounces. We build pages that load quick, look sharp, and turn visitors into leads. We test different versions until we find what works best for you."
+      },
+      {
+        "id": "homepage-05",
+        "type": "data",
+        "original": "A chat widget that doesn't sound like a robot. It talks to your visitors, answers their questions, and books meetings for you. One of our clients tripled their leads in a week after we set this up. It was a big deal for them."
+      },
+      {
+        "id": "homepage-06",
+        "type": "data",
+        "original": "Social media feels like a second job, right? We take care of it. We post for you every month across all your platforms so people remember you exist. You stay visible without lifting a finger."
+      },
+      {
+        "id": "homepage-07",
+        "type": "data",
+        "original": "Tired of throwing money at ads and hoping something sticks? We write headlines that grab people and keep testing until your cost per lead drops. You get to watch the numbers go up while we handle the details."
+      },
+      {
+        "id": "homepage-08",
+        "type": "data",
+        "original": "Emails that don't feel like spam. We write follow-up sequences that sound like a real person wrote them. Leads move through your pipeline on autopilot. No more \"just checking in\" messages you have to send yourself."
+      },
+      {
+        "id": "homepage-09",
+        "type": "data",
+        "original": "If people can't find you on Google Maps, you're losing customers. We fix your profile so locals actually see you when they search. More visibility means more calls. Pretty straightforward."
+      },
+      {
+        "id": "homepage-10",
+        "type": "data",
+        "original": "Responding to reviews matters, but who has time? Our system writes thoughtful replies for you. Good reviews get a thank you, bad ones get handled professionally. You don't type a thing."
+      },
+      {
+        "id": "homepage-11",
+        "type": "jsx",
+        "original": "See real results in a week"
+      },
+      {
+        "id": "homepage-12",
+        "type": "jsx",
+        "original": "More Leads, Less Busywork."
+      },
+      {
+        "id": "homepage-13",
+        "type": "jsx",
+        "original": "We build smart tools that bring in leads, answer your phones, and handle the boring stuff while you sleep. No complicated tech talk. Just results."
+      },
+      {
+        "id": "homepage-14",
+        "type": "jsx",
+        "original": "Everything We Can Do for You"
+      },
+      {
+        "id": "homepage-15",
+        "type": "jsx",
+        "original": "If AI can help you get more customers or save time, we've probably built it. Here's what we offer."
+      },
+      {
+        "id": "homepage-16",
+        "type": "data",
+        "original": "Most folks see their stuff live and working within a week. We move fast."
+      },
+      {
+        "id": "homepage-17",
+        "type": "data",
+        "original": "No contracts. Cancel whenever. We'd rather earn your business every month."
+      },
+      {
+        "id": "homepage-18",
+        "type": "data",
+        "original": "We track every lead and booking. You'll always know what's working and what's not."
+      },
+      {
+        "id": "homepage-19",
+        "type": "data",
+        "original": "Real humans pick up the phone. Got a question? You'll talk to someone who can actually help."
+      },
+      {
+        "id": "homepage-20",
+        "type": "jsx",
+        "original": "Don't take our word for it. Here's what real clients told us."
+      },
+      {
+        "id": "homepage-21",
+        "type": "data",
+        "original": "AMP Marketing honestly changed everything for us. We went from like 10 leads to over 100 in eight weeks. That AI chatbot? It grabs leads while I'm sleeping."
+      },
+      {
+        "id": "homepage-22",
+        "type": "data",
+        "original": "Finally found an AI team that does what they say. We've burned through agencies before, but these guys are fast. They actually care."
+      },
+      {
+        "id": "homepage-23",
+        "type": "data",
+        "original": "Our lead generation was basically nonexistent before AMP Marketing took it over. Now our pipeline is full of qualified prospects. Phone has not stopped ringing."
+      },
+      {
+        "id": "homepage-24",
+        "type": "data",
+        "original": "The AI voice receptionist pays for itself every single month. We used to miss 20% of our calls. Now every single one gets answered professionally, 24/7."
+      },
+      {
+        "id": "homepage-25",
+        "type": "data",
+        "original": "Email automation changed our business. We were spending hours every week on manual follow-ups. Now it happens automatically, and our close rate has increased by 40%."
+      },
+      {
+        "id": "homepage-26",
+        "type": "data",
+        "original": "The custom AI application they built for us saved us 30 hours a week. That is not a typo. Best investment we have ever made."
+      },
+      {
+        "id": "homepage-27",
+        "type": "jsx",
+        "original": "We've done this for hundreds of businesses. Let's hop on a quick call and see if we can help you too. No pressure. No sales pitch."
+      }
+    ]
+  },
+  "src/app/about/page.tsx": {
+    "page_id": "about",
+    "display_name": "About",
+    "blocks": [
+      {
+        "id": "about-01",
+        "type": "jsx",
+        "original": "We help businesses find more leads and close more sales using technology that actually delivers."
+      },
+      {
+        "id": "about-02",
+        "type": "jsx",
+        "original": "Honestly? We're obsessed with outcomes, not activity. Every dollar you spend should bring you more back."
+      },
+      {
+        "id": "about-03",
+        "type": "jsx",
+        "original": "Straight talk, clear pricing, honest timelines. We don't do corporate speak or hidden fees. Period."
+      },
+      {
+        "id": "about-04",
+        "type": "jsx",
+        "original": "We move fast and adapt to your needs. Seriously, no bureaucracy, no endless approvals."
+      },
+      {
+        "id": "about-05",
+        "type": "jsx",
+        "original": "AMP Marketing was built by the same dedicated team behind"
+      },
+      {
+        "id": "about-06",
+        "type": "jsx",
+        "original": ". \n                            Led by Michael Krieger, our mission remains the same: helping businesses grow through smart, results-driven strategies."
+      },
+      {
+        "id": "about-07",
+        "type": "jsx",
+        "original": "Michael Krieger started Prime Marketing Experts back in 2017. He's from Boston, went to UMass Lowell, and spent years helping hundreds of small businesses figure out how to grow. \n                            Along the way, he noticed something: AI was getting good enough to make marketing faster and way more affordable for regular businesses."
+      },
+      {
+        "id": "about-08",
+        "type": "jsx",
+        "original": "AMP Marketing is what came next. We took everything we learned at Prime and mixed it with AI tools that actually work—the kind that get you qualified leads in days, not months."
+      },
+      {
+        "id": "about-09",
+        "type": "jsx",
+        "original": "We now work with over 500 businesses across the country. Doesn't matter if you're a plumber or a law firm—you get the same attention to detail and focus on results that Michael's been about since day one."
+      },
+      {
+        "id": "about-10",
+        "type": "jsx",
+        "original": "The AMP Marketing Difference"
+      },
+      {
+        "id": "about-11",
+        "type": "data",
+        "original": "You see exactly what you're paying. No surprise fees, and you can walk away whenever."
+      },
+      {
+        "id": "about-12",
+        "type": "data",
+        "original": "We track every single lead. You'll always know if your money's actually working."
+      },
+      {
+        "id": "about-13",
+        "type": "data",
+        "original": "Most of our stuff goes live in about a week. No months of waiting around."
+      },
+      {
+        "id": "about-14",
+        "type": "data",
+        "original": "Got a question? Just reach out. You talk to actual people who know your account."
+      },
+      {
+        "id": "about-15",
+        "type": "data",
+        "original": "AMP Marketing finally fixed our lead generation problem. We went from 10 leads a month to over 100 in just 8 weeks. The chatbot alone captures dozens of leads while we sleep."
+      },
+      {
+        "id": "about-16",
+        "type": "data",
+        "original": "We've worked with plenty of agencies, but none delivered results this fast. We saw more patient inquiries in the first month than we did all last year."
+      },
+      {
+        "id": "about-17",
+        "type": "data",
+        "original": "We went from being invisible on Google to dominating the local map pack. Our phone hasn't stopped ringing with reservation inquiries."
+      },
+      {
+        "id": "about-18",
+        "type": "data",
+        "original": "The AI voice receptionist pays for itself every single month. We used to miss 20% of our calls. Now every single one gets answered professionally, 24/7."
+      },
+      {
+        "id": "about-19",
+        "type": "data",
+        "original": "Email automation changed our business. We were spending hours every week on manual follow-ups. Now it happens automatically, and our close rate has increased by 40%."
+      },
+      {
+        "id": "about-20",
+        "type": "data",
+        "original": "The landing page they built for us generated $47,000 in its first month. Nope, not a typo. Best marketing investment we've ever made, period."
+      },
+      {
+        "id": "about-21",
+        "type": "jsx",
+        "original": "Actual numbers from businesses we've worked with. No fluff."
+      },
+      {
+        "id": "about-22",
+        "type": "data",
+        "original": "This HVAC company was getting maybe 15 leads a month from their website. Pretty much lived off referrals and word of mouth."
+      },
+      {
+        "id": "about-23",
+        "type": "data",
+        "original": "We set up an AI chatbot that catches leads around the clock, fixed up their Google Business profile, and built landing pages for the specific areas they serve."
+      },
+      {
+        "id": "about-24",
+        "type": "data",
+        "original": "Eight weeks later? Over 100 leads a month. That's a 567% jump. Their cost per lead dropped 62%, and people now book appointments straight through the bot."
+      },
+      {
+        "id": "about-25",
+        "type": "data",
+        "original": "I was skeptical at first, but these guys delivered. Our phone has not stopped ringing since day one."
+      },
+      {
+        "id": "about-26",
+        "type": "data",
+        "original": "Brand new dental practice. They needed patients fast, kept dealing with no-shows, and had zero systems for getting reviews."
+      },
+      {
+        "id": "about-27",
+        "type": "data",
+        "original": "We put in an AI phone system that handles scheduling, plus automated emails to follow up with new patients and ask for reviews."
+      },
+      {
+        "id": "about-28",
+        "type": "data",
+        "original": "First month: 47 new patient appointments. No-shows dropped 73%. And they hit 4.8 stars with 120+ reviews."
+      },
+      {
+        "id": "about-29",
+        "type": "data",
+        "original": "The automation alone saves us 10+ hours per week. And the new patient flow is incredible."
+      }
+    ]
+  },
+  "src/app/contact/page.tsx": {
+    "page_id": "contact",
+    "display_name": "Contact",
+    "blocks": [
+      {
+        "id": "contact-01",
+        "type": "jsx",
+        "original": "Got questions? Want to chat about your project? Drop us a line \n                        and we'll get back to you fast—usually the same day."
+      },
+      {
+        "id": "contact-02",
+        "type": "jsx",
+        "original": "Google Business Optimization"
+      },
+      {
+        "id": "contact-03",
+        "type": "jsx",
+        "original": "We usually reply within a day."
+      },
+      {
+        "id": "contact-04",
+        "type": "jsx",
+        "original": "74 Northeastern Blvd #12a Ste 101"
+      },
+      {
+        "id": "contact-05",
+        "type": "jsx",
+        "original": "Free 15-minute chat. Tell us what's bugging you. No pitch, no pressure—just a real conversation about whether we can help."
+      }
+    ]
+  },
+  "src/app/pricing/page.tsx": {
+    "page_id": "pricing",
+    "display_name": "Pricing",
+    "blocks": [
+      {
+        "id": "pricing-01",
+        "type": "data",
+        "original": "Look, if you're just testing the waters—this is your starting point. You get a chatbot that books appointments while you sleep, we'll fix up your Google listing so locals can actually find you, and reviews get answered on autopilot. Pretty simple stuff."
+      },
+      {
+        "id": "pricing-02",
+        "type": "data",
+        "original": "Here's the thing—most of our clients land here. You get everything from Starter plus a phone bot that picks up when you can't, email sequences that don't feel spammy, regular social posts, and ad copy that people actually click on."
+      },
+      {
+        "id": "pricing-03",
+        "type": "data",
+        "original": "This is the full package. We handle your content, build landing pages, set up complete funnels, train custom AI on your business, and you get a dedicated person who knows your stuff inside and out."
+      },
+      {
+        "id": "pricing-04",
+        "type": "data",
+        "original": "What do I get in the free trial?"
+      },
+      {
+        "id": "pricing-05",
+        "type": "data",
+        "original": "The whole thing. All of it. 7 days, no credit card needed, no weird catches. Try it out. If it's not for you, no big deal—just don't continue. Zero hassle."
+      },
+      {
+        "id": "pricing-06",
+        "type": "data",
+        "original": "Can you make it fit my business?"
+      },
+      {
+        "id": "pricing-07",
+        "type": "data",
+        "original": "That's the whole point. We don't copy-paste the same stuff for everyone. Your chatbot scripts, emails, ads—all of it gets written for YOUR business. We keep tweaking until it sounds like you."
+      },
+      {
+        "id": "pricing-08",
+        "type": "data",
+        "original": "What if I want to change plans?"
+      },
+      {
+        "id": "pricing-09",
+        "type": "data",
+        "original": "Go for it. Upgrade when you're ready to grow, downgrade if things slow down. We adjust your bill to match. No fees, no guilt trips."
+      },
+      {
+        "id": "pricing-10",
+        "type": "data",
+        "original": "What if none of these plans work for me?"
+      },
+      {
+        "id": "pricing-11",
+        "type": "data",
+        "original": "Then we'll make one that does. Just tell us what you're looking for and we'll put something together that fits your situation."
+      },
+      {
+        "id": "pricing-12",
+        "type": "data",
+        "original": "How fast will this actually work?"
+      },
+      {
+        "id": "pricing-13",
+        "type": "data",
+        "original": "Depends on what you're using. Chatbots? Day one. Could see leads that same afternoon. SEO takes a bit—usually a couple months to really kick in. But most people notice changes in the first week or two."
+      },
+      {
+        "id": "pricing-14",
+        "type": "data",
+        "original": "Do I have to sign a long contract?"
+      },
+      {
+        "id": "pricing-15",
+        "type": "data",
+        "original": "Nope. Month to month. Want to cancel? Just let us know 30 days ahead. We're not into trapping people."
+      },
+      {
+        "id": "pricing-16",
+        "type": "jsx",
+        "original": "No sneaky fees. No contracts locking you in. Everything's customizable—because that's how we do things."
+      },
+      {
+        "id": "pricing-17",
+        "type": "jsx",
+        "original": "Not everyone needs the full package. Grab what makes sense for you. We can tweak any of these to fit."
+      },
+      {
+        "id": "pricing-18",
+        "type": "jsx",
+        "original": "✓ Help with setup included"
+      },
+      {
+        "id": "pricing-19",
+        "type": "jsx",
+        "original": "Here's the breakdown so you know what you're getting"
+      },
+      {
+        "id": "pricing-20",
+        "type": "jsx",
+        "original": "Questions People Usually Ask"
+      },
+      {
+        "id": "pricing-21",
+        "type": "jsx",
+        "original": "Stuff we get asked all the time"
+      },
+      {
+        "id": "pricing-22",
+        "type": "jsx",
+        "original": "Want to See If This Actually Works?"
+      },
+      {
+        "id": "pricing-23",
+        "type": "jsx",
+        "original": "7 days free. No card required. Walk away anytime if it's not your thing."
+      },
+      {
+        "id": "pricing-24",
+        "type": "jsx",
+        "original": "Schedule Free Consultation"
+      }
+    ]
+  },
+  "src/app/services/page.tsx": {
+    "page_id": "services",
+    "display_name": "Services Overview",
+    "blocks": [
+      {
+        "id": "services-01",
+        "type": "meta",
+        "original": "We help businesses get more leads and save time with AI. From finding customers to handling calls, we build tools that actually work."
+      },
+      {
+        "id": "services-02",
+        "type": "data",
+        "original": "We use smart AI to find your perfect customers across social media and 100+ ad platforms. The system fills your funnel automatically so you just focus on closing deals."
+      },
+      {
+        "id": "services-03",
+        "type": "data",
+        "original": "We use AI to research and write high-quality articles that actually rank on Google. You get fresh content that brings in organic traffic without the high cost of a writing agency."
+      },
+      {
+        "id": "services-04",
+        "type": "data",
+        "original": "Never miss a call again. Our AI answers, qualifies leads, and books appointments—day or night. Works for incoming calls and outbound too."
+      },
+      {
+        "id": "services-05",
+        "type": "data",
+        "original": "You've got about 3 seconds to grab someone's attention. We build pages that load fast and get people to take action. Tested. Proven."
+      },
+      {
+        "id": "services-06",
+        "type": "data",
+        "original": "Most chatbots stink. Ours talks like a real person and books calls when people are ready. Clients often see more qualified leads in the first week."
+      },
+      {
+        "id": "services-07",
+        "type": "data",
+        "original": "Posting regularly works. It's also a time suck. We handle your posts across all platforms so you stay visible without the hassle."
+      },
+      {
+        "id": "services-08",
+        "type": "data",
+        "original": "Bad ads waste money. We write headlines that get clicks and keep testing until your cost per lead goes down. Runs on 100+ platforms."
+      },
+      {
+        "id": "services-09",
+        "type": "data",
+        "original": "Generic emails get ignored. We write follow-ups that sound like you—personal, friendly, and they actually get replies."
+      },
+      {
+        "id": "services-10",
+        "type": "data",
+        "original": "If people can't find you on Google Maps, they're finding your competition. We fix your profile so locals actually see you."
+      },
+      {
+        "id": "services-11",
+        "type": "data",
+        "original": "Replying to every review takes forever. Our AI reads each one and writes a thoughtful response. Good ones get thanked. Bad ones get handled."
+      },
+      {
+        "id": "services-12",
+        "type": "jsx",
+        "original": "More leads. Less busywork. We build AI tools that save you time and bring in customers."
+      },
+      {
+        "id": "services-13",
+        "type": "jsx",
+        "original": "s.featured).map((service, idx) => ("
+      },
+      {
+        "id": "services-14",
+        "type": "jsx",
+        "original": "Let's talk for 15 minutes. No pitch—we'll just figure out what makes sense for you."
+      }
+    ]
+  },
+  "src/app/services/ai-chatbot/page.tsx": {
+    "page_id": "ai-chatbot",
+    "display_name": "AI Chatbot",
+    "blocks": [
+      {
+        "id": "ai-chatbot-01",
+        "type": "meta",
+        "original": "Capture leads 24/7 with an intelligent AI chatbot. Never miss a website visitor again."
+      },
+      {
+        "id": "ai-chatbot-02",
+        "type": "jsx",
+        "original": "Look, your website should be doing more than just sitting there. Honestly, if it's not starting conversations and booking leads while you're asleep, you're losing money. We build custom-trained AI chatbots that actually talk to your visitors and get them on your calendar."
+      },
+      {
+        "id": "ai-chatbot-03",
+        "type": "jsx",
+        "original": "How It Helps Your Business"
+      },
+      {
+        "id": "ai-chatbot-04",
+        "type": "jsx",
+        "original": "Honestly, most chatbots are trash. We do it differently. We train your bot on your actual business docs and PDFs so it sounds like you, not some generic script. It's like having your best salesperson working 24/7 without the coffee breaks."
+      },
+      {
+        "id": "ai-chatbot-05",
+        "type": "bullet",
+        "original": "We feed it your actual website, docs, and any PDFs you have—so it really knows your business inside and out."
+      },
+      {
+        "id": "ai-chatbot-06",
+        "type": "bullet",
+        "original": "It asks the right questions to figure out if someone's actually worth your time before booking anything."
+      },
+      {
+        "id": "ai-chatbot-07",
+        "type": "bullet",
+        "original": "Plugs straight into whatever calendar you use—Google, Outlook, doesn't matter. Books only when you're free."
+      },
+      {
+        "id": "ai-chatbot-08",
+        "type": "bullet",
+        "original": "Visitors get instant answers at 2am. You don't have to be there."
+      },
+      {
+        "id": "ai-chatbot-09",
+        "type": "bullet",
+        "original": "Every conversation automatically flows into your CRM. No manual data entry."
+      },
+      {
+        "id": "ai-chatbot-10",
+        "type": "bullet",
+        "original": "And yeah, it gets smarter the more it chats with people. Learns what works."
+      },
+      {
+        "id": "ai-chatbot-11",
+        "type": "jsx",
+        "original": "Starting at $497 setup + $149/mo"
+      },
+      {
+        "id": "ai-chatbot-12",
+        "type": "jsx",
+        "original": "Custom training and monthly AI management."
+      },
+      {
+        "id": "ai-chatbot-13",
+        "type": "jsx",
+        "original": "Try it on your site. If it doesn't work, you don't pay."
+      },
+      {
+        "id": "ai-chatbot-14",
+        "type": "jsx",
+        "original": "Frequently Asked Questions"
+      },
+      {
+        "id": "ai-chatbot-15",
+        "type": "faq_q",
+        "original": "How does the free trial work?"
+      },
+      {
+        "id": "ai-chatbot-16",
+        "type": "faq_a",
+        "original": "You get the full thing for 7 days—no credit card needed. Just see how many leads it actually pulls in. If it doesn't work for you, walk away. No harm done."
+      },
+      {
+        "id": "ai-chatbot-17",
+        "type": "faq_q",
+        "original": "How is the AI trained?"
+      },
+      {
+        "id": "ai-chatbot-18",
+        "type": "faq_a",
+        "original": "We upload your website, any PDFs you have, docs, whatever you've got. The bot learns it all so it gives answers that actually make sense for your business—not generic fluff."
+      },
+      {
+        "id": "ai-chatbot-19",
+        "type": "faq_q",
+        "original": "Does it work with my calendar?"
+      },
+      {
+        "id": "ai-chatbot-20",
+        "type": "faq_a",
+        "original": "Yup—works with Google, Outlook, whatever you use. Only books during times you actually have free. We set all that up for you."
+      },
+      {
+        "id": "ai-chatbot-21",
+        "type": "faq_q",
+        "original": "What if it doesn't know an answer?"
+      },
+      {
+        "id": "ai-chatbot-22",
+        "type": "faq_a",
+        "original": "It tells them something like 'Let me get someone who knows more about that'—then immediately pings your team via email or text. You follow up and close the deal. Easy."
+      },
+      {
+        "id": "ai-chatbot-23",
+        "type": "jsx",
+        "original": "Ready to Capture More Leads?"
+      },
+      {
+        "id": "ai-chatbot-24",
+        "type": "jsx",
+        "original": "Give it a week. Seriously. If you don't see more qualified leads coming in, just walk away."
+      }
+    ]
+  },
+  "src/app/services/ai-voice/page.tsx": {
+    "page_id": "ai-voice",
+    "display_name": "AI Voice",
+    "blocks": [
+      {
+        "id": "ai-voice-01",
+        "type": "meta",
+        "original": "Never miss a call again. AI-powered phone answering that works 24/7."
+      },
+      {
+        "id": "ai-voice-02",
+        "type": "jsx",
+        "original": "Look, missed calls aren't just annoying—they're missed money. Honestly, if you aren't picking up on the first ring, your customers are just calling the next guy on Google. Our AI phone system handles everything 24/7 so you don't have to. It books appointments, answers questions, and basically runs your front desk while you're actually doing the work."
+      },
+      {
+        "id": "ai-voice-03",
+        "type": "jsx",
+        "original": "Here's the deal—most businesses miss about a third of their calls. That's a lot of cash left on the table. We make sure every single caller gets a real conversation and a chance to book, even if it's 2 AM on a Sunday."
+      },
+      {
+        "id": "ai-voice-04",
+        "type": "bullet",
+        "original": "First ring. Every time. No more voicemail, no more missed opportunities."
+      },
+      {
+        "id": "ai-voice-05",
+        "type": "bullet",
+        "original": "It chats with callers, figures out if they're a good fit, then books them automatically."
+      },
+      {
+        "id": "ai-voice-06",
+        "type": "bullet",
+        "original": "Something weird come up? It can send the call to your cell or take a message."
+      },
+      {
+        "id": "ai-voice-07",
+        "type": "bullet",
+        "original": "Keep your number. Seriously, you don't need to change anything."
+      },
+      {
+        "id": "ai-voice-08",
+        "type": "bullet",
+        "original": "We train it on your services in like an hour. No tech degree required."
+      },
+      {
+        "id": "ai-voice-09",
+        "type": "bullet",
+        "original": "Plugs into whatever calendar you use. No double-bookings, ever."
+      },
+      {
+        "id": "ai-voice-10",
+        "type": "jsx",
+        "original": "Starting at $497 setup + $249/mo"
+      },
+      {
+        "id": "ai-voice-11",
+        "type": "jsx",
+        "original": "Professional setup and ongoing 24/7 service."
+      },
+      {
+        "id": "ai-voice-12",
+        "type": "jsx",
+        "original": "Questions? We've Got Answers"
+      },
+      {
+        "id": "ai-voice-13",
+        "type": "faq_q",
+        "original": "How fast can I get this running?"
+      },
+      {
+        "id": "ai-voice-14",
+        "type": "faq_a",
+        "original": "Most folks are up and getting calls within a day or two. We just need to know what you do, when you're free, and how you want calls handled."
+      },
+      {
+        "id": "ai-voice-15",
+        "type": "faq_q",
+        "original": "What if it can't help someone?"
+      },
+      {
+        "id": "ai-voice-16",
+        "type": "faq_a",
+        "original": "You set the rules. It can grab their info, send them to your cell, or schedule a callback. Whatever works for you."
+      },
+      {
+        "id": "ai-voice-17",
+        "type": "faq_q",
+        "original": "Do I need a new phone number?"
+      },
+      {
+        "id": "ai-voice-18",
+        "type": "faq_a",
+        "original": "Nope. You keep your number. We just route calls through our system so they get answered. Simple."
+      },
+      {
+        "id": "ai-voice-19",
+        "type": "faq_q",
+        "original": "How do I know how many calls you handled?"
+      },
+      {
+        "id": "ai-voice-20",
+        "type": "faq_a",
+        "original": "Dashboard shows you everything—how many calls, how long they lasted, what happened. No guessing."
+      },
+      {
+        "id": "ai-voice-21",
+        "type": "jsx",
+        "original": "Stop Losing Calls to Voicemail"
+      },
+      {
+        "id": "ai-voice-22",
+        "type": "jsx",
+        "original": "Try it free for a week. See how many appointments you wake up to."
+      }
+    ]
+  },
+  "src/app/services/ad-copy/page.tsx": {
+    "page_id": "ad-copy",
+    "display_name": "Ad Copy",
+    "blocks": [
+      {
+        "id": "ad-copy-01",
+        "type": "meta",
+        "original": "Ad copy that grabs attention and gets clicks. Lower your costs and sell more."
+      },
+      {
+        "id": "ad-copy-02",
+        "type": "jsx",
+        "original": "High-Performance Ads Optimization"
+      },
+      {
+        "id": "ad-copy-03",
+        "type": "jsx",
+        "original": "Stop wasting money on ads people ignore. We write short, sharp headlines that grab attention and make people click. We test different versions every month to keep your costs low and your sales high."
+      },
+      {
+        "id": "ad-copy-04",
+        "type": "jsx",
+        "original": "Here's something that keeps us up at night: most businesses waste a massive chunk of their ad budget—sometimes 30-50%—on copy that totally misses the mark. That's crazy, right? So here's how we tackle things:"
+      },
+      {
+        "id": "ad-copy-05",
+        "type": "bullet",
+        "original": "We create 4-8 headline variations for each ad set and let the testing do its thing."
+      },
+      {
+        "id": "ad-copy-06",
+        "type": "bullet",
+        "original": "We do calls-to-action that actually make people click—not those boring 'Learn More' buttons we all scroll right past."
+      },
+      {
+        "id": "ad-copy-07",
+        "type": "bullet",
+        "original": "Google, Meta, LinkedIn—we know what works on each platform."
+      },
+      {
+        "id": "ad-copy-08",
+        "type": "bullet",
+        "original": "Different messages for different audiences because, let's be honest, a homeowner thinks way differently than a contractor."
+      },
+      {
+        "id": "ad-copy-09",
+        "type": "bullet",
+        "original": "Oh, and most folks completely overlook extra details that make your ad stand out and actually make a real difference."
+      },
+      {
+        "id": "ad-copy-10",
+        "type": "bullet",
+        "original": "We do weekly updates to improve results based on real data, not guesses. It's really not that complicated when you break it down."
+      },
+      {
+        "id": "ad-copy-11",
+        "type": "jsx",
+        "original": "Starting at $299 setup + $199/mo"
+      },
+      {
+        "id": "ad-copy-12",
+        "type": "jsx",
+        "original": "Unlimited copy revisions included."
+      },
+      {
+        "id": "ad-copy-13",
+        "type": "faq_q",
+        "original": "Which platforms do you handle?"
+      },
+      {
+        "id": "ad-copy-14",
+        "type": "faq_a",
+        "original": "Google Ads, Meta (that's Facebook and Instagram), LinkedIn Ads, and Microsoft Ads. Each one's got its own quirks and best practices—so what works on LinkedIn won't necessarily fly on Instagram, you know?"
+      },
+      {
+        "id": "ad-copy-15",
+        "type": "faq_q",
+        "original": "How many variations do you actually write?"
+      },
+      {
+        "id": "ad-copy-16",
+        "type": "faq_a",
+        "original": "Usually somewhere between 4-8 per ad set. It's enough to test things out without drowning in a million options."
+      },
+      {
+        "id": "ad-copy-17",
+        "type": "faq_q",
+        "original": "What if I already have ads running?"
+      },
+      {
+        "id": "ad-copy-18",
+        "type": "faq_a",
+        "original": "No worries. We'll take a hard look at what's not working and come up with some fresh alternatives. Sometimes the fix is dead simple—just a tweak here and there. Other times? Yeah, we probably need to start from scratch."
+      },
+      {
+        "id": "ad-copy-19",
+        "type": "faq_q",
+        "original": "How do you know if it's working?"
+      },
+      {
+        "id": "ad-copy-20",
+        "type": "faq_a",
+        "original": "We track clicks, conversions, and cost per lead. If the numbers go up and costs go down, it's working. We don't chase vanity metrics."
+      },
+      {
+        "id": "ad-copy-21",
+        "type": "jsx",
+        "original": "Ready to Stop Burning Ad Budget?"
+      },
+      {
+        "id": "ad-copy-22",
+        "type": "jsx",
+        "original": "A dentist we work with cut their cost per lead by 40% in one month. Better copy. Less waste."
+      }
+    ]
+  },
+  "src/app/services/email-automation/page.tsx": {
+    "page_id": "email-automation",
+    "display_name": "Email Automation",
+    "blocks": [
+      {
+        "id": "email-automation-01",
+        "type": "meta",
+        "original": "Turn subscribers into customers with smart email sequences that actually get read."
+      },
+      {
+        "id": "email-automation-02",
+        "type": "jsx",
+        "original": "Look, most automated emails are boring and go straight to spam. We don't do that. We build sequences that actually sound like a human wrote them, so you can turn subscribers into customers without sounding like a robot."
+      },
+      {
+        "id": "email-automation-03",
+        "type": "jsx",
+        "original": "Most Clients See Results in About a Week"
+      },
+      {
+        "id": "email-automation-04",
+        "type": "jsx",
+        "original": "Honestly, the goal is to make your emails feel like a one-on-one conversation. We've done this for HVAC, law firms, you name it. Here's how we help you win:"
+      },
+      {
+        "id": "email-automation-05",
+        "type": "bullet",
+        "original": "A welcome series that actually feels personal—like a real person sat down to write it."
+      },
+      {
+        "id": "email-automation-06",
+        "type": "bullet",
+        "original": "Cart recovery emails that bring people back (honestly, we usually see 15-30% recovery rates)."
+      },
+      {
+        "id": "email-automation-07",
+        "type": "bullet",
+        "original": "Follow-ups that don't feel spammy or annoying."
+      },
+      {
+        "id": "email-automation-08",
+        "type": "bullet",
+        "original": "Campaigns to wake up those quiet subscribers who haven't opened anything in months."
+      },
+      {
+        "id": "email-automation-09",
+        "type": "bullet",
+        "original": "Smart triggers based on what people actually *do* on your site."
+      },
+      {
+        "id": "email-automation-10",
+        "type": "bullet",
+        "original": "We test everything. We don't just guess and hope."
+      },
+      {
+        "id": "email-automation-11",
+        "type": "jsx",
+        "original": "Starting at $199 setup + $49/mo"
+      },
+      {
+        "id": "email-automation-12",
+        "type": "jsx",
+        "original": "Custom sequence build and monthly optimization."
+      },
+      {
+        "id": "email-automation-13",
+        "type": "jsx",
+        "original": "First 2,500 subscribers included"
+      },
+      {
+        "id": "email-automation-14",
+        "type": "faq_q",
+        "original": "How long does this take?"
+      },
+      {
+        "id": "email-automation-15",
+        "type": "faq_a",
+        "original": "Give us about a week. We need a few days to really get your voice down, set up the tech, and test it all. Rushing just leads to mistakes."
+      },
+      {
+        "id": "email-automation-16",
+        "type": "faq_q",
+        "original": "What platforms do you work with?"
+      },
+      {
+        "id": "email-automation-17",
+        "type": "faq_a",
+        "original": "Pretty much all of them—Mailchimp, ConvertKit, Klaviyo, ActiveCampaign. If you're on something weird, we'll figure it out."
+      },
+      {
+        "id": "email-automation-18",
+        "type": "faq_q",
+        "original": "Can I write my own copy?"
+      },
+      {
+        "id": "email-automation-19",
+        "type": "faq_a",
+        "original": "Absolutely. It's your business. We can write it, you can write it, or we can mix and match. Whatever works best for you."
+      },
+      {
+        "id": "email-automation-20",
+        "type": "faq_q",
+        "original": "What about spam filters?"
+      },
+      {
+        "id": "email-automation-21",
+        "type": "faq_a",
+        "original": "We set up all the technical stuff—DKIM, SPF, list cleaning—so your emails actually land in inboxes. Most clients see 95%+ deliverability."
+      },
+      {
+        "id": "email-automation-22",
+        "type": "jsx",
+        "original": "Tired of Chasing Leads Manually?"
+      },
+      {
+        "id": "email-automation-23",
+        "type": "jsx",
+        "original": "One of our clients put it best: \"I used to spend 3 hours a day on follow-ups. Now it all happens while I sleep.\""
+      },
+      {
+        "id": "email-automation-24",
+        "type": "jsx",
+        "original": "Let us Build Your Sequence"
+      }
+    ]
+  },
+  "src/app/services/google-business/page.tsx": {
+    "page_id": "google-business",
+    "display_name": "Google Business",
+    "blocks": [
+      {
+        "id": "google-business-01",
+        "type": "meta",
+        "original": "Dominate local search. Show up when nearby customers are looking for you."
+      },
+      {
+        "id": "google-business-02",
+        "type": "jsx",
+        "original": "Look, if you aren't in the top 3 of Google's map pack, you're basically invisible. Honestly, most profiles are a mess. We fix yours up so local customers actually find you and call you."
+      },
+      {
+        "id": "google-business-03",
+        "type": "jsx",
+        "original": "Get Found by Local Customers"
+      },
+      {
+        "id": "google-business-04",
+        "type": "jsx",
+        "original": "Honestly, most Google Business profiles are half-baked. That's just money you're leaving for your competitors. We optimize every inch of your profile so you dominate the local search results."
+      },
+      {
+        "id": "google-business-05",
+        "type": "bullet",
+        "original": "We dig into what people actually type when looking for businesses like yours."
+      },
+      {
+        "id": "google-business-06",
+        "type": "bullet",
+        "original": "Your photos get fixed up—no more blurry pics from 2015."
+      },
+      {
+        "id": "google-business-07",
+        "type": "bullet",
+        "original": "We make sure your categories are right so Google knows what you do."
+      },
+      {
+        "id": "google-business-08",
+        "type": "bullet",
+        "original": "Q&A section gets populated with answers to common questions."
+      },
+      {
+        "id": "google-business-09",
+        "type": "bullet",
+        "original": "Every review gets a response. Good ones get thanked, bad ones get handled."
+      },
+      {
+        "id": "google-business-10",
+        "type": "bullet",
+        "original": "You see exactly how many calls and clicks you're getting. Real numbers."
+      },
+      {
+        "id": "google-business-11",
+        "type": "jsx",
+        "original": "Full optimization and 30 days of ranking tweaks."
+      },
+      {
+        "id": "google-business-12",
+        "type": "faq_q",
+        "original": "How long until I show up in searches?"
+      },
+      {
+        "id": "google-business-13",
+        "type": "faq_a",
+        "original": "Most businesses start seeing movement in 3-7 days. The real growth happens when you hit that map pack—usually within a month."
+      },
+      {
+        "id": "google-business-14",
+        "type": "faq_q",
+        "original": "Do I need to give you new photos?"
+      },
+      {
+        "id": "google-business-15",
+        "type": "faq_a",
+        "original": "Not necessarily. We use what you have and tell you what would help. If you've got decent pics already, we work with those."
+      },
+      {
+        "id": "google-business-16",
+        "type": "faq_q",
+        "original": "What if my profile already exists?"
+      },
+      {
+        "id": "google-business-17",
+        "type": "faq_a",
+        "original": "That's perfect, actually. Most profiles we see are like 60% done. We take them to 100% and optimize what's there."
+      },
+      {
+        "id": "google-business-18",
+        "type": "faq_q",
+        "original": "Is this a monthly thing?"
+      },
+      {
+        "id": "google-business-19",
+        "type": "faq_a",
+        "original": "Nope, one-time fix. We set it up, optimize it, and you're good. If you want us to manage it ongoing, we can talk about that, but no pressure."
+      },
+      {
+        "id": "google-business-20",
+        "type": "jsx",
+        "original": "Get found by customers in your neighborhood. Start today."
+      }
+    ]
+  },
+  "src/app/services/landing-pages/page.tsx": {
+    "page_id": "landing-pages",
+    "display_name": "Landing Pages",
+    "blocks": [
+      {
+        "id": "landing-pages-01",
+        "type": "meta",
+        "original": "Pages built to turn visitors into customers. Clean, fast, and easy to use."
+      },
+      {
+        "id": "landing-pages-02",
+        "type": "jsx",
+        "original": "A single page built to turn visitors into leads. We write the words, design the layout, and make sure the \"Buy\" button works every time. You get a clean site that loads fast and actually makes you money."
+      },
+      {
+        "id": "landing-pages-03",
+        "type": "jsx",
+        "original": "Here's the honest difference between a pretty page and one that makes money:"
+      },
+      {
+        "id": "landing-pages-04",
+        "type": "bullet",
+        "original": "It looks perfect on mobile—let's be real, that's where 70% of your traffic comes from."
+      },
+      {
+        "id": "landing-pages-05",
+        "type": "bullet",
+        "original": "It loads fast, like under 3 seconds. Any slower, and people bounce."
+      },
+      {
+        "id": "landing-pages-06",
+        "type": "bullet",
+        "original": "Headlines that actually make you stop scrolling."
+      },
+      {
+        "id": "landing-pages-07",
+        "type": "bullet",
+        "original": "We mix in your best reviews and logos so trust is built instantly—people buy from people they trust, right?"
+      },
+      {
+        "id": "landing-pages-08",
+        "type": "bullet",
+        "original": "Big, clear buttons. We don't hide checkout."
+      },
+      {
+        "id": "landing-pages-09",
+        "type": "bullet",
+        "original": "We set up tracking that actually works so you know what's bringing in money."
+      },
+      {
+        "id": "landing-pages-10",
+        "type": "jsx",
+        "original": "Two rounds of revisions included."
+      },
+      {
+        "id": "landing-pages-11",
+        "type": "jsx",
+        "original": "Some Things You Might Wonder"
+      },
+      {
+        "id": "landing-pages-12",
+        "type": "faq_q",
+        "original": "Where do the pages actually live?"
+      },
+      {
+        "id": "landing-pages-13",
+        "type": "faq_a",
+        "original": "We can host it on your site, or set up something new. Whatever works with your tech stack."
+      },
+      {
+        "id": "landing-pages-14",
+        "type": "faq_q",
+        "original": "Can you connect to my CRM?"
+      },
+      {
+        "id": "landing-pages-15",
+        "type": "faq_a",
+        "original": "Yep. It pipes leads straight into HubSpot, Salesforce, Mailchimp—whatever you're using. No headaches."
+      },
+      {
+        "id": "landing-pages-16",
+        "type": "faq_q",
+        "original": "What if I want changes down the road?"
+      },
+      {
+        "id": "landing-pages-17",
+        "type": "faq_a",
+        "original": "First 30 days of tweaks are on us. After that, we're here if you need us. Fair enough?"
+      },
+      {
+        "id": "landing-pages-18",
+        "type": "faq_q",
+        "original": "How many conversions should I expect?"
+      },
+      {
+        "id": "landing-pages-19",
+        "type": "faq_a",
+        "original": "Honestly? It depends on your offer and traffic. We build the engine, but you gotta put gas in it."
+      },
+      {
+        "id": "landing-pages-20",
+        "type": "jsx",
+        "original": "That Landing Page You've Been Putting Off"
+      },
+      {
+        "id": "landing-pages-21",
+        "type": "jsx",
+        "original": "A client in e-commerce told us their landing page generated $47,000 in its first month. Seriously, they'd been \"meaning to get around to it\" for two years."
+      }
+    ]
+  },
+  "src/app/services/lead-funnel/page.tsx": {
+    "page_id": "lead-funnel",
+    "display_name": "Lead Funnel",
+    "blocks": [
+      {
+        "id": "lead-funnel-01",
+        "type": "meta",
+        "original": "Turn visitors into customers 24/7. AI-powered lead capture across website, Facebook, and LinkedIn."
+      },
+      {
+        "id": "lead-funnel-02",
+        "type": "jsx",
+        "original": "Most lead funnels are broken. They either ask for too much info too soon, or they just drop leads into a black hole. We build funnels that actually convert strangers into booked appointments."
+      },
+      {
+        "id": "lead-funnel-03",
+        "type": "jsx",
+        "original": "Why AI Assisted Leadgen Works Better"
+      },
+      {
+        "id": "lead-funnel-04",
+        "type": "jsx",
+        "original": "We build funnels that actually work—you know, the kind that turn strangers into booked appointments on your calendar. Here's how we roll:"
+      },
+      {
+        "id": "lead-funnel-05",
+        "type": "bullet",
+        "original": "We start by creating something your ideal customers actually want—maybe it's a checklist, a guide, or a calculator. Something they can't resist downloading."
+      },
+      {
+        "id": "lead-funnel-06",
+        "type": "bullet",
+        "original": "Then we build you a landing page that actually converts. We're talking 20% or better. Most agencies get excited about 5%—we shoot way higher."
+      },
+      {
+        "id": "lead-funnel-07",
+        "type": "bullet",
+        "original": "Next, we set up email sequences that don't feel robotic. These emails warm up your leads automatically until they're ready to talk."
+      },
+      {
+        "id": "lead-funnel-08",
+        "type": "bullet",
+        "original": "We connect everything to your calendar so qualified prospects can book time with you directly—no back-and-forth email chains."
+      },
+      {
+        "id": "lead-funnel-09",
+        "type": "bullet",
+        "original": "And yeah, we track all of it. You'll know exactly which pieces are working and which ones we need to tweak."
+      },
+      {
+        "id": "lead-funnel-10",
+        "type": "jsx",
+        "original": "Complete lead generation system"
+      },
+      {
+        "id": "lead-funnel-11",
+        "type": "jsx",
+        "original": "Simple, transparent pricing. We build the system, keep it running, and ensure your leads keep flowing."
+      },
+      {
+        "id": "lead-funnel-12",
+        "type": "jsx",
+        "original": "Typical clients see their first qualified lead within 7 days."
+      },
+      {
+        "id": "lead-funnel-13",
+        "type": "jsx",
+        "original": "Three Channels, One System"
+      },
+      {
+        "id": "lead-funnel-14",
+        "type": "jsx",
+        "original": "Most businesses ignore at least one of these channels. We connect all three so you never miss a lead, no matter where they find you."
+      },
+      {
+        "id": "lead-funnel-15",
+        "type": "data",
+        "original": "Pops up at the right moment. Asks qualifying questions. Books appointments. Works 24/7."
+      },
+      {
+        "id": "lead-funnel-16",
+        "type": "data",
+        "original": "1.3 billion people use Messenger every month. We catch them on a platform they already trust."
+      },
+      {
+        "id": "lead-funnel-17",
+        "type": "data",
+        "original": "Finds prospects who match your criteria. Engages with their content. Starts conversations that convert."
+      },
+      {
+        "id": "lead-funnel-18",
+        "type": "faq_q",
+        "original": "How is this different from the chatbot I already have?"
+      },
+      {
+        "id": "lead-funnel-19",
+        "type": "faq_a",
+        "original": "Look, most chatbots just answer basic questions and stop there. Ours actually sells. It figures out if someone's a good fit, gets their contact info, and books them on your calendar—all automatically. One of our clients said their old bot felt like talking to a vending machine. Ours? Like having their best sales rep pulling night shifts."
+      },
+      {
+        "id": "lead-funnel-20",
+        "type": "faq_q",
+        "original": "What happens if I already use a CRM?"
+      },
+      {
+        "id": "lead-funnel-21",
+        "type": "faq_a",
+        "original": "Good question—we plug into pretty much everything. HubSpot, Salesforce, Pipedrive, Zoho, you name it. Every chat, every detail, drops right into your existing setup. Your team sees the full conversation so leads never have to repeat themselves."
+      },
+      {
+        "id": "lead-funnel-22",
+        "type": "faq_q",
+        "original": "Facebook Messenger sounds complicated. Is it?"
+      },
+      {
+        "id": "lead-funnel-23",
+        "type": "faq_a",
+        "original": "Not at all—that's our job. Here's what actually happens: someone DMs your Facebook page at 3am. Your bot replies instantly (yes, instantly), asks a few quick questions to qualify them, and if they're a fit, offers to book a call. They pick a time from your calendar, done. You wake up to a booked meeting. Pretty sweet."
+      },
+      {
+        "id": "lead-funnel-24",
+        "type": "faq_q",
+        "original": "I have tried LinkedIn automation before and it felt spammy."
+      },
+      {
+        "id": "lead-funnel-25",
+        "type": "faq_a",
+        "original": "Yeah, we get that. Those tools spamming everyone with the same generic message? Total garbage—and they ruin LinkedIn for everyone. We do it differently. We find people who actually fit your ideal profile, engage with their posts like real humans (actual thoughtful comments, not just 'great post!'), and start real conversations. Think warm intros, not cold spam."
+      },
+      {
+        "id": "lead-funnel-26",
+        "type": "faq_q",
+        "original": "How long until I see results?"
+      },
+      {
+        "id": "lead-funnel-27",
+        "type": "faq_a",
+        "original": "Depends on your traffic, honestly. Most folks see their first solid lead within the first week though. The cool part? The system learns what works best for your specific business and gets better over time. By week three or four, you'll usually have a steady flow coming in without lifting a finger."
+      },
+      {
+        "id": "lead-funnel-28",
+        "type": "faq_q",
+        "original": "What if I need changes after launch?"
+      },
+      {
+        "id": "lead-funnel-29",
+        "type": "faq_a",
+        "original": "First 30 days? Totally free for whatever tweaks you need. After that, we bill hourly at reasonable rates. We're not those guys who vanish after launch—if you need something changed, you get it. Truth is, most clients stay because this stuff actually works, not because they're stuck in some contract."
+      },
+      {
+        "id": "lead-funnel-30",
+        "type": "jsx",
+        "original": "The Number One Reason Leads Get Lost"
+      },
+      {
+        "id": "lead-funnel-31",
+        "type": "jsx",
+        "original": "Response time. A lead that doesn't get a reply within 5 minutes is 10x less likely to convert. That's just how people work—they move on, forget, find a competitor."
+      },
+      {
+        "id": "lead-funnel-32",
+        "type": "jsx",
+        "original": "One gym owner we worked with put it simply: \"I used to lose 5 to 10 leads a week because I couldn't respond fast enough. Now I wake up to appointments already booked on my calendar.\""
+      },
+      {
+        "id": "lead-funnel-33",
+        "type": "jsx",
+        "original": "Takes 15 minutes. No pressure. We'll just talk about what you need."
+      }
+    ]
+  },
+  "src/app/services/review-response/page.tsx": {
+    "page_id": "review-response",
+    "display_name": "Review Response",
+    "blocks": [
+      {
+        "id": "review-response-01",
+        "type": "meta",
+        "original": "We handle your customer reviews for you. Thoughtful, personal replies to every person."
+      },
+      {
+        "id": "review-response-02",
+        "type": "jsx",
+        "original": "We handle your customer feedback so you don't have to. Every review gets a thoughtful, personal reply within 24 hours. It shows people you care and helps your business show up higher in local searches."
+      },
+      {
+        "id": "review-response-03",
+        "type": "jsx",
+        "original": "Here's how we keep your reputation spotless while you sleep:"
+      },
+      {
+        "id": "review-response-04",
+        "type": "bullet",
+        "original": "It thanks customers for positive feedback in a way that feels real and authentic."
+      },
+      {
+        "id": "review-response-05",
+        "type": "bullet",
+        "original": "It handles the haters professionally—defusing the situation so you don't have to stress about it."
+      },
+      {
+        "id": "review-response-06",
+        "type": "bullet",
+        "original": "We teach it to sound like you, not a corporate press release."
+      },
+      {
+        "id": "review-response-07",
+        "type": "bullet",
+        "original": "Google, Yelp, Facebook—if someone's talking about you online, we catch it."
+      },
+      {
+        "id": "review-response-08",
+        "type": "bullet",
+        "original": "If things get heated, it pings you instantly so you can step in."
+      },
+      {
+        "id": "review-response-09",
+        "type": "bullet",
+        "original": "It responds in minutes, not 'whenever I get around to it'."
+      },
+      {
+        "id": "review-response-10",
+        "type": "jsx",
+        "original": "Unlimited responses included. No per-review fees."
+      },
+      {
+        "id": "review-response-11",
+        "type": "faq_q",
+        "original": "Can I customize the responses?"
+      },
+      {
+        "id": "review-response-12",
+        "type": "faq_a",
+        "original": "Totally. You can tweak the voice, approve templates, or just let it run. It's your reputation, you're in charge."
+      },
+      {
+        "id": "review-response-13",
+        "type": "faq_q",
+        "original": "What platforms do you monitor?"
+      },
+      {
+        "id": "review-response-14",
+        "type": "faq_a",
+        "original": "Pretty much everywhere people complain or compliment. Google, Yelp, TripAdvisor—we got 'em covered."
+      },
+      {
+        "id": "review-response-15",
+        "type": "faq_q",
+        "original": "What about angry customers?"
+      },
+      {
+        "id": "review-response-16",
+        "type": "faq_a",
+        "original": "We don't let the AI freelance on angry rants. Those get flagged straight to you unless you tell us otherwise."
+      },
+      {
+        "id": "review-response-17",
+        "type": "faq_q",
+        "original": "Does it sound robotic?"
+      },
+      {
+        "id": "review-response-18",
+        "type": "faq_a",
+        "original": "Not a chance. We specifically train it to avoid that 'Thank you valued customer' vibe. It sounds like a human being."
+      },
+      {
+        "id": "review-response-19",
+        "type": "jsx",
+        "original": "Respond to every review. Show customers you care. Start today."
+      }
+    ]
+  },
+  "src/app/services/seo-content/page.tsx": {
+    "page_id": "seo-content",
+    "display_name": "SEO Content",
+    "blocks": [
+      {
+        "id": "seo-content-01",
+        "type": "meta",
+        "original": "Helpful articles that real people want to read. Get more traffic without the fluff."
+      },
+      {
+        "id": "seo-content-02",
+        "type": "jsx",
+        "original": "Articles that real people want to read. We find the questions your customers are asking and answer them clearly. No fluff or keyword stuffing—just helpful info that brings steady traffic to your site."
+      },
+      {
+        "id": "seo-content-03",
+        "type": "jsx",
+        "original": "Ever wonder why some content gets high traffic while other pages remain invisible? We create content that search engines favor and your audience actually wants to read. Here is how we make that happen:"
+      },
+      {
+        "id": "seo-content-04",
+        "type": "bullet",
+        "original": "Around 2,000 words of genuinely useful content that actually answers what searchers are looking for. No filler."
+      },
+      {
+        "id": "seo-content-05",
+        "type": "bullet",
+        "original": "We don't guess at keywords. We dig into ones with real search volume—actual opportunities, not made-up nonsense."
+      },
+      {
+        "id": "seo-content-06",
+        "type": "bullet",
+        "original": "Links that connect your pages together in a way that actually makes sense."
+      },
+      {
+        "id": "seo-content-07",
+        "type": "bullet",
+        "original": "The text people see when searching on Google that makes them stop scrolling and click."
+      },
+      {
+        "id": "seo-content-08",
+        "type": "bullet",
+        "original": "Headers that sound natural to readers while playing nice with search engines at the same time."
+      },
+      {
+        "id": "seo-content-09",
+        "type": "bullet",
+        "original": "And honestly? The best part is that it's ready to drop right into WordPress, Wix, Squarespace—whatever platform you're using."
+      },
+      {
+        "id": "seo-content-10",
+        "type": "jsx",
+        "original": "Or $499/mo for 4 articles delivered monthly."
+      },
+      {
+        "id": "seo-content-11",
+        "type": "faq_q",
+        "original": "How do you pick what to write about?"
+      },
+      {
+        "id": "seo-content-12",
+        "type": "faq_a",
+        "original": "Honestly, we dig into what your competitors are ranking for, check out what questions your customers are asking, and find out what search terms actually get traffic. We run everything by you before we start writing—no surprises."
+      },
+      {
+        "id": "seo-content-13",
+        "type": "faq_q",
+        "original": "Do you guarantee first page rankings?"
+      },
+      {
+        "id": "seo-content-14",
+        "type": "faq_a",
+        "original": "Look, no honest person can promise that. Here's what we can guarantee: well-written, properly optimized content. Rankings depend on so many factors though—competition, domain authority, how old your site is, you name it."
+      },
+      {
+        "id": "seo-content-15",
+        "type": "faq_q",
+        "original": "Can you publish directly to my site?"
+      },
+      {
+        "id": "seo-content-16",
+        "type": "faq_a",
+        "original": "Absolutely. WordPress, Wix, Squarespace—we can log in and handle it, or just give you the content to upload yourself. Whatever's easier for you."
+      },
+      {
+        "id": "seo-content-17",
+        "type": "faq_q",
+        "original": "What kind of articles work best?"
+      },
+      {
+        "id": "seo-content-18",
+        "type": "faq_a",
+        "original": "How-to guides, industry explainers, comparisons, and answers to frequently asked questions. Basically, the information your audience is actually searching for."
+      },
+      {
+        "id": "seo-content-19",
+        "type": "jsx",
+        "original": "Organic Traffic That Actually Converts"
+      },
+      {
+        "id": "seo-content-20",
+        "type": "jsx",
+        "original": "A client in the home services space went from 300 monthly visitors to 3,000 in 4 months. The right content, optimized the right way."
+      }
+    ]
+  },
+  "src/app/services/social-media/page.tsx": {
+    "page_id": "social-media",
+    "display_name": "Social Media",
+    "blocks": [
+      {
+        "id": "social-media-01",
+        "type": "meta",
+        "original": "Stay active online without spending all day on your phone. Real posts for real people."
+      },
+      {
+        "id": "social-media-02",
+        "type": "jsx",
+        "original": "Consistent Social Presence"
+      },
+      {
+        "id": "social-media-03",
+        "type": "jsx",
+        "original": "Stay active online without spending all day on your phone. We post three times a week with real photos and captions that start conversations. It keeps your brand top-of-mind and builds a loyal following."
+      },
+      {
+        "id": "social-media-04",
+        "type": "jsx",
+        "original": "We get it. You want results without living on your phone. So here's what we do for you:"
+      },
+      {
+        "id": "social-media-05",
+        "type": "bullet",
+        "original": "20 posts a month that actually sound like you. None of that stiff corporate nonsense."
+      },
+      {
+        "id": "social-media-06",
+        "type": "bullet",
+        "original": "We handle LinkedIn, Facebook, Instagram, and X. All of them."
+      },
+      {
+        "id": "social-media-07",
+        "type": "bullet",
+        "original": "Custom graphics—and yes, no more cringe stock photos of people shaking hands in meeting rooms."
+      },
+      {
+        "id": "social-media-08",
+        "type": "bullet",
+        "original": "Hashtags that are actually chosen to help people find you, not just random words thrown together."
+      },
+      {
+        "id": "social-media-09",
+        "type": "bullet",
+        "original": "We also jump into the comments, reply to people, and build a real community around your brand."
+      },
+      {
+        "id": "social-media-10",
+        "type": "bullet",
+        "original": "At the end of each month, you get a report that breaks down what's working. Just the data that actually matters."
+      },
+      {
+        "id": "social-media-11",
+        "type": "jsx",
+        "original": "Content calendar and scheduling included."
+      },
+      {
+        "id": "social-media-12",
+        "type": "jsx",
+        "original": "What You Might Be Wondering"
+      },
+      {
+        "id": "social-media-13",
+        "type": "faq_q",
+        "original": "So, which platforms should you actually be on?"
+      },
+      {
+        "id": "social-media-14",
+        "type": "faq_a",
+        "original": "Honestly, it depends on what you do. A local restaurant? Yeah, you're way better off on Instagram and Google Business than LinkedIn—that's just common sense, right? We help you zero in on where your customers actually spend their time."
+      },
+      {
+        "id": "social-media-15",
+        "type": "faq_q",
+        "original": "Do I get to see posts before they go live?"
+      },
+      {
+        "id": "social-media-16",
+        "type": "faq_a",
+        "original": "Absolutely. You'll get a content calendar every month. Review it, give it the thumbs up, tell us what needs changing—we're not hitting publish without your say-so, promise."
+      },
+      {
+        "id": "social-media-17",
+        "type": "faq_q",
+        "original": "Can you post from my account?"
+      },
+      {
+        "id": "social-media-18",
+        "type": "faq_a",
+        "original": "Yeah, we can if you want to hand over access. Or we can just send you the content and you post it yourself. Honestly, whatever you're comfortable with—no pressure here at all."
+      },
+      {
+        "id": "social-media-19",
+        "type": "faq_q",
+        "original": "What if I need changes to the content?"
+      },
+      {
+        "id": "social-media-20",
+        "type": "faq_a",
+        "original": "No worries, we'll tweak it. Sometimes it takes a round or two to really nail your voice, so we'll keep working with you until it actually feels like your brand."
+      },
+      {
+        "id": "social-media-21",
+        "type": "jsx",
+        "original": "Your Competitors Are Posting. Are You?"
+      },
+      {
+        "id": "social-media-22",
+        "type": "jsx",
+        "original": "One restaurant client told us: \"I kept meaning to post. Then I never did. Now my Instagram actually looks alive.\""
+      }
+    ]
+  }
+}

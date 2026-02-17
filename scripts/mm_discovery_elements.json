@@ -1,0 +1,1718 @@
+[
+  {
+    "tag": "DIV",
+    "text": "Start Page",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA FeDhT",
+    "rect": {
+      "x": 20,
+      "y": 123,
+      "width": 220,
+      "height": 40,
+      "top": 123,
+      "right": 240,
+      "bottom": 163,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Start Page"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--start--wrapper"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA FeDhT"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "All\n219",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd",
+    "rect": {
+      "x": 20,
+      "y": 228,
+      "width": 220,
+      "height": 40,
+      "top": 228,
+      "right": 240,
+      "bottom": 268,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "All"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--inventory--page-topics--wrapper"
+      },
+      {
+        "name": "color",
+        "value": "grey35"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "",
+    "id": "_pendo-badge_WGsgMf5Wk-ShoauqbzV7snrCo1U",
+    "classes": "_pendo-badge _pendo-badge_",
+    "rect": {
+      "x": 92,
+      "y": 234.5,
+      "width": 27,
+      "height": 27,
+      "top": 234.5,
+      "right": 119,
+      "bottom": 261.5,
+      "left": 92
+    },
+    "attributes": [
+      {
+        "name": "type",
+        "value": "button"
+      },
+      {
+        "name": "id",
+        "value": "_pendo-badge_WGsgMf5Wk-ShoauqbzV7snrCo1U"
+      },
+      {
+        "name": "data-layout",
+        "value": "badgeBlank"
+      },
+      {
+        "name": "class",
+        "value": "_pendo-badge _pendo-badge_"
+      },
+      {
+        "name": "style",
+        "value": "z-index: 19000; margin: 0px 0px 0px 16px; height: 27px; width: 27px; font-size: 0px; background: rgba(255, 255, 255, 0); padding: 0px; line-height: 1; box-shadow: rgb(136, 136, 136) 0px 0px 0px 0px; border: 0px; float: none; vertical-align: text-bottom; cursor: pointer; display: inline-block; visibility: hidden;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Pages\n100",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd",
+    "rect": {
+      "x": 20,
+      "y": 268,
+      "width": 220,
+      "height": 40,
+      "top": 268,
+      "right": 240,
+      "bottom": 308,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Pages"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--inventory--pages--wrapper"
+      },
+      {
+        "name": "color",
+        "value": "grey35"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Topics\n220",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd",
+    "rect": {
+      "x": 20,
+      "y": 308,
+      "width": 220,
+      "height": 40,
+      "top": 308,
+      "right": 240,
+      "bottom": 348,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Topics"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--inventory--topics--wrapper"
+      },
+      {
+        "name": "color",
+        "value": "grey35"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Documents",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd",
+    "rect": {
+      "x": 20,
+      "y": 375,
+      "width": 220,
+      "height": 40,
+      "top": 375,
+      "right": 240,
+      "bottom": 415,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Documents"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--documents-site--wrapper"
+      },
+      {
+        "name": "color",
+        "value": "grey35"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "",
+    "id": "_pendo-badge_Kb1aYYL654cB6DxOe74PdjG1R1U",
+    "classes": "_pendo-badge _pendo-badge_",
+    "rect": {
+      "x": 160,
+      "y": 381.5,
+      "width": 27,
+      "height": 27,
+      "top": 381.5,
+      "right": 187,
+      "bottom": 408.5,
+      "left": 160
+    },
+    "attributes": [
+      {
+        "name": "type",
+        "value": "button"
+      },
+      {
+        "name": "id",
+        "value": "_pendo-badge_Kb1aYYL654cB6DxOe74PdjG1R1U"
+      },
+      {
+        "name": "data-layout",
+        "value": "badgeBlank"
+      },
+      {
+        "name": "class",
+        "value": "_pendo-badge _pendo-badge_"
+      },
+      {
+        "name": "style",
+        "value": "z-index: 19000; margin: 0px 0px 0px 16px; height: 27px; width: 27px; font-size: 0px; background: rgba(255, 255, 255, 0); padding: 0px; line-height: 1; box-shadow: rgb(136, 136, 136) 0px 0px 0px 0px; border: 0px; float: none; vertical-align: text-bottom; cursor: pointer; display: inline-block; visibility: hidden;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Tags",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd",
+    "rect": {
+      "x": 20,
+      "y": 415,
+      "width": 220,
+      "height": 40,
+      "top": 415,
+      "right": 240,
+      "bottom": 455,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Tags"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--tags--wrapper"
+      },
+      {
+        "name": "color",
+        "value": "grey35"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Research",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA euZbKR",
+    "rect": {
+      "x": 20,
+      "y": 520,
+      "width": 220,
+      "height": 40,
+      "top": 520,
+      "right": 240,
+      "bottom": 560,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Research"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--apps--research--wrapper"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA euZbKR"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "",
+    "id": "_pendo-badge_VUVrNxo7GImZI7QwCJuCccoOvcA",
+    "classes": "_pendo-badge _pendo-badge_",
+    "rect": {
+      "x": 144,
+      "y": 526.5,
+      "width": 27,
+      "height": 27,
+      "top": 526.5,
+      "right": 171,
+      "bottom": 553.5,
+      "left": 144
+    },
+    "attributes": [
+      {
+        "name": "type",
+        "value": "button"
+      },
+      {
+        "name": "id",
+        "value": "_pendo-badge_VUVrNxo7GImZI7QwCJuCccoOvcA"
+      },
+      {
+        "name": "data-layout",
+        "value": "badgeBlank"
+      },
+      {
+        "name": "class",
+        "value": "_pendo-badge _pendo-badge_"
+      },
+      {
+        "name": "style",
+        "value": "z-index: 19000; margin: 0px 0px 0px 16px; height: 27px; width: 27px; font-size: 0px; background: rgba(255, 255, 255, 0); padding: 0px; line-height: 1; box-shadow: rgb(136, 136, 136) 0px 0px 0px 0px; border: 0px; float: none; vertical-align: text-bottom; cursor: pointer; display: inline-block; visibility: hidden;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Optimize",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA euZbKR",
+    "rect": {
+      "x": 20,
+      "y": 560,
+      "width": 220,
+      "height": 40,
+      "top": 560,
+      "right": 240,
+      "bottom": 600,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Optimize"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--apps--optimize--wrapper"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA euZbKR"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "",
+    "id": "_pendo-badge_7NnbECOoLWrBfG7EvdPwUhQAglg",
+    "classes": "_pendo-badge _pendo-badge_",
+    "rect": {
+      "x": 140,
+      "y": 566.5,
+      "width": 27,
+      "height": 27,
+      "top": 566.5,
+      "right": 167,
+      "bottom": 593.5,
+      "left": 140
+    },
+    "attributes": [
+      {
+        "name": "type",
+        "value": "button"
+      },
+      {
+        "name": "id",
+        "value": "_pendo-badge_7NnbECOoLWrBfG7EvdPwUhQAglg"
+      },
+      {
+        "name": "data-layout",
+        "value": "badgeBlank"
+      },
+      {
+        "name": "class",
+        "value": "_pendo-badge _pendo-badge_"
+      },
+      {
+        "name": "style",
+        "value": "z-index: 19000; margin: 0px 0px 0px 16px; height: 27px; width: 27px; font-size: 0px; background: rgba(255, 255, 255, 0); padding: 0px; line-height: 1; box-shadow: rgb(136, 136, 136) 0px 0px 0px 0px; border: 0px; float: none; vertical-align: text-bottom; cursor: pointer; display: inline-block; visibility: hidden;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Power-ups",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd",
+    "rect": {
+      "x": 20,
+      "y": 627,
+      "width": 220,
+      "height": 40,
+      "top": 627,
+      "right": 240,
+      "bottom": 667,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Power-ups"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--power-ups-page--wrapper"
+      },
+      {
+        "name": "color",
+        "value": "grey35"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-fMiknA dKcPJd"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "outline: none;"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Upgrade Now!",
+    "id": "",
+    "classes": "sc-csuQGl bnzCEG sc-jhAzac dWWejL",
+    "rect": {
+      "x": 20,
+      "y": 677,
+      "width": 220,
+      "height": 40,
+      "top": 677,
+      "right": 240,
+      "bottom": 717,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "data-mms--plan-management",
+        "value": "upgradeNow"
+      },
+      {
+        "name": "class",
+        "value": "sc-csuQGl bnzCEG sc-jhAzac dWWejL"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      },
+      {
+        "name": "tabindex",
+        "value": "0"
+      },
+      {
+        "name": "style",
+        "value": "margin-top: 10px; background-color: rgb(53, 159, 244); margin-bottom: 12px;"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "+ Create Document",
+    "id": "",
+    "classes": "sc-dnqmqq sc-gZMcBi bsXdTJ",
+    "rect": {
+      "x": 20,
+      "y": 559.390625,
+      "width": 220,
+      "height": 33,
+      "top": 559.390625,
+      "right": 240,
+      "bottom": 592.390625,
+      "left": 20
+    },
+    "attributes": [
+      {
+        "name": "type",
+        "value": "button"
+      },
+      {
+        "name": "class",
+        "value": "sc-dnqmqq sc-gZMcBi bsXdTJ"
+      },
+      {
+        "name": "data-track",
+        "value": "sidebar--documents-create--wrapper"
+      },
+      {
+        "name": "style",
+        "value": "width: 100%;"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "OPTIMIZE\nUse the MarketMuse topic model and competitor quality analysis to improve an existing page or draft.",
+    "id": "",
+    "classes": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all",
+    "rect": {
+      "x": 292,
+      "y": 490,
+      "width": 308,
+      "height": 116,
+      "top": 490,
+      "right": 600,
+      "bottom": 606,
+      "left": 292
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all"
+      },
+      {
+        "name": "data-mms--workflow-trigger",
+        "value": "optimize"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "ANALYZE COMPETITORS\nPerform a Competitive Content Quality Analysis with MarketMuse's Heatmap Solution",
+    "id": "",
+    "classes": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all",
+    "rect": {
+      "x": 616,
+      "y": 490,
+      "width": 308,
+      "height": 116,
+      "top": 490,
+      "right": 924,
+      "bottom": 606,
+      "left": 616
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all"
+      },
+      {
+        "name": "data-mms--workflow-trigger",
+        "value": "serp-heatmap"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "X-RAY SERP\nPerform a SERP (Search Results Page) Analysis with MarketMuse's SERP X-Ray Solution.",
+    "id": "",
+    "classes": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all",
+    "rect": {
+      "x": 940,
+      "y": 490,
+      "width": 308,
+      "height": 116,
+      "top": 490,
+      "right": 1248,
+      "bottom": 606,
+      "left": 940
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all"
+      },
+      {
+        "name": "data-mms--workflow-trigger",
+        "value": "serp-xray"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "ASSESS CLUSTERS\nPerform a Content Quality Analysis of a site's cluster for this topic with MarketMuse.",
+    "id": "",
+    "classes": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all",
+    "rect": {
+      "x": 292,
+      "y": 622,
+      "width": 308,
+      "height": 116,
+      "top": 622,
+      "right": 600,
+      "bottom": 738,
+      "left": 292
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all"
+      },
+      {
+        "name": "data-mms--workflow-trigger",
+        "value": "website-heatmap"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "RESEARCH TOPICS\nBuild a MarketMuse topic model and expertise-focused topic universe for this topic.",
+    "id": "",
+    "classes": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all",
+    "rect": {
+      "x": 616,
+      "y": 622,
+      "width": 308,
+      "height": 116,
+      "top": 622,
+      "right": 924,
+      "bottom": 738,
+      "left": 616
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all"
+      },
+      {
+        "name": "data-mms--workflow-trigger",
+        "value": "topic-navigator"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "DISCOVER LINKS\nFind ideal internal linking and external linking opportunities with MarketMuse's Connect Solution",
+    "id": "",
+    "classes": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all",
+    "rect": {
+      "x": 940,
+      "y": 622,
+      "width": 308,
+      "height": 116,
+      "top": 622,
+      "right": 1248,
+      "bottom": 738,
+      "left": 940
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 border-gray-200 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 duration-200 ease-out font-semibold hover:ease-in items-center transition-all"
+      },
+      {
+        "name": "data-mms--workflow-trigger",
+        "value": "connect"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "STRIKING DISTANCE INSIGHTS\nImprove content quality by optimizing a topic and its top ranking page.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400",
+    "rect": {
+      "x": 292,
+      "y": 842,
+      "width": 286,
+      "height": 132,
+      "top": 842,
+      "right": 578,
+      "bottom": 974,
+      "left": 292
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "striking-distance-insight"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "CONTENT DECAY\nIdentify pages with declining traffic, and optimize your content quality.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400",
+    "rect": {
+      "x": 602,
+      "y": 842,
+      "width": 286,
+      "height": 132,
+      "top": 842,
+      "right": 888,
+      "bottom": 974,
+      "left": 602
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "content-decay"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "LOST TOP RANKINGS\nOrganic search rankings have declined. Improve content quality for important topics.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400",
+    "rect": {
+      "x": 912,
+      "y": 842,
+      "width": 286,
+      "height": 132,
+      "top": 842,
+      "right": 1198,
+      "bottom": 974,
+      "left": 912
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "lost-top-rankings"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "IMPORTANT PAGES\nReview the site's most authoritative pages and ensure they are ideally optimized for target topics.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400",
+    "rect": {
+      "x": 1222,
+      "y": 842,
+      "width": 286,
+      "height": 132,
+      "top": 842,
+      "right": 1508,
+      "bottom": 974,
+      "left": 1222
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-blue-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "important-pages"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "UNDERPERFORMING TOPICS\nCreate new content to expand the clusters of these topics.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600",
+    "rect": {
+      "x": 292,
+      "y": 1030,
+      "width": 286,
+      "height": 132,
+      "top": 1030,
+      "right": 578,
+      "bottom": 1162,
+      "left": 292
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "underperforming-topics"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "INTENT MISMATCH\nThese pages have ranking topics not aligned with the page's intent.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600",
+    "rect": {
+      "x": 602,
+      "y": 1030,
+      "width": 286,
+      "height": 132,
+      "top": 1030,
+      "right": 888,
+      "bottom": 1162,
+      "left": 602
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "intent-mismatch"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "GROWTH OPPORTUNITIES\nImprove content quality by optimizing a topic and its top ranking page.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600",
+    "rect": {
+      "x": 912,
+      "y": 1030,
+      "width": 286,
+      "height": 132,
+      "top": 1030,
+      "right": 1198,
+      "bottom": 1162,
+      "left": 912
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "growth-opportunities"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "DISCOVERED CONTENT IDEAS\nTopics with potential for growth, create new content and expand the clusters.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600",
+    "rect": {
+      "x": 1222,
+      "y": 1030,
+      "width": 286,
+      "height": 132,
+      "top": 1030,
+      "right": 1508,
+      "bottom": 1162,
+      "left": 1222
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "discovered-content-ideas"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "HIGH TOPIC AUTHORITY\nCreate new content to expand the clusters of these topics.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600",
+    "rect": {
+      "x": 1532,
+      "y": 1030,
+      "width": 286,
+      "height": 132,
+      "top": 1030,
+      "right": 1818,
+      "bottom": 1162,
+      "left": 1532
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "high-topic-authority"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "MODERATE TOPIC AUTHORITY\nCreate new content to expand the clusters of these topics.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600",
+    "rect": {
+      "x": 1842,
+      "y": 1030,
+      "width": 286,
+      "height": 132,
+      "top": 1030,
+      "right": 2128,
+      "bottom": 1162,
+      "left": 1842
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "moderate-topic-authority"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "LOW TOPIC AUTHORITY\nCreate new content to expand the clusters of these topics.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600",
+    "rect": {
+      "x": 2152,
+      "y": 1030,
+      "width": 286,
+      "height": 132,
+      "top": 1030,
+      "right": 2438,
+      "bottom": 1162,
+      "left": 2152
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-purple-600"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "low-topic-authority"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "POWER PAGES\nPrioritize the topics related to these pages and create Briefs to expand the clusters.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500",
+    "rect": {
+      "x": 292,
+      "y": 1218,
+      "width": 286,
+      "height": 116,
+      "top": 1218,
+      "right": 578,
+      "bottom": 1334,
+      "left": 292
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "power-pages"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "HIGH GROWTH PAGES\nPrioritize the topics related to these pages and create Briefs to expand the cluster.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500",
+    "rect": {
+      "x": 602,
+      "y": 1218,
+      "width": 286,
+      "height": 116,
+      "top": 1218,
+      "right": 888,
+      "bottom": 1334,
+      "left": 602
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "high-growth-pages"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "QUICK WIN TOPICS\nImprove content quality by Optimizing the top ranking page for this topic.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500",
+    "rect": {
+      "x": 912,
+      "y": 1218,
+      "width": 286,
+      "height": 116,
+      "top": 1218,
+      "right": 1198,
+      "bottom": 1334,
+      "left": 912
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "quick-win-topics"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "HIGH POTENTIAL PAGES\nPrioritize the topics related to these pages and create Briefs to expand the clusters.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500",
+    "rect": {
+      "x": 1222,
+      "y": 1218,
+      "width": 286,
+      "height": 116,
+      "top": 1218,
+      "right": 1508,
+      "bottom": 1334,
+      "left": 1222
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-orange-500"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "high-potential-pages"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "AUTHORITY GROWTH OPPORTUNITIES\nAssess the clusters of these topics to identify additional pages to update.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400",
+    "rect": {
+      "x": 292,
+      "y": 1390,
+      "width": 286,
+      "height": 148,
+      "top": 1390,
+      "right": 578,
+      "bottom": 1538,
+      "left": 292
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "authority-growth-opportunities"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "AWARENESS STAGE CLUSTERS\nReview ranking topics that represent the top of the funnel for cluster expansion opportunities.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400",
+    "rect": {
+      "x": 602,
+      "y": 1390,
+      "width": 286,
+      "height": 148,
+      "top": 1390,
+      "right": 888,
+      "bottom": 1538,
+      "left": 602
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "awareness-stage-clusters"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "CONSIDERATION STAGE CLUSTERS\nReview ranking topics that represent the middle of the funnel for cluster expansion opportunities.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400",
+    "rect": {
+      "x": 912,
+      "y": 1390,
+      "width": 286,
+      "height": 148,
+      "top": 1390,
+      "right": 1198,
+      "bottom": 1538,
+      "left": 912
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "consideration-stage-clusters"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "DECISION STAGE CLUSTERS\nReview ranking topics that represent the bottom of the funnel for cluster expansion opportunities.",
+    "id": "",
+    "classes": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400",
+    "rect": {
+      "x": 1222,
+      "y": 1390,
+      "width": 286,
+      "height": 148,
+      "top": 1390,
+      "right": 1508,
+      "bottom": 1538,
+      "left": 1222
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "bg-white border-2 flex-row flex gap-4 line-height-1 p-5 relative rounded-2xl text-gray-600 text-left text-xs z-20 after:-z-10 after:absolute after:block after:h-full after:left-0 after:opacity-0 after:rounded-2xl after:shadow-low after:top-0 after:transition-opacity after:w-full after:content-[''] cursor-pointer hover:after:opacity-100 items-center line-height-1 snap-center h-full border-yellow-400"
+      },
+      {
+        "name": "data-mms--recommendation-trigger",
+        "value": "decision-stage-clusters"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "managed it services haverhill ma | Writing\nWriting\nmanaged it services haverhill ma\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 1672,
+      "width": 1430,
+      "height": 44,
+      "top": 1672,
+      "right": 1723,
+      "bottom": 1716,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "0"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Example | pr1me marketing | Cluster analysis | primemarketingexperts.com - effective marketing strategy (Content Plan) - understanding marketing strategy (Brief)\nCreate Brief\nunderstanding marketing strategy\nprimemarketingexperts.com\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 1716,
+      "width": 1430,
+      "height": 104,
+      "top": 1716,
+      "right": 1723,
+      "bottom": 1820,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "1"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Example | pr1me marketing | Cluster analysis | primemarketingexperts.com - effective marketing strategy (Content Plan)\nContent Plan\neffective marketing strategy\nprimemarketingexperts.com\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 1820,
+      "width": 1430,
+      "height": 84,
+      "top": 1820,
+      "right": 1723,
+      "bottom": 1904,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "2"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Example | pr1me marketing | Cluster analysis | primemarketingexperts.com\nCluster Analysis\npr1me marketing\nprimemarketingexperts.com\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 1904,
+      "width": 1430,
+      "height": 64,
+      "top": 1904,
+      "right": 1723,
+      "bottom": 1968,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "3"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Example | pr1me marketing | Cluster analysis | primemarketingexperts.com - successful marketing campaigns (Content Plan) - award-winning marketing campaigns (Brief)\nCreate Brief\naward-winning marketing campaigns\nprimemarketingexperts.com\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 1968,
+      "width": 1430,
+      "height": 104,
+      "top": 1968,
+      "right": 1723,
+      "bottom": 2072,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "4"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Example | pr1me marketing | Cluster analysis | primemarketingexperts.com - successful marketing campaigns (Content Plan)\nContent Plan\nsuccessful marketing campaigns\nprimemarketingexperts.com\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 2072,
+      "width": 1430,
+      "height": 84,
+      "top": 2072,
+      "right": 1723,
+      "bottom": 2156,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "5"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "Example | pr1me marketing | Cluster analysis | primemarketingexperts.com\nCluster Analysis\npr1me marketing\nprimemarketingexperts.com\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 2156,
+      "width": 1430,
+      "height": 64,
+      "top": 2156,
+      "right": 1723,
+      "bottom": 2220,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "6"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "best facebook advertising strategies | Writing\nWriting\nbest facebook advertising strategies\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 2220,
+      "width": 1430,
+      "height": 64,
+      "top": 2220,
+      "right": 1723,
+      "bottom": 2284,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "7"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "facebook advertising strategies | Writing\nWriting\nfacebook advertising strategies\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 2284,
+      "width": 1430,
+      "height": 44,
+      "top": 2284,
+      "right": 1723,
+      "bottom": 2328,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "8"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "DIV",
+    "text": "instagram growth hacks | Writing\nWriting\ninstagram growth hacks\nFinished",
+    "id": "",
+    "classes": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row",
+    "rect": {
+      "x": 293,
+      "y": 2328,
+      "width": 1430,
+      "height": 44,
+      "top": 2328,
+      "right": 1723,
+      "bottom": 2372,
+      "left": 293
+    },
+    "attributes": [
+      {
+        "name": "data-mms--datatable-row",
+        "value": "9"
+      },
+      {
+        "name": "class",
+        "value": "odd:bg-white even:bg-gray-50 w-[max-content] group min-w-full flex flex-row"
+      },
+      {
+        "name": "role",
+        "value": "button"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Previous",
+    "id": "",
+    "classes": "line-height-1 text-xs bg-transparent py-2.5 px-5 transition-all duration-200 ease-out hover:ease-in rounded-md flex items-center font-semibold text-gray-500",
+    "rect": {
+      "x": 601,
+      "y": 2026,
+      "width": 109,
+      "height": 36,
+      "top": 2026,
+      "right": 710,
+      "bottom": 2062,
+      "left": 601
+    },
+    "attributes": [
+      {
+        "name": "disabled",
+        "value": ""
+      },
+      {
+        "name": "class",
+        "value": "line-height-1 text-xs bg-transparent py-2.5 px-5 transition-all duration-200 ease-out hover:ease-in rounded-md flex items-center font-semibold text-gray-500"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Next",
+    "id": "",
+    "classes": "line-height-1 text-xs bg-transparent py-2.5 px-5 transition-all duration-200 ease-out hover:ease-in rounded-md flex items-center text-blue-500 font-semibold cursor-pointer",
+    "rect": {
+      "x": 870,
+      "y": 2026,
+      "width": 86,
+      "height": 36,
+      "top": 2026,
+      "right": 956,
+      "bottom": 2062,
+      "left": 870
+    },
+    "attributes": [
+      {
+        "name": "class",
+        "value": "line-height-1 text-xs bg-transparent py-2.5 px-5 transition-all duration-200 ease-out hover:ease-in rounded-md flex items-center text-blue-500 font-semibold cursor-pointer"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "",
+    "id": "_pendo-badge_xsWx9ss_i55kPD3Izwu4noz06aE",
+    "classes": "_pendo-badge _pendo-badge_",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "attributes": [
+      {
+        "name": "type",
+        "value": "button"
+      },
+      {
+        "name": "id",
+        "value": "_pendo-badge_xsWx9ss_i55kPD3Izwu4noz06aE"
+      },
+      {
+        "name": "data-layout",
+        "value": "badgeBlank"
+      },
+      {
+        "name": "class",
+        "value": "_pendo-badge _pendo-badge_"
+      },
+      {
+        "name": "style",
+        "value": "z-index: 19000; margin: 0px; height: 14px; width: 14px; font-size: 0px; background: rgba(255, 255, 255, 0); padding: 0px; line-height: 1; min-width: auto; box-shadow: rgb(136, 136, 136) 0px 0px 0px 0px; border: 0px; float: none; vertical-align: baseline; cursor: pointer; position: absolute; top: 184px; left: 118px; display: none;"
+      }
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "text": "",
+    "id": "_pendo-badge_65dnBP0eyW4jMf3biD_d94ctFQg",
+    "classes": "_pendo-badge _pendo-resource-center-badge-container _pendo-badge_",
+    "rect": {
+      "x": 1208,
+      "y": 5,
+      "width": 50,
+      "height": 50,
+      "top": 5,
+      "right": 1258,
+      "bottom": 55,
+      "left": 1208
+    },
+    "attributes": [
+      {
+        "name": "aria-label",
+        "value": "Open Resource Center"
+      },
+      {
+        "name": "data-pendo-aria-label-alert-singular",
+        "value": "Open Resource Center, {UNSEEN_COUNT} new notification"
+      },
+      {
+        "name": "data-pendo-aria-label-alert-plural",
+        "value": "Open Resource Center, {UNSEEN_COUNT} new notifications"
+      },
+      {
+        "name": "aria-expanded",
+        "value": "false"
+      },
+      {
+        "name": "type",
+        "value": "button"
+      },
+      {
+        "name": "id",
+        "value": "_pendo-badge_65dnBP0eyW4jMf3biD_d94ctFQg"
+      },
+      {
+        "name": "data-layout",
+        "value": "badgeResourceCenter"
+      },
+      {
+        "name": "class",
+        "value": "_pendo-badge _pendo-resource-center-badge-container _pendo-badge_"
+      },
+      {
+        "name": "style",
+        "value": "border-radius: 25px; inset: 5px 22px auto auto; margin: 0px; position: fixed; z-index: 250; background: rgba(255, 255, 255, 0); padding: 0px; height: 50px; width: 50px; box-shadow: rgba(0, 0, 0, 0.15) 2px 0px 6px 0px; border: 0px; float: none; vertical-align: text-bottom; cursor: pointer; display: inline-block;"
+      }
+    ]
+  }
+]

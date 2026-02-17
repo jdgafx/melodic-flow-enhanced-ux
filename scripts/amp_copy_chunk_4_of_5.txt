@@ -1,0 +1,303 @@
+
+===PAGE: Lead Funnel (src/app/services/lead-funnel/page.tsx)===
+
+[BLOCK-lead-funnel-01] (SEO META)
+Turn visitors into customers 24/7. AI-powered lead capture across website, Facebook, and LinkedIn.
+[/BLOCK-lead-funnel-01]
+
+[BLOCK-lead-funnel-02] (PAGE COPY)
+Most lead funnels are broken. They either ask for too much info too soon, or they just drop leads into a black hole. We build funnels that actually convert strangers into booked appointments.
+[/BLOCK-lead-funnel-02]
+
+[BLOCK-lead-funnel-03] (PAGE COPY)
+Why AI Assisted Leadgen Works Better
+[/BLOCK-lead-funnel-03]
+
+[BLOCK-lead-funnel-04] (PAGE COPY)
+We build funnels that actually work—you know, the kind that turn strangers into booked appointments on your calendar. Here's how we roll:
+[/BLOCK-lead-funnel-04]
+
+[BLOCK-lead-funnel-05] (BULLET POINT)
+We start by creating something your ideal customers actually want—maybe it's a checklist, a guide, or a calculator. Something they can't resist downloading.
+[/BLOCK-lead-funnel-05]
+
+[BLOCK-lead-funnel-06] (BULLET POINT)
+Then we build you a landing page that actually converts. We're talking 20% or better. Most agencies get excited about 5%—we shoot way higher.
+[/BLOCK-lead-funnel-06]
+
+[BLOCK-lead-funnel-07] (BULLET POINT)
+Next, we set up email sequences that don't feel robotic. These emails warm up your leads automatically until they're ready to talk.
+[/BLOCK-lead-funnel-07]
+
+[BLOCK-lead-funnel-08] (BULLET POINT)
+We connect everything to your calendar so qualified prospects can book time with you directly—no back-and-forth email chains.
+[/BLOCK-lead-funnel-08]
+
+[BLOCK-lead-funnel-09] (BULLET POINT)
+And yeah, we track all of it. You'll know exactly which pieces are working and which ones we need to tweak.
+[/BLOCK-lead-funnel-09]
+
+[BLOCK-lead-funnel-10] (PAGE COPY)
+Complete lead generation system
+[/BLOCK-lead-funnel-10]
+
+[BLOCK-lead-funnel-11] (PAGE COPY)
+Simple, transparent pricing. We build the system, keep it running, and ensure your leads keep flowing.
+[/BLOCK-lead-funnel-11]
+
+[BLOCK-lead-funnel-12] (PAGE COPY)
+Typical clients see their first qualified lead within 7 days.
+[/BLOCK-lead-funnel-12]
+
+[BLOCK-lead-funnel-13] (PAGE COPY)
+Three Channels, One System
+[/BLOCK-lead-funnel-13]
+
+[BLOCK-lead-funnel-14] (PAGE COPY)
+Most businesses ignore at least one of these channels. We connect all three so you never miss a lead, no matter where they find you.
+[/BLOCK-lead-funnel-14]
+
+[BLOCK-lead-funnel-15] (CONTENT BLOCK)
+Pops up at the right moment. Asks qualifying questions. Books appointments. Works 24/7.
+[/BLOCK-lead-funnel-15]
+
+[BLOCK-lead-funnel-16] (CONTENT BLOCK)
+1.3 billion people use Messenger every month. We catch them on a platform they already trust.
+[/BLOCK-lead-funnel-16]
+
+[BLOCK-lead-funnel-17] (CONTENT BLOCK)
+Finds prospects who match your criteria. Engages with their content. Starts conversations that convert.
+[/BLOCK-lead-funnel-17]
+
+[BLOCK-lead-funnel-18] (FAQ QUESTION)
+How is this different from the chatbot I already have?
+[/BLOCK-lead-funnel-18]
+
+[BLOCK-lead-funnel-19] (FAQ ANSWER)
+Look, most chatbots just answer basic questions and stop there. Ours actually sells. It figures out if someone's a good fit, gets their contact info, and books them on your calendar—all automatically. One of our clients said their old bot felt like talking to a vending machine. Ours? Like having their best sales rep pulling night shifts.
+[/BLOCK-lead-funnel-19]
+
+[BLOCK-lead-funnel-20] (FAQ QUESTION)
+What happens if I already use a CRM?
+[/BLOCK-lead-funnel-20]
+
+[BLOCK-lead-funnel-21] (FAQ ANSWER)
+Good question—we plug into pretty much everything. HubSpot, Salesforce, Pipedrive, Zoho, you name it. Every chat, every detail, drops right into your existing setup. Your team sees the full conversation so leads never have to repeat themselves.
+[/BLOCK-lead-funnel-21]
+
+[BLOCK-lead-funnel-22] (FAQ QUESTION)
+Facebook Messenger sounds complicated. Is it?
+[/BLOCK-lead-funnel-22]
+
+[BLOCK-lead-funnel-23] (FAQ ANSWER)
+Not at all—that's our job. Here's what actually happens: someone DMs your Facebook page at 3am. Your bot replies instantly (yes, instantly), asks a few quick questions to qualify them, and if they're a fit, offers to book a call. They pick a time from your calendar, done. You wake up to a booked meeting. Pretty sweet.
+[/BLOCK-lead-funnel-23]
+
+[BLOCK-lead-funnel-24] (FAQ QUESTION)
+I have tried LinkedIn automation before and it felt spammy.
+[/BLOCK-lead-funnel-24]
+
+[BLOCK-lead-funnel-25] (FAQ ANSWER)
+Yeah, we get that. Those tools spamming everyone with the same generic message? Total garbage—and they ruin LinkedIn for everyone. We do it differently. We find people who actually fit your ideal profile, engage with their posts like real humans (actual thoughtful comments, not just 'great post!'), and start real conversations. Think warm intros, not cold spam.
+[/BLOCK-lead-funnel-25]
+
+[BLOCK-lead-funnel-26] (FAQ QUESTION)
+How long until I see results?
+[/BLOCK-lead-funnel-26]
+
+[BLOCK-lead-funnel-27] (FAQ ANSWER)
+Depends on your traffic, honestly. Most folks see their first solid lead within the first week though. The cool part? The system learns what works best for your specific business and gets better over time. By week three or four, you'll usually have a steady flow coming in without lifting a finger.
+[/BLOCK-lead-funnel-27]
+
+[BLOCK-lead-funnel-28] (FAQ QUESTION)
+What if I need changes after launch?
+[/BLOCK-lead-funnel-28]
+
+[BLOCK-lead-funnel-29] (FAQ ANSWER)
+First 30 days? Totally free for whatever tweaks you need. After that, we bill hourly at reasonable rates. We're not those guys who vanish after launch—if you need something changed, you get it. Truth is, most clients stay because this stuff actually works, not because they're stuck in some contract.
+[/BLOCK-lead-funnel-29]
+
+[BLOCK-lead-funnel-30] (PAGE COPY)
+The Number One Reason Leads Get Lost
+[/BLOCK-lead-funnel-30]
+
+[BLOCK-lead-funnel-31] (PAGE COPY)
+Response time. A lead that doesn't get a reply within 5 minutes is 10x less likely to convert. That's just how people work—they move on, forget, find a competitor.
+[/BLOCK-lead-funnel-31]
+
+[BLOCK-lead-funnel-32] (PAGE COPY)
+One gym owner we worked with put it simply: "I used to lose 5 to 10 leads a week because I couldn't respond fast enough. Now I wake up to appointments already booked on my calendar."
+[/BLOCK-lead-funnel-32]
+
+[BLOCK-lead-funnel-33] (PAGE COPY)
+Takes 15 minutes. No pressure. We'll just talk about what you need.
+[/BLOCK-lead-funnel-33]
+
+===END PAGE: Lead Funnel===
+
+
+===PAGE: Review Response (src/app/services/review-response/page.tsx)===
+
+[BLOCK-review-response-01] (SEO META)
+We handle your customer reviews for you. Thoughtful, personal replies to every person.
+[/BLOCK-review-response-01]
+
+[BLOCK-review-response-02] (PAGE COPY)
+We handle your customer feedback so you don't have to. Every review gets a thoughtful, personal reply within 24 hours. It shows people you care and helps your business show up higher in local searches.
+[/BLOCK-review-response-02]
+
+[BLOCK-review-response-03] (PAGE COPY)
+Here's how we keep your reputation spotless while you sleep:
+[/BLOCK-review-response-03]
+
+[BLOCK-review-response-04] (BULLET POINT)
+It thanks customers for positive feedback in a way that feels real and authentic.
+[/BLOCK-review-response-04]
+
+[BLOCK-review-response-05] (BULLET POINT)
+It handles the haters professionally—defusing the situation so you don't have to stress about it.
+[/BLOCK-review-response-05]
+
+[BLOCK-review-response-06] (BULLET POINT)
+We teach it to sound like you, not a corporate press release.
+[/BLOCK-review-response-06]
+
+[BLOCK-review-response-07] (BULLET POINT)
+Google, Yelp, Facebook—if someone's talking about you online, we catch it.
+[/BLOCK-review-response-07]
+
+[BLOCK-review-response-08] (BULLET POINT)
+If things get heated, it pings you instantly so you can step in.
+[/BLOCK-review-response-08]
+
+[BLOCK-review-response-09] (BULLET POINT)
+It responds in minutes, not 'whenever I get around to it'.
+[/BLOCK-review-response-09]
+
+[BLOCK-review-response-10] (PAGE COPY)
+Unlimited responses included. No per-review fees.
+[/BLOCK-review-response-10]
+
+[BLOCK-review-response-11] (FAQ QUESTION)
+Can I customize the responses?
+[/BLOCK-review-response-11]
+
+[BLOCK-review-response-12] (FAQ ANSWER)
+Totally. You can tweak the voice, approve templates, or just let it run. It's your reputation, you're in charge.
+[/BLOCK-review-response-12]
+
+[BLOCK-review-response-13] (FAQ QUESTION)
+What platforms do you monitor?
+[/BLOCK-review-response-13]
+
+[BLOCK-review-response-14] (FAQ ANSWER)
+Pretty much everywhere people complain or compliment. Google, Yelp, TripAdvisor—we got 'em covered.
+[/BLOCK-review-response-14]
+
+[BLOCK-review-response-15] (FAQ QUESTION)
+What about angry customers?
+[/BLOCK-review-response-15]
+
+[BLOCK-review-response-16] (FAQ ANSWER)
+We don't let the AI freelance on angry rants. Those get flagged straight to you unless you tell us otherwise.
+[/BLOCK-review-response-16]
+
+[BLOCK-review-response-17] (FAQ QUESTION)
+Does it sound robotic?
+[/BLOCK-review-response-17]
+
+[BLOCK-review-response-18] (FAQ ANSWER)
+Not a chance. We specifically train it to avoid that 'Thank you valued customer' vibe. It sounds like a human being.
+[/BLOCK-review-response-18]
+
+[BLOCK-review-response-19] (PAGE COPY)
+Respond to every review. Show customers you care. Start today.
+[/BLOCK-review-response-19]
+
+===END PAGE: Review Response===
+
+
+===PAGE: SEO Content (src/app/services/seo-content/page.tsx)===
+
+[BLOCK-seo-content-01] (SEO META)
+Helpful articles that real people want to read. Get more traffic without the fluff.
+[/BLOCK-seo-content-01]
+
+[BLOCK-seo-content-02] (PAGE COPY)
+Articles that real people want to read. We find the questions your customers are asking and answer them clearly. No fluff or keyword stuffing—just helpful info that brings steady traffic to your site.
+[/BLOCK-seo-content-02]
+
+[BLOCK-seo-content-03] (PAGE COPY)
+Ever wonder why some content gets high traffic while other pages remain invisible? We create content that search engines favor and your audience actually wants to read. Here is how we make that happen:
+[/BLOCK-seo-content-03]
+
+[BLOCK-seo-content-04] (BULLET POINT)
+Around 2,000 words of genuinely useful content that actually answers what searchers are looking for. No filler.
+[/BLOCK-seo-content-04]
+
+[BLOCK-seo-content-05] (BULLET POINT)
+We don't guess at keywords. We dig into ones with real search volume—actual opportunities, not made-up nonsense.
+[/BLOCK-seo-content-05]
+
+[BLOCK-seo-content-06] (BULLET POINT)
+Links that connect your pages together in a way that actually makes sense.
+[/BLOCK-seo-content-06]
+
+[BLOCK-seo-content-07] (BULLET POINT)
+The text people see when searching on Google that makes them stop scrolling and click.
+[/BLOCK-seo-content-07]
+
+[BLOCK-seo-content-08] (BULLET POINT)
+Headers that sound natural to readers while playing nice with search engines at the same time.
+[/BLOCK-seo-content-08]
+
+[BLOCK-seo-content-09] (BULLET POINT)
+And honestly? The best part is that it's ready to drop right into WordPress, Wix, Squarespace—whatever platform you're using.
+[/BLOCK-seo-content-09]
+
+[BLOCK-seo-content-10] (PAGE COPY)
+Or $499/mo for 4 articles delivered monthly.
+[/BLOCK-seo-content-10]
+
+[BLOCK-seo-content-11] (FAQ QUESTION)
+How do you pick what to write about?
+[/BLOCK-seo-content-11]
+
+[BLOCK-seo-content-12] (FAQ ANSWER)
+Honestly, we dig into what your competitors are ranking for, check out what questions your customers are asking, and find out what search terms actually get traffic. We run everything by you before we start writing—no surprises.
+[/BLOCK-seo-content-12]
+
+[BLOCK-seo-content-13] (FAQ QUESTION)
+Do you guarantee first page rankings?
+[/BLOCK-seo-content-13]
+
+[BLOCK-seo-content-14] (FAQ ANSWER)
+Look, no honest person can promise that. Here's what we can guarantee: well-written, properly optimized content. Rankings depend on so many factors though—competition, domain authority, how old your site is, you name it.
+[/BLOCK-seo-content-14]
+
+[BLOCK-seo-content-15] (FAQ QUESTION)
+Can you publish directly to my site?
+[/BLOCK-seo-content-15]
+
+[BLOCK-seo-content-16] (FAQ ANSWER)
+Absolutely. WordPress, Wix, Squarespace—we can log in and handle it, or just give you the content to upload yourself. Whatever's easier for you.
+[/BLOCK-seo-content-16]
+
+[BLOCK-seo-content-17] (FAQ QUESTION)
+What kind of articles work best?
+[/BLOCK-seo-content-17]
+
+[BLOCK-seo-content-18] (FAQ ANSWER)
+How-to guides, industry explainers, comparisons, and answers to frequently asked questions. Basically, the information your audience is actually searching for.
+[/BLOCK-seo-content-18]
+
+[BLOCK-seo-content-19] (PAGE COPY)
+Organic Traffic That Actually Converts
+[/BLOCK-seo-content-19]
+
+[BLOCK-seo-content-20] (PAGE COPY)
+A client in the home services space went from 300 monthly visitors to 3,000 in 4 months. The right content, optimized the right way.
+[/BLOCK-seo-content-20]
+
+===END PAGE: SEO Content===
+

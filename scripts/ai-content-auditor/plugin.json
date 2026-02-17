@@ -1,0 +1,41 @@
+{
+  "name": "ai-content-auditor",
+  "version": "1.0.0",
+  "description": "OpenCode plugin for auditing web pages with AI content detection",
+  "main": "auditor-skill.js",
+  "cli": "ai-auditor.js",
+  "scripts": {
+    "test": "node test-auditor.js",
+    "audit": "node ai-auditor.js"
+  },
+  "keywords": [
+    "ai-detection",
+    "content-audit",
+    "playwright",
+    "opencode",
+    "humanization"
+  ],
+  "author": "ConvertIQ",
+  "license": "MIT",
+  "opencode": {
+    "type": "skill",
+    "category": "content-analysis",
+    "commands": [
+      {
+        "name": "audit-page",
+        "description": "Audit a single page for AI content",
+        "usage": "/audit-page <url>"
+      },
+      {
+        "name": "audit-batch",
+        "description": "Audit multiple pages from a file",
+        "usage": "/audit-batch <file.txt>"
+      },
+      {
+        "name": "audit-report",
+        "description": "Generate audit report",
+        "usage": "/audit-report"
+      }
+    ]
+  }
+}

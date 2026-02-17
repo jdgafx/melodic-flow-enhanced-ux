@@ -1,0 +1,28 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+  environment = { NODE_VERSION = "20" }
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# =============================================================================
+# DEPLOYMENT CONFIGURATION
+# =============================================================================
+# Build Hook: Create at https://app.netlify.com/sites/<SITE_NAME>/settings/deploys#build-hooks
+# Format: https://api.netlify.com/build_hooks/<BUILD_HOOK_ID>
+# Store tokens in: GitHub Secrets (NETLIFY_BUILD_HOOK)
+#
+# To trigger a deploy manually:
+#   curl -X POST https://api.netlify.com/build_hooks/<BUILD_HOOK_ID>
+#
+# Or use GitHub Actions with NETLIFY_BUILD_HOOK secret
+# =============================================================================
+
+[context.production]
+  environment = { NODE_VERSION = "20" }
+
+[context.deploy-preview]
+  environment = { NODE_VERSION = "20" }

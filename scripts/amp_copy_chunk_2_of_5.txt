@@ -1,0 +1,356 @@
+
+===PAGE: Pricing (src/app/pricing/page.tsx)===
+
+[BLOCK-pricing-01] (CONTENT BLOCK)
+Look, if you're just testing the waters—this is your starting point. You get a chatbot that books appointments while you sleep, we'll fix up your Google listing so locals can actually find you, and reviews get answered on autopilot. Pretty simple stuff.
+[/BLOCK-pricing-01]
+
+[BLOCK-pricing-02] (CONTENT BLOCK)
+Here's the thing—most of our clients land here. You get everything from Starter plus a phone bot that picks up when you can't, email sequences that don't feel spammy, regular social posts, and ad copy that people actually click on.
+[/BLOCK-pricing-02]
+
+[BLOCK-pricing-03] (CONTENT BLOCK)
+This is the full package. We handle your content, build landing pages, set up complete funnels, train custom AI on your business, and you get a dedicated person who knows your stuff inside and out.
+[/BLOCK-pricing-03]
+
+[BLOCK-pricing-04] (CONTENT BLOCK)
+What do I get in the free trial?
+[/BLOCK-pricing-04]
+
+[BLOCK-pricing-05] (CONTENT BLOCK)
+The whole thing. All of it. 7 days, no credit card needed, no weird catches. Try it out. If it's not for you, no big deal—just don't continue. Zero hassle.
+[/BLOCK-pricing-05]
+
+[BLOCK-pricing-06] (CONTENT BLOCK)
+Can you make it fit my business?
+[/BLOCK-pricing-06]
+
+[BLOCK-pricing-07] (CONTENT BLOCK)
+That's the whole point. We don't copy-paste the same stuff for everyone. Your chatbot scripts, emails, ads—all of it gets written for YOUR business. We keep tweaking until it sounds like you.
+[/BLOCK-pricing-07]
+
+[BLOCK-pricing-08] (CONTENT BLOCK)
+What if I want to change plans?
+[/BLOCK-pricing-08]
+
+[BLOCK-pricing-09] (CONTENT BLOCK)
+Go for it. Upgrade when you're ready to grow, downgrade if things slow down. We adjust your bill to match. No fees, no guilt trips.
+[/BLOCK-pricing-09]
+
+[BLOCK-pricing-10] (CONTENT BLOCK)
+What if none of these plans work for me?
+[/BLOCK-pricing-10]
+
+[BLOCK-pricing-11] (CONTENT BLOCK)
+Then we'll make one that does. Just tell us what you're looking for and we'll put something together that fits your situation.
+[/BLOCK-pricing-11]
+
+[BLOCK-pricing-12] (CONTENT BLOCK)
+How fast will this actually work?
+[/BLOCK-pricing-12]
+
+[BLOCK-pricing-13] (CONTENT BLOCK)
+Depends on what you're using. Chatbots? Day one. Could see leads that same afternoon. SEO takes a bit—usually a couple months to really kick in. But most people notice changes in the first week or two.
+[/BLOCK-pricing-13]
+
+[BLOCK-pricing-14] (CONTENT BLOCK)
+Do I have to sign a long contract?
+[/BLOCK-pricing-14]
+
+[BLOCK-pricing-15] (CONTENT BLOCK)
+Nope. Month to month. Want to cancel? Just let us know 30 days ahead. We're not into trapping people.
+[/BLOCK-pricing-15]
+
+[BLOCK-pricing-16] (PAGE COPY)
+No sneaky fees. No contracts locking you in. Everything's customizable—because that's how we do things.
+[/BLOCK-pricing-16]
+
+[BLOCK-pricing-17] (PAGE COPY)
+Not everyone needs the full package. Grab what makes sense for you. We can tweak any of these to fit.
+[/BLOCK-pricing-17]
+
+[BLOCK-pricing-18] (PAGE COPY)
+✓ Help with setup included
+[/BLOCK-pricing-18]
+
+[BLOCK-pricing-19] (PAGE COPY)
+Here's the breakdown so you know what you're getting
+[/BLOCK-pricing-19]
+
+[BLOCK-pricing-20] (PAGE COPY)
+Questions People Usually Ask
+[/BLOCK-pricing-20]
+
+[BLOCK-pricing-21] (PAGE COPY)
+Stuff we get asked all the time
+[/BLOCK-pricing-21]
+
+[BLOCK-pricing-22] (PAGE COPY)
+Want to See If This Actually Works?
+[/BLOCK-pricing-22]
+
+[BLOCK-pricing-23] (PAGE COPY)
+7 days free. No card required. Walk away anytime if it's not your thing.
+[/BLOCK-pricing-23]
+
+[BLOCK-pricing-24] (PAGE COPY)
+Schedule Free Consultation
+[/BLOCK-pricing-24]
+
+===END PAGE: Pricing===
+
+
+===PAGE: Services Overview (src/app/services/page.tsx)===
+
+[BLOCK-services-01] (SEO META)
+We help businesses get more leads and save time with AI. From finding customers to handling calls, we build tools that actually work.
+[/BLOCK-services-01]
+
+[BLOCK-services-02] (CONTENT BLOCK)
+We use smart AI to find your perfect customers across social media and 100+ ad platforms. The system fills your funnel automatically so you just focus on closing deals.
+[/BLOCK-services-02]
+
+[BLOCK-services-03] (CONTENT BLOCK)
+We use AI to research and write high-quality articles that actually rank on Google. You get fresh content that brings in organic traffic without the high cost of a writing agency.
+[/BLOCK-services-03]
+
+[BLOCK-services-04] (CONTENT BLOCK)
+Never miss a call again. Our AI answers, qualifies leads, and books appointments—day or night. Works for incoming calls and outbound too.
+[/BLOCK-services-04]
+
+[BLOCK-services-05] (CONTENT BLOCK)
+You've got about 3 seconds to grab someone's attention. We build pages that load fast and get people to take action. Tested. Proven.
+[/BLOCK-services-05]
+
+[BLOCK-services-06] (CONTENT BLOCK)
+Most chatbots stink. Ours talks like a real person and books calls when people are ready. Clients often see more qualified leads in the first week.
+[/BLOCK-services-06]
+
+[BLOCK-services-07] (CONTENT BLOCK)
+Posting regularly works. It's also a time suck. We handle your posts across all platforms so you stay visible without the hassle.
+[/BLOCK-services-07]
+
+[BLOCK-services-08] (CONTENT BLOCK)
+Bad ads waste money. We write headlines that get clicks and keep testing until your cost per lead goes down. Runs on 100+ platforms.
+[/BLOCK-services-08]
+
+[BLOCK-services-09] (CONTENT BLOCK)
+Generic emails get ignored. We write follow-ups that sound like you—personal, friendly, and they actually get replies.
+[/BLOCK-services-09]
+
+[BLOCK-services-10] (CONTENT BLOCK)
+If people can't find you on Google Maps, they're finding your competition. We fix your profile so locals actually see you.
+[/BLOCK-services-10]
+
+[BLOCK-services-11] (CONTENT BLOCK)
+Replying to every review takes forever. Our AI reads each one and writes a thoughtful response. Good ones get thanked. Bad ones get handled.
+[/BLOCK-services-11]
+
+[BLOCK-services-12] (PAGE COPY)
+More leads. Less busywork. We build AI tools that save you time and bring in customers.
+[/BLOCK-services-12]
+
+[BLOCK-services-13] (PAGE COPY)
+s.featured).map((service, idx) => (
+[/BLOCK-services-13]
+
+[BLOCK-services-14] (PAGE COPY)
+Let's talk for 15 minutes. No pitch—we'll just figure out what makes sense for you.
+[/BLOCK-services-14]
+
+===END PAGE: Services Overview===
+
+
+===PAGE: AI Chatbot (src/app/services/ai-chatbot/page.tsx)===
+
+[BLOCK-ai-chatbot-01] (SEO META)
+Capture leads 24/7 with an intelligent AI chatbot. Never miss a website visitor again.
+[/BLOCK-ai-chatbot-01]
+
+[BLOCK-ai-chatbot-02] (PAGE COPY)
+Look, your website should be doing more than just sitting there. Honestly, if it's not starting conversations and booking leads while you're asleep, you're losing money. We build custom-trained AI chatbots that actually talk to your visitors and get them on your calendar.
+[/BLOCK-ai-chatbot-02]
+
+[BLOCK-ai-chatbot-03] (PAGE COPY)
+How It Helps Your Business
+[/BLOCK-ai-chatbot-03]
+
+[BLOCK-ai-chatbot-04] (PAGE COPY)
+Honestly, most chatbots are trash. We do it differently. We train your bot on your actual business docs and PDFs so it sounds like you, not some generic script. It's like having your best salesperson working 24/7 without the coffee breaks.
+[/BLOCK-ai-chatbot-04]
+
+[BLOCK-ai-chatbot-05] (BULLET POINT)
+We feed it your actual website, docs, and any PDFs you have—so it really knows your business inside and out.
+[/BLOCK-ai-chatbot-05]
+
+[BLOCK-ai-chatbot-06] (BULLET POINT)
+It asks the right questions to figure out if someone's actually worth your time before booking anything.
+[/BLOCK-ai-chatbot-06]
+
+[BLOCK-ai-chatbot-07] (BULLET POINT)
+Plugs straight into whatever calendar you use—Google, Outlook, doesn't matter. Books only when you're free.
+[/BLOCK-ai-chatbot-07]
+
+[BLOCK-ai-chatbot-08] (BULLET POINT)
+Visitors get instant answers at 2am. You don't have to be there.
+[/BLOCK-ai-chatbot-08]
+
+[BLOCK-ai-chatbot-09] (BULLET POINT)
+Every conversation automatically flows into your CRM. No manual data entry.
+[/BLOCK-ai-chatbot-09]
+
+[BLOCK-ai-chatbot-10] (BULLET POINT)
+And yeah, it gets smarter the more it chats with people. Learns what works.
+[/BLOCK-ai-chatbot-10]
+
+[BLOCK-ai-chatbot-11] (PAGE COPY)
+Starting at $497 setup + $149/mo
+[/BLOCK-ai-chatbot-11]
+
+[BLOCK-ai-chatbot-12] (PAGE COPY)
+Custom training and monthly AI management.
+[/BLOCK-ai-chatbot-12]
+
+[BLOCK-ai-chatbot-13] (PAGE COPY)
+Try it on your site. If it doesn't work, you don't pay.
+[/BLOCK-ai-chatbot-13]
+
+[BLOCK-ai-chatbot-14] (PAGE COPY)
+Frequently Asked Questions
+[/BLOCK-ai-chatbot-14]
+
+[BLOCK-ai-chatbot-15] (FAQ QUESTION)
+How does the free trial work?
+[/BLOCK-ai-chatbot-15]
+
+[BLOCK-ai-chatbot-16] (FAQ ANSWER)
+You get the full thing for 7 days—no credit card needed. Just see how many leads it actually pulls in. If it doesn't work for you, walk away. No harm done.
+[/BLOCK-ai-chatbot-16]
+
+[BLOCK-ai-chatbot-17] (FAQ QUESTION)
+How is the AI trained?
+[/BLOCK-ai-chatbot-17]
+
+[BLOCK-ai-chatbot-18] (FAQ ANSWER)
+We upload your website, any PDFs you have, docs, whatever you've got. The bot learns it all so it gives answers that actually make sense for your business—not generic fluff.
+[/BLOCK-ai-chatbot-18]
+
+[BLOCK-ai-chatbot-19] (FAQ QUESTION)
+Does it work with my calendar?
+[/BLOCK-ai-chatbot-19]
+
+[BLOCK-ai-chatbot-20] (FAQ ANSWER)
+Yup—works with Google, Outlook, whatever you use. Only books during times you actually have free. We set all that up for you.
+[/BLOCK-ai-chatbot-20]
+
+[BLOCK-ai-chatbot-21] (FAQ QUESTION)
+What if it doesn't know an answer?
+[/BLOCK-ai-chatbot-21]
+
+[BLOCK-ai-chatbot-22] (FAQ ANSWER)
+It tells them something like 'Let me get someone who knows more about that'—then immediately pings your team via email or text. You follow up and close the deal. Easy.
+[/BLOCK-ai-chatbot-22]
+
+[BLOCK-ai-chatbot-23] (PAGE COPY)
+Ready to Capture More Leads?
+[/BLOCK-ai-chatbot-23]
+
+[BLOCK-ai-chatbot-24] (PAGE COPY)
+Give it a week. Seriously. If you don't see more qualified leads coming in, just walk away.
+[/BLOCK-ai-chatbot-24]
+
+===END PAGE: AI Chatbot===
+
+
+===PAGE: AI Voice (src/app/services/ai-voice/page.tsx)===
+
+[BLOCK-ai-voice-01] (SEO META)
+Never miss a call again. AI-powered phone answering that works 24/7.
+[/BLOCK-ai-voice-01]
+
+[BLOCK-ai-voice-02] (PAGE COPY)
+Look, missed calls aren't just annoying—they're missed money. Honestly, if you aren't picking up on the first ring, your customers are just calling the next guy on Google. Our AI phone system handles everything 24/7 so you don't have to. It books appointments, answers questions, and basically runs your front desk while you're actually doing the work.
+[/BLOCK-ai-voice-02]
+
+[BLOCK-ai-voice-03] (PAGE COPY)
+Here's the deal—most businesses miss about a third of their calls. That's a lot of cash left on the table. We make sure every single caller gets a real conversation and a chance to book, even if it's 2 AM on a Sunday.
+[/BLOCK-ai-voice-03]
+
+[BLOCK-ai-voice-04] (BULLET POINT)
+First ring. Every time. No more voicemail, no more missed opportunities.
+[/BLOCK-ai-voice-04]
+
+[BLOCK-ai-voice-05] (BULLET POINT)
+It chats with callers, figures out if they're a good fit, then books them automatically.
+[/BLOCK-ai-voice-05]
+
+[BLOCK-ai-voice-06] (BULLET POINT)
+Something weird come up? It can send the call to your cell or take a message.
+[/BLOCK-ai-voice-06]
+
+[BLOCK-ai-voice-07] (BULLET POINT)
+Keep your number. Seriously, you don't need to change anything.
+[/BLOCK-ai-voice-07]
+
+[BLOCK-ai-voice-08] (BULLET POINT)
+We train it on your services in like an hour. No tech degree required.
+[/BLOCK-ai-voice-08]
+
+[BLOCK-ai-voice-09] (BULLET POINT)
+Plugs into whatever calendar you use. No double-bookings, ever.
+[/BLOCK-ai-voice-09]
+
+[BLOCK-ai-voice-10] (PAGE COPY)
+Starting at $497 setup + $249/mo
+[/BLOCK-ai-voice-10]
+
+[BLOCK-ai-voice-11] (PAGE COPY)
+Professional setup and ongoing 24/7 service.
+[/BLOCK-ai-voice-11]
+
+[BLOCK-ai-voice-12] (PAGE COPY)
+Questions? We've Got Answers
+[/BLOCK-ai-voice-12]
+
+[BLOCK-ai-voice-13] (FAQ QUESTION)
+How fast can I get this running?
+[/BLOCK-ai-voice-13]
+
+[BLOCK-ai-voice-14] (FAQ ANSWER)
+Most folks are up and getting calls within a day or two. We just need to know what you do, when you're free, and how you want calls handled.
+[/BLOCK-ai-voice-14]
+
+[BLOCK-ai-voice-15] (FAQ QUESTION)
+What if it can't help someone?
+[/BLOCK-ai-voice-15]
+
+[BLOCK-ai-voice-16] (FAQ ANSWER)
+You set the rules. It can grab their info, send them to your cell, or schedule a callback. Whatever works for you.
+[/BLOCK-ai-voice-16]
+
+[BLOCK-ai-voice-17] (FAQ QUESTION)
+Do I need a new phone number?
+[/BLOCK-ai-voice-17]
+
+[BLOCK-ai-voice-18] (FAQ ANSWER)
+Nope. You keep your number. We just route calls through our system so they get answered. Simple.
+[/BLOCK-ai-voice-18]
+
+[BLOCK-ai-voice-19] (FAQ QUESTION)
+How do I know how many calls you handled?
+[/BLOCK-ai-voice-19]
+
+[BLOCK-ai-voice-20] (FAQ ANSWER)
+Dashboard shows you everything—how many calls, how long they lasted, what happened. No guessing.
+[/BLOCK-ai-voice-20]
+
+[BLOCK-ai-voice-21] (PAGE COPY)
+Stop Losing Calls to Voicemail
+[/BLOCK-ai-voice-21]
+
+[BLOCK-ai-voice-22] (PAGE COPY)
+Try it free for a week. See how many appointments you wake up to.
+[/BLOCK-ai-voice-22]
+
+===END PAGE: AI Voice===
+

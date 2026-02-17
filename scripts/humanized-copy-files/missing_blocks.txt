@@ -1,0 +1,139 @@
+============================================
+MISSING BLOCKS — NEEDS HUMANIZATION
+============================================
+
+INSTRUCTIONS:
+- Keep [BLOCK-xxx] and [/BLOCK-xxx] markers intact
+- Only change the text BETWEEN the markers
+
+[BLOCK-ai-voice-20] (FAQ ANSWER)
+
+Dashboard shows you everything—how many calls, how long they lasted, what happened. No guessing.
+
+[/BLOCK-ai-voice-20]
+
+[BLOCK-ai-voice-21] (PAGE COPY)
+
+Stop Losing Calls to Voicemail
+
+[/BLOCK-ai-voice-21]
+
+[BLOCK-ai-voice-22] (PAGE COPY)
+
+Try it free for a week. See how many appointments you wake up to.
+
+[/BLOCK-ai-voice-22]
+
+[BLOCK-landing-pages-09] (BULLET POINT)
+
+We set up tracking that actually works so you know what's bringing in money.
+
+[/BLOCK-landing-pages-09]
+
+[BLOCK-landing-pages-10] (PAGE COPY)
+
+Two rounds of revisions included.
+
+[/BLOCK-landing-pages-10]
+
+[BLOCK-landing-pages-11] (PAGE COPY)
+
+Some Things You Might Wonder
+
+[/BLOCK-landing-pages-11]
+
+[BLOCK-landing-pages-12] (FAQ QUESTION)
+
+Where do the pages actually live?
+
+[/BLOCK-landing-pages-12]
+
+[BLOCK-landing-pages-13] (FAQ ANSWER)
+
+We can host it on your site, or set up something new. Whatever works with your tech stack.
+
+[/BLOCK-landing-pages-13]
+
+[BLOCK-landing-pages-14] (FAQ QUESTION)
+
+Can you connect to my CRM?
+
+[/BLOCK-landing-pages-14]
+
+[BLOCK-landing-pages-15] (FAQ ANSWER)
+
+Yep. It pipes leads straight into HubSpot, Salesforce, Mailchimp—whatever you're using. No headaches.
+
+[/BLOCK-landing-pages-15]
+
+[BLOCK-landing-pages-16] (FAQ QUESTION)
+
+What if I want changes down the road?
+
+[/BLOCK-landing-pages-16]
+
+[BLOCK-landing-pages-17] (FAQ ANSWER)
+
+First 30 days of tweaks are on us. After that, we're here if you need us. Fair enough?
+
+[/BLOCK-landing-pages-17]
+
+[BLOCK-landing-pages-18] (FAQ QUESTION)
+
+How many conversions should I expect?
+
+[/BLOCK-landing-pages-18]
+
+[BLOCK-landing-pages-19] (FAQ ANSWER)
+
+Honestly? It depends on your offer and traffic. We build the engine, but you gotta put gas in it.
+
+[/BLOCK-landing-pages-19]
+
+[BLOCK-landing-pages-20] (PAGE COPY)
+
+That Landing Page You've Been Putting Off
+
+[/BLOCK-landing-pages-20]
+
+[BLOCK-landing-pages-21] (PAGE COPY)
+
+A client in e-commerce told us their landing page generated $47,000 in its first month. Seriously, they'd been "meaning to get around to it" for two years.
+
+[/BLOCK-landing-pages-21]
+
+[BLOCK-lead-funnel-33] (PAGE COPY)
+
+Takes 15 minutes. No pressure. We'll just talk about what you need.
+
+[/BLOCK-lead-funnel-33]
+
+[BLOCK-pricing-24] (PAGE COPY)
+
+Schedule Free Consultation
+
+[/BLOCK-pricing-24]
+
+[BLOCK-seo-content-17] (FAQ QUESTION)
+
+What kind of articles work best?
+
+[/BLOCK-seo-content-17]
+
+[BLOCK-seo-content-18] (FAQ ANSWER)
+
+How-to guides, industry explainers, comparisons, and answers to frequently asked questions. Basically, the information your audience is actually searching for.
+
+[/BLOCK-seo-content-18]
+
+[BLOCK-seo-content-19] (PAGE COPY)
+
+Organic Traffic That Actually Converts
+
+[/BLOCK-seo-content-19]
+
+[BLOCK-seo-content-20] (PAGE COPY)
+
+A client in the home services space went from 300 monthly visitors to 3,000 in 4 months. The right content, optimized the right way.
+
+[/BLOCK-seo-content-20]

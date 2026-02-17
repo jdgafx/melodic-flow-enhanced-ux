@@ -1,0 +1,98 @@
+
+===PAGE: Social Media (src/app/services/social-media/page.tsx)===
+
+[BLOCK-social-media-01] (SEO META)
+Stay active online without spending all day on your phone. Real posts for real people.
+[/BLOCK-social-media-01]
+
+[BLOCK-social-media-02] (PAGE COPY)
+Consistent Social Presence
+[/BLOCK-social-media-02]
+
+[BLOCK-social-media-03] (PAGE COPY)
+Stay active online without spending all day on your phone. We post three times a week with real photos and captions that start conversations. It keeps your brand top-of-mind and builds a loyal following.
+[/BLOCK-social-media-03]
+
+[BLOCK-social-media-04] (PAGE COPY)
+We get it. You want results without living on your phone. So here's what we do for you:
+[/BLOCK-social-media-04]
+
+[BLOCK-social-media-05] (BULLET POINT)
+20 posts a month that actually sound like you. None of that stiff corporate nonsense.
+[/BLOCK-social-media-05]
+
+[BLOCK-social-media-06] (BULLET POINT)
+We handle LinkedIn, Facebook, Instagram, and X. All of them.
+[/BLOCK-social-media-06]
+
+[BLOCK-social-media-07] (BULLET POINT)
+Custom graphics—and yes, no more cringe stock photos of people shaking hands in meeting rooms.
+[/BLOCK-social-media-07]
+
+[BLOCK-social-media-08] (BULLET POINT)
+Hashtags that are actually chosen to help people find you, not just random words thrown together.
+[/BLOCK-social-media-08]
+
+[BLOCK-social-media-09] (BULLET POINT)
+We also jump into the comments, reply to people, and build a real community around your brand.
+[/BLOCK-social-media-09]
+
+[BLOCK-social-media-10] (BULLET POINT)
+At the end of each month, you get a report that breaks down what's working. Just the data that actually matters.
+[/BLOCK-social-media-10]
+
+[BLOCK-social-media-11] (PAGE COPY)
+Content calendar and scheduling included.
+[/BLOCK-social-media-11]
+
+[BLOCK-social-media-12] (PAGE COPY)
+What You Might Be Wondering
+[/BLOCK-social-media-12]
+
+[BLOCK-social-media-13] (FAQ QUESTION)
+So, which platforms should you actually be on?
+[/BLOCK-social-media-13]
+
+[BLOCK-social-media-14] (FAQ ANSWER)
+Honestly, it depends on what you do. A local restaurant? Yeah, you're way better off on Instagram and Google Business than LinkedIn—that's just common sense, right? We help you zero in on where your customers actually spend their time.
+[/BLOCK-social-media-14]
+
+[BLOCK-social-media-15] (FAQ QUESTION)
+Do I get to see posts before they go live?
+[/BLOCK-social-media-15]
+
+[BLOCK-social-media-16] (FAQ ANSWER)
+Absolutely. You'll get a content calendar every month. Review it, give it the thumbs up, tell us what needs changing—we're not hitting publish without your say-so, promise.
+[/BLOCK-social-media-16]
+
+[BLOCK-social-media-17] (FAQ QUESTION)
+Can you post from my account?
+[/BLOCK-social-media-17]
+
+[BLOCK-social-media-18] (FAQ ANSWER)
+Yeah, we can if you want to hand over access. Or we can just send you the content and you post it yourself. Honestly, whatever you're comfortable with—no pressure here at all.
+[/BLOCK-social-media-18]
+
+[BLOCK-social-media-19] (FAQ QUESTION)
+What if I need changes to the content?
+[/BLOCK-social-media-19]
+
+[BLOCK-social-media-20] (FAQ ANSWER)
+No worries, we'll tweak it. Sometimes it takes a round or two to really nail your voice, so we'll keep working with you until it actually feels like your brand.
+[/BLOCK-social-media-20]
+
+[BLOCK-social-media-21] (PAGE COPY)
+Your Competitors Are Posting. Are You?
+[/BLOCK-social-media-21]
+
+[BLOCK-social-media-22] (PAGE COPY)
+One restaurant client told us: "I kept meaning to post. Then I never did. Now my Instagram actually looks alive."
+[/BLOCK-social-media-22]
+
+===END PAGE: Social Media===
+
+
+================================================================================
+TOTAL: 326 text blocks across 15 pages
+TOTAL WORDS: ~5,677
+================================================================================

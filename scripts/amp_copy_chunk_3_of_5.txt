@@ -1,0 +1,368 @@
+
+===PAGE: Ad Copy (src/app/services/ad-copy/page.tsx)===
+
+[BLOCK-ad-copy-01] (SEO META)
+Ad copy that grabs attention and gets clicks. Lower your costs and sell more.
+[/BLOCK-ad-copy-01]
+
+[BLOCK-ad-copy-02] (PAGE COPY)
+High-Performance Ads Optimization
+[/BLOCK-ad-copy-02]
+
+[BLOCK-ad-copy-03] (PAGE COPY)
+Stop wasting money on ads people ignore. We write short, sharp headlines that grab attention and make people click. We test different versions every month to keep your costs low and your sales high.
+[/BLOCK-ad-copy-03]
+
+[BLOCK-ad-copy-04] (PAGE COPY)
+Here's something that keeps us up at night: most businesses waste a massive chunk of their ad budget—sometimes 30-50%—on copy that totally misses the mark. That's crazy, right? So here's how we tackle things:
+[/BLOCK-ad-copy-04]
+
+[BLOCK-ad-copy-05] (BULLET POINT)
+We create 4-8 headline variations for each ad set and let the testing do its thing.
+[/BLOCK-ad-copy-05]
+
+[BLOCK-ad-copy-06] (BULLET POINT)
+We do calls-to-action that actually make people click—not those boring 'Learn More' buttons we all scroll right past.
+[/BLOCK-ad-copy-06]
+
+[BLOCK-ad-copy-07] (BULLET POINT)
+Google, Meta, LinkedIn—we know what works on each platform.
+[/BLOCK-ad-copy-07]
+
+[BLOCK-ad-copy-08] (BULLET POINT)
+Different messages for different audiences because, let's be honest, a homeowner thinks way differently than a contractor.
+[/BLOCK-ad-copy-08]
+
+[BLOCK-ad-copy-09] (BULLET POINT)
+Oh, and most folks completely overlook extra details that make your ad stand out and actually make a real difference.
+[/BLOCK-ad-copy-09]
+
+[BLOCK-ad-copy-10] (BULLET POINT)
+We do weekly updates to improve results based on real data, not guesses. It's really not that complicated when you break it down.
+[/BLOCK-ad-copy-10]
+
+[BLOCK-ad-copy-11] (PAGE COPY)
+Starting at $299 setup + $199/mo
+[/BLOCK-ad-copy-11]
+
+[BLOCK-ad-copy-12] (PAGE COPY)
+Unlimited copy revisions included.
+[/BLOCK-ad-copy-12]
+
+[BLOCK-ad-copy-13] (FAQ QUESTION)
+Which platforms do you handle?
+[/BLOCK-ad-copy-13]
+
+[BLOCK-ad-copy-14] (FAQ ANSWER)
+Google Ads, Meta (that's Facebook and Instagram), LinkedIn Ads, and Microsoft Ads. Each one's got its own quirks and best practices—so what works on LinkedIn won't necessarily fly on Instagram, you know?
+[/BLOCK-ad-copy-14]
+
+[BLOCK-ad-copy-15] (FAQ QUESTION)
+How many variations do you actually write?
+[/BLOCK-ad-copy-15]
+
+[BLOCK-ad-copy-16] (FAQ ANSWER)
+Usually somewhere between 4-8 per ad set. It's enough to test things out without drowning in a million options.
+[/BLOCK-ad-copy-16]
+
+[BLOCK-ad-copy-17] (FAQ QUESTION)
+What if I already have ads running?
+[/BLOCK-ad-copy-17]
+
+[BLOCK-ad-copy-18] (FAQ ANSWER)
+No worries. We'll take a hard look at what's not working and come up with some fresh alternatives. Sometimes the fix is dead simple—just a tweak here and there. Other times? Yeah, we probably need to start from scratch.
+[/BLOCK-ad-copy-18]
+
+[BLOCK-ad-copy-19] (FAQ QUESTION)
+How do you know if it's working?
+[/BLOCK-ad-copy-19]
+
+[BLOCK-ad-copy-20] (FAQ ANSWER)
+We track clicks, conversions, and cost per lead. If the numbers go up and costs go down, it's working. We don't chase vanity metrics.
+[/BLOCK-ad-copy-20]
+
+[BLOCK-ad-copy-21] (PAGE COPY)
+Ready to Stop Burning Ad Budget?
+[/BLOCK-ad-copy-21]
+
+[BLOCK-ad-copy-22] (PAGE COPY)
+A dentist we work with cut their cost per lead by 40% in one month. Better copy. Less waste.
+[/BLOCK-ad-copy-22]
+
+===END PAGE: Ad Copy===
+
+
+===PAGE: Email Automation (src/app/services/email-automation/page.tsx)===
+
+[BLOCK-email-automation-01] (SEO META)
+Turn subscribers into customers with smart email sequences that actually get read.
+[/BLOCK-email-automation-01]
+
+[BLOCK-email-automation-02] (PAGE COPY)
+Look, most automated emails are boring and go straight to spam. We don't do that. We build sequences that actually sound like a human wrote them, so you can turn subscribers into customers without sounding like a robot.
+[/BLOCK-email-automation-02]
+
+[BLOCK-email-automation-03] (PAGE COPY)
+Most Clients See Results in About a Week
+[/BLOCK-email-automation-03]
+
+[BLOCK-email-automation-04] (PAGE COPY)
+Honestly, the goal is to make your emails feel like a one-on-one conversation. We've done this for HVAC, law firms, you name it. Here's how we help you win:
+[/BLOCK-email-automation-04]
+
+[BLOCK-email-automation-05] (BULLET POINT)
+A welcome series that actually feels personal—like a real person sat down to write it.
+[/BLOCK-email-automation-05]
+
+[BLOCK-email-automation-06] (BULLET POINT)
+Cart recovery emails that bring people back (honestly, we usually see 15-30% recovery rates).
+[/BLOCK-email-automation-06]
+
+[BLOCK-email-automation-07] (BULLET POINT)
+Follow-ups that don't feel spammy or annoying.
+[/BLOCK-email-automation-07]
+
+[BLOCK-email-automation-08] (BULLET POINT)
+Campaigns to wake up those quiet subscribers who haven't opened anything in months.
+[/BLOCK-email-automation-08]
+
+[BLOCK-email-automation-09] (BULLET POINT)
+Smart triggers based on what people actually *do* on your site.
+[/BLOCK-email-automation-09]
+
+[BLOCK-email-automation-10] (BULLET POINT)
+We test everything. We don't just guess and hope.
+[/BLOCK-email-automation-10]
+
+[BLOCK-email-automation-11] (PAGE COPY)
+Starting at $199 setup + $49/mo
+[/BLOCK-email-automation-11]
+
+[BLOCK-email-automation-12] (PAGE COPY)
+Custom sequence build and monthly optimization.
+[/BLOCK-email-automation-12]
+
+[BLOCK-email-automation-13] (PAGE COPY)
+First 2,500 subscribers included
+[/BLOCK-email-automation-13]
+
+[BLOCK-email-automation-14] (FAQ QUESTION)
+How long does this take?
+[/BLOCK-email-automation-14]
+
+[BLOCK-email-automation-15] (FAQ ANSWER)
+Give us about a week. We need a few days to really get your voice down, set up the tech, and test it all. Rushing just leads to mistakes.
+[/BLOCK-email-automation-15]
+
+[BLOCK-email-automation-16] (FAQ QUESTION)
+What platforms do you work with?
+[/BLOCK-email-automation-16]
+
+[BLOCK-email-automation-17] (FAQ ANSWER)
+Pretty much all of them—Mailchimp, ConvertKit, Klaviyo, ActiveCampaign. If you're on something weird, we'll figure it out.
+[/BLOCK-email-automation-17]
+
+[BLOCK-email-automation-18] (FAQ QUESTION)
+Can I write my own copy?
+[/BLOCK-email-automation-18]
+
+[BLOCK-email-automation-19] (FAQ ANSWER)
+Absolutely. It's your business. We can write it, you can write it, or we can mix and match. Whatever works best for you.
+[/BLOCK-email-automation-19]
+
+[BLOCK-email-automation-20] (FAQ QUESTION)
+What about spam filters?
+[/BLOCK-email-automation-20]
+
+[BLOCK-email-automation-21] (FAQ ANSWER)
+We set up all the technical stuff—DKIM, SPF, list cleaning—so your emails actually land in inboxes. Most clients see 95%+ deliverability.
+[/BLOCK-email-automation-21]
+
+[BLOCK-email-automation-22] (PAGE COPY)
+Tired of Chasing Leads Manually?
+[/BLOCK-email-automation-22]
+
+[BLOCK-email-automation-23] (PAGE COPY)
+One of our clients put it best: "I used to spend 3 hours a day on follow-ups. Now it all happens while I sleep."
+[/BLOCK-email-automation-23]
+
+[BLOCK-email-automation-24] (PAGE COPY)
+Let us Build Your Sequence
+[/BLOCK-email-automation-24]
+
+===END PAGE: Email Automation===
+
+
+===PAGE: Google Business (src/app/services/google-business/page.tsx)===
+
+[BLOCK-google-business-01] (SEO META)
+Dominate local search. Show up when nearby customers are looking for you.
+[/BLOCK-google-business-01]
+
+[BLOCK-google-business-02] (PAGE COPY)
+Look, if you aren't in the top 3 of Google's map pack, you're basically invisible. Honestly, most profiles are a mess. We fix yours up so local customers actually find you and call you.
+[/BLOCK-google-business-02]
+
+[BLOCK-google-business-03] (PAGE COPY)
+Get Found by Local Customers
+[/BLOCK-google-business-03]
+
+[BLOCK-google-business-04] (PAGE COPY)
+Honestly, most Google Business profiles are half-baked. That's just money you're leaving for your competitors. We optimize every inch of your profile so you dominate the local search results.
+[/BLOCK-google-business-04]
+
+[BLOCK-google-business-05] (BULLET POINT)
+We dig into what people actually type when looking for businesses like yours.
+[/BLOCK-google-business-05]
+
+[BLOCK-google-business-06] (BULLET POINT)
+Your photos get fixed up—no more blurry pics from 2015.
+[/BLOCK-google-business-06]
+
+[BLOCK-google-business-07] (BULLET POINT)
+We make sure your categories are right so Google knows what you do.
+[/BLOCK-google-business-07]
+
+[BLOCK-google-business-08] (BULLET POINT)
+Q&A section gets populated with answers to common questions.
+[/BLOCK-google-business-08]
+
+[BLOCK-google-business-09] (BULLET POINT)
+Every review gets a response. Good ones get thanked, bad ones get handled.
+[/BLOCK-google-business-09]
+
+[BLOCK-google-business-10] (BULLET POINT)
+You see exactly how many calls and clicks you're getting. Real numbers.
+[/BLOCK-google-business-10]
+
+[BLOCK-google-business-11] (PAGE COPY)
+Full optimization and 30 days of ranking tweaks.
+[/BLOCK-google-business-11]
+
+[BLOCK-google-business-12] (FAQ QUESTION)
+How long until I show up in searches?
+[/BLOCK-google-business-12]
+
+[BLOCK-google-business-13] (FAQ ANSWER)
+Most businesses start seeing movement in 3-7 days. The real growth happens when you hit that map pack—usually within a month.
+[/BLOCK-google-business-13]
+
+[BLOCK-google-business-14] (FAQ QUESTION)
+Do I need to give you new photos?
+[/BLOCK-google-business-14]
+
+[BLOCK-google-business-15] (FAQ ANSWER)
+Not necessarily. We use what you have and tell you what would help. If you've got decent pics already, we work with those.
+[/BLOCK-google-business-15]
+
+[BLOCK-google-business-16] (FAQ QUESTION)
+What if my profile already exists?
+[/BLOCK-google-business-16]
+
+[BLOCK-google-business-17] (FAQ ANSWER)
+That's perfect, actually. Most profiles we see are like 60% done. We take them to 100% and optimize what's there.
+[/BLOCK-google-business-17]
+
+[BLOCK-google-business-18] (FAQ QUESTION)
+Is this a monthly thing?
+[/BLOCK-google-business-18]
+
+[BLOCK-google-business-19] (FAQ ANSWER)
+Nope, one-time fix. We set it up, optimize it, and you're good. If you want us to manage it ongoing, we can talk about that, but no pressure.
+[/BLOCK-google-business-19]
+
+[BLOCK-google-business-20] (PAGE COPY)
+Get found by customers in your neighborhood. Start today.
+[/BLOCK-google-business-20]
+
+===END PAGE: Google Business===
+
+
+===PAGE: Landing Pages (src/app/services/landing-pages/page.tsx)===
+
+[BLOCK-landing-pages-01] (SEO META)
+Pages built to turn visitors into customers. Clean, fast, and easy to use.
+[/BLOCK-landing-pages-01]
+
+[BLOCK-landing-pages-02] (PAGE COPY)
+A single page built to turn visitors into leads. We write the words, design the layout, and make sure the "Buy" button works every time. You get a clean site that loads fast and actually makes you money.
+[/BLOCK-landing-pages-02]
+
+[BLOCK-landing-pages-03] (PAGE COPY)
+Here's the honest difference between a pretty page and one that makes money:
+[/BLOCK-landing-pages-03]
+
+[BLOCK-landing-pages-04] (BULLET POINT)
+It looks perfect on mobile—let's be real, that's where 70% of your traffic comes from.
+[/BLOCK-landing-pages-04]
+
+[BLOCK-landing-pages-05] (BULLET POINT)
+It loads fast, like under 3 seconds. Any slower, and people bounce.
+[/BLOCK-landing-pages-05]
+
+[BLOCK-landing-pages-06] (BULLET POINT)
+Headlines that actually make you stop scrolling.
+[/BLOCK-landing-pages-06]
+
+[BLOCK-landing-pages-07] (BULLET POINT)
+We mix in your best reviews and logos so trust is built instantly—people buy from people they trust, right?
+[/BLOCK-landing-pages-07]
+
+[BLOCK-landing-pages-08] (BULLET POINT)
+Big, clear buttons. We don't hide checkout.
+[/BLOCK-landing-pages-08]
+
+[BLOCK-landing-pages-09] (BULLET POINT)
+We set up tracking that actually works so you know what's bringing in money.
+[/BLOCK-landing-pages-09]
+
+[BLOCK-landing-pages-10] (PAGE COPY)
+Two rounds of revisions included.
+[/BLOCK-landing-pages-10]
+
+[BLOCK-landing-pages-11] (PAGE COPY)
+Some Things You Might Wonder
+[/BLOCK-landing-pages-11]
+
+[BLOCK-landing-pages-12] (FAQ QUESTION)
+Where do the pages actually live?
+[/BLOCK-landing-pages-12]
+
+[BLOCK-landing-pages-13] (FAQ ANSWER)
+We can host it on your site, or set up something new. Whatever works with your tech stack.
+[/BLOCK-landing-pages-13]
+
+[BLOCK-landing-pages-14] (FAQ QUESTION)
+Can you connect to my CRM?
+[/BLOCK-landing-pages-14]
+
+[BLOCK-landing-pages-15] (FAQ ANSWER)
+Yep. It pipes leads straight into HubSpot, Salesforce, Mailchimp—whatever you're using. No headaches.
+[/BLOCK-landing-pages-15]
+
+[BLOCK-landing-pages-16] (FAQ QUESTION)
+What if I want changes down the road?
+[/BLOCK-landing-pages-16]
+
+[BLOCK-landing-pages-17] (FAQ ANSWER)
+First 30 days of tweaks are on us. After that, we're here if you need us. Fair enough?
+[/BLOCK-landing-pages-17]
+
+[BLOCK-landing-pages-18] (FAQ QUESTION)
+How many conversions should I expect?
+[/BLOCK-landing-pages-18]
+
+[BLOCK-landing-pages-19] (FAQ ANSWER)
+Honestly? It depends on your offer and traffic. We build the engine, but you gotta put gas in it.
+[/BLOCK-landing-pages-19]
+
+[BLOCK-landing-pages-20] (PAGE COPY)
+That Landing Page You've Been Putting Off
+[/BLOCK-landing-pages-20]
+
+[BLOCK-landing-pages-21] (PAGE COPY)
+A client in e-commerce told us their landing page generated $47,000 in its first month. Seriously, they'd been "meaning to get around to it" for two years.
+[/BLOCK-landing-pages-21]
+
+===END PAGE: Landing Pages===
+

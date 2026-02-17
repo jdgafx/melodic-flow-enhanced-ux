@@ -1,0 +1,15 @@
+{
+  "name": "ai-content-auditor",
+  "version": "1.0.0",
+  "description": "Automated AI content detection auditing for ConvertIQ websites",
+  "main": "auditor.js",
+  "scripts": {
+    "audit": "node auditor.js",
+    "audit:cloudflare": "node auditor.js --site=cloudflare",
+    "audit:netlify": "node auditor.js --site=netlify",
+    "audit:all": "node auditor.js --all"
+  },
+  "keywords": ["ai-detection", "content-audit", "playwright"],
+  "author": "ConvertIQ",
+  "license": "MIT"
+}

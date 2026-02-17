@@ -1,0 +1,275 @@
+================================================================================
+AMP MARKETING — COMPLETE WEBSITE COPY
+Export for Humanization
+================================================================================
+
+INSTRUCTIONS:
+- Each section below is marked with ===PAGE=== headers
+- Within each page, text blocks are numbered [BLOCK-XX]
+- When humanizing, KEEP the ===PAGE=== and [BLOCK-XX] markers intact
+- Only change the text BETWEEN the markers
+- Save the humanized version and we'll map it back automatically
+
+================================================================================
+
+===PAGE: Homepage (src/app/page.tsx)===
+
+[BLOCK-homepage-01] (CONTENT BLOCK)
+We set up AI that hunts down your perfect customers on social media, Google, and a bunch of ad platforms. Your pipeline stays packed so you can focus on closing deals. Think of it like having a sales team that works around the clock without needing coffee breaks.
+[/BLOCK-homepage-01]
+
+[BLOCK-homepage-02] (CONTENT BLOCK)
+We use AI to research and write high-quality articles that actually rank on Google. You get fresh content that brings in organic traffic without the high cost of a writing agency. It's the smartest way to grow your authority.
+[/BLOCK-homepage-02]
+
+[BLOCK-homepage-03] (CONTENT BLOCK)
+Our AI answers your phone, asks the right questions, and books appointments. Inbound or outbound calls—doesn't matter. Your phone turns into a money-making machine that never takes a break. Your phone becomes a 24/7 booking machine.
+[/BLOCK-homepage-03]
+
+[BLOCK-homepage-04] (CONTENT BLOCK)
+You've got maybe 3 seconds before someone bounces. We build pages that load quick, look sharp, and turn visitors into leads. We test different versions until we find what works best for you.
+[/BLOCK-homepage-04]
+
+[BLOCK-homepage-05] (CONTENT BLOCK)
+A chat widget that doesn't sound like a robot. It talks to your visitors, answers their questions, and books meetings for you. One of our clients tripled their leads in a week after we set this up. It was a big deal for them.
+[/BLOCK-homepage-05]
+
+[BLOCK-homepage-06] (CONTENT BLOCK)
+Social media feels like a second job, right? We take care of it. We post for you every month across all your platforms so people remember you exist. You stay visible without lifting a finger.
+[/BLOCK-homepage-06]
+
+[BLOCK-homepage-07] (CONTENT BLOCK)
+Tired of throwing money at ads and hoping something sticks? We write headlines that grab people and keep testing until your cost per lead drops. You get to watch the numbers go up while we handle the details.
+[/BLOCK-homepage-07]
+
+[BLOCK-homepage-08] (CONTENT BLOCK)
+Emails that don't feel like spam. We write follow-up sequences that sound like a real person wrote them. Leads move through your pipeline on autopilot. No more "just checking in" messages you have to send yourself.
+[/BLOCK-homepage-08]
+
+[BLOCK-homepage-09] (CONTENT BLOCK)
+If people can't find you on Google Maps, you're losing customers. We fix your profile so locals actually see you when they search. More visibility means more calls. Pretty straightforward.
+[/BLOCK-homepage-09]
+
+[BLOCK-homepage-10] (CONTENT BLOCK)
+Responding to reviews matters, but who has time? Our system writes thoughtful replies for you. Good reviews get a thank you, bad ones get handled professionally. You don't type a thing.
+[/BLOCK-homepage-10]
+
+[BLOCK-homepage-11] (PAGE COPY)
+See real results in a week
+[/BLOCK-homepage-11]
+
+[BLOCK-homepage-12] (PAGE COPY)
+More Leads, Less Busywork.
+[/BLOCK-homepage-12]
+
+[BLOCK-homepage-13] (PAGE COPY)
+We build smart tools that bring in leads, answer your phones, and handle the boring stuff while you sleep. No complicated tech talk. Just results.
+[/BLOCK-homepage-13]
+
+[BLOCK-homepage-14] (PAGE COPY)
+Everything We Can Do for You
+[/BLOCK-homepage-14]
+
+[BLOCK-homepage-15] (PAGE COPY)
+If AI can help you get more customers or save time, we've probably built it. Here's what we offer.
+[/BLOCK-homepage-15]
+
+[BLOCK-homepage-16] (CONTENT BLOCK)
+Most folks see their stuff live and working within a week. We move fast.
+[/BLOCK-homepage-16]
+
+[BLOCK-homepage-17] (CONTENT BLOCK)
+No contracts. Cancel whenever. We'd rather earn your business every month.
+[/BLOCK-homepage-17]
+
+[BLOCK-homepage-18] (CONTENT BLOCK)
+We track every lead and booking. You'll always know what's working and what's not.
+[/BLOCK-homepage-18]
+
+[BLOCK-homepage-19] (CONTENT BLOCK)
+Real humans pick up the phone. Got a question? You'll talk to someone who can actually help.
+[/BLOCK-homepage-19]
+
+[BLOCK-homepage-20] (PAGE COPY)
+Don't take our word for it. Here's what real clients told us.
+[/BLOCK-homepage-20]
+
+[BLOCK-homepage-21] (CONTENT BLOCK)
+AMP Marketing honestly changed everything for us. We went from like 10 leads to over 100 in eight weeks. That AI chatbot? It grabs leads while I'm sleeping.
+[/BLOCK-homepage-21]
+
+[BLOCK-homepage-22] (CONTENT BLOCK)
+Finally found an AI team that does what they say. We've burned through agencies before, but these guys are fast. They actually care.
+[/BLOCK-homepage-22]
+
+[BLOCK-homepage-23] (CONTENT BLOCK)
+Our lead generation was basically nonexistent before AMP Marketing took it over. Now our pipeline is full of qualified prospects. Phone has not stopped ringing.
+[/BLOCK-homepage-23]
+
+[BLOCK-homepage-24] (CONTENT BLOCK)
+The AI voice receptionist pays for itself every single month. We used to miss 20% of our calls. Now every single one gets answered professionally, 24/7.
+[/BLOCK-homepage-24]
+
+[BLOCK-homepage-25] (CONTENT BLOCK)
+Email automation changed our business. We were spending hours every week on manual follow-ups. Now it happens automatically, and our close rate has increased by 40%.
+[/BLOCK-homepage-25]
+
+[BLOCK-homepage-26] (CONTENT BLOCK)
+The custom AI application they built for us saved us 30 hours a week. That is not a typo. Best investment we have ever made.
+[/BLOCK-homepage-26]
+
+[BLOCK-homepage-27] (PAGE COPY)
+We've done this for hundreds of businesses. Let's hop on a quick call and see if we can help you too. No pressure. No sales pitch.
+[/BLOCK-homepage-27]
+
+===END PAGE: Homepage===
+
+
+===PAGE: About (src/app/about/page.tsx)===
+
+[BLOCK-about-01] (PAGE COPY)
+We help businesses find more leads and close more sales using technology that actually delivers.
+[/BLOCK-about-01]
+
+[BLOCK-about-02] (PAGE COPY)
+Honestly? We're obsessed with outcomes, not activity. Every dollar you spend should bring you more back.
+[/BLOCK-about-02]
+
+[BLOCK-about-03] (PAGE COPY)
+Straight talk, clear pricing, honest timelines. We don't do corporate speak or hidden fees. Period.
+[/BLOCK-about-03]
+
+[BLOCK-about-04] (PAGE COPY)
+We move fast and adapt to your needs. Seriously, no bureaucracy, no endless approvals.
+[/BLOCK-about-04]
+
+[BLOCK-about-05] (PAGE COPY)
+AMP Marketing was built by the same dedicated team behind
+[/BLOCK-about-05]
+
+[BLOCK-about-06] (PAGE COPY)
+. 
+                            Led by Michael Krieger, our mission remains the same: helping businesses grow through smart, results-driven strategies.
+[/BLOCK-about-06]
+
+[BLOCK-about-07] (PAGE COPY)
+Michael Krieger started Prime Marketing Experts back in 2017. He's from Boston, went to UMass Lowell, and spent years helping hundreds of small businesses figure out how to grow. 
+                            Along the way, he noticed something: AI was getting good enough to make marketing faster and way more affordable for regular businesses.
+[/BLOCK-about-07]
+
+[BLOCK-about-08] (PAGE COPY)
+AMP Marketing is what came next. We took everything we learned at Prime and mixed it with AI tools that actually work—the kind that get you qualified leads in days, not months.
+[/BLOCK-about-08]
+
+[BLOCK-about-09] (PAGE COPY)
+We now work with over 500 businesses across the country. Doesn't matter if you're a plumber or a law firm—you get the same attention to detail and focus on results that Michael's been about since day one.
+[/BLOCK-about-09]
+
+[BLOCK-about-10] (PAGE COPY)
+The AMP Marketing Difference
+[/BLOCK-about-10]
+
+[BLOCK-about-11] (CONTENT BLOCK)
+You see exactly what you're paying. No surprise fees, and you can walk away whenever.
+[/BLOCK-about-11]
+
+[BLOCK-about-12] (CONTENT BLOCK)
+We track every single lead. You'll always know if your money's actually working.
+[/BLOCK-about-12]
+
+[BLOCK-about-13] (CONTENT BLOCK)
+Most of our stuff goes live in about a week. No months of waiting around.
+[/BLOCK-about-13]
+
+[BLOCK-about-14] (CONTENT BLOCK)
+Got a question? Just reach out. You talk to actual people who know your account.
+[/BLOCK-about-14]
+
+[BLOCK-about-15] (CONTENT BLOCK)
+AMP Marketing finally fixed our lead generation problem. We went from 10 leads a month to over 100 in just 8 weeks. The chatbot alone captures dozens of leads while we sleep.
+[/BLOCK-about-15]
+
+[BLOCK-about-16] (CONTENT BLOCK)
+We've worked with plenty of agencies, but none delivered results this fast. We saw more patient inquiries in the first month than we did all last year.
+[/BLOCK-about-16]
+
+[BLOCK-about-17] (CONTENT BLOCK)
+We went from being invisible on Google to dominating the local map pack. Our phone hasn't stopped ringing with reservation inquiries.
+[/BLOCK-about-17]
+
+[BLOCK-about-18] (CONTENT BLOCK)
+The AI voice receptionist pays for itself every single month. We used to miss 20% of our calls. Now every single one gets answered professionally, 24/7.
+[/BLOCK-about-18]
+
+[BLOCK-about-19] (CONTENT BLOCK)
+Email automation changed our business. We were spending hours every week on manual follow-ups. Now it happens automatically, and our close rate has increased by 40%.
+[/BLOCK-about-19]
+
+[BLOCK-about-20] (CONTENT BLOCK)
+The landing page they built for us generated $47,000 in its first month. Nope, not a typo. Best marketing investment we've ever made, period.
+[/BLOCK-about-20]
+
+[BLOCK-about-21] (PAGE COPY)
+Actual numbers from businesses we've worked with. No fluff.
+[/BLOCK-about-21]
+
+[BLOCK-about-22] (CONTENT BLOCK)
+This HVAC company was getting maybe 15 leads a month from their website. Pretty much lived off referrals and word of mouth.
+[/BLOCK-about-22]
+
+[BLOCK-about-23] (CONTENT BLOCK)
+We set up an AI chatbot that catches leads around the clock, fixed up their Google Business profile, and built landing pages for the specific areas they serve.
+[/BLOCK-about-23]
+
+[BLOCK-about-24] (CONTENT BLOCK)
+Eight weeks later? Over 100 leads a month. That's a 567% jump. Their cost per lead dropped 62%, and people now book appointments straight through the bot.
+[/BLOCK-about-24]
+
+[BLOCK-about-25] (CONTENT BLOCK)
+I was skeptical at first, but these guys delivered. Our phone has not stopped ringing since day one.
+[/BLOCK-about-25]
+
+[BLOCK-about-26] (CONTENT BLOCK)
+Brand new dental practice. They needed patients fast, kept dealing with no-shows, and had zero systems for getting reviews.
+[/BLOCK-about-26]
+
+[BLOCK-about-27] (CONTENT BLOCK)
+We put in an AI phone system that handles scheduling, plus automated emails to follow up with new patients and ask for reviews.
+[/BLOCK-about-27]
+
+[BLOCK-about-28] (CONTENT BLOCK)
+First month: 47 new patient appointments. No-shows dropped 73%. And they hit 4.8 stars with 120+ reviews.
+[/BLOCK-about-28]
+
+[BLOCK-about-29] (CONTENT BLOCK)
+The automation alone saves us 10+ hours per week. And the new patient flow is incredible.
+[/BLOCK-about-29]
+
+===END PAGE: About===
+
+
+===PAGE: Contact (src/app/contact/page.tsx)===
+
+[BLOCK-contact-01] (PAGE COPY)
+Got questions? Want to chat about your project? Drop us a line 
+                        and we'll get back to you fast—usually the same day.
+[/BLOCK-contact-01]
+
+[BLOCK-contact-02] (PAGE COPY)
+Google Business Optimization
+[/BLOCK-contact-02]
+
+[BLOCK-contact-03] (PAGE COPY)
+We usually reply within a day.
+[/BLOCK-contact-03]
+
+[BLOCK-contact-04] (PAGE COPY)
+74 Northeastern Blvd #12a Ste 101
+[/BLOCK-contact-04]
+
+[BLOCK-contact-05] (PAGE COPY)
+Free 15-minute chat. Tell us what's bugging you. No pitch, no pressure—just a real conversation about whether we can help.
+[/BLOCK-contact-05]
+
+===END PAGE: Contact===
+

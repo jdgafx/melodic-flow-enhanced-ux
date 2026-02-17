@@ -1,0 +1,15 @@
+# Cloudflare Pages Deployment Configuration
+# 
+# To deploy:
+# 1. Get API token from https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
+# 2. Set: export CLOUDFLARE_API_TOKEN="your-token-here"
+# 3. Run: npx wrangler pages deploy out --project-name=convertiq
+#
+# Or use GitHub integration:
+# 1. Push this repo to GitHub
+# 2. Connect to Cloudflare Pages via Dashboard
+# 3. Auto-deploy on push
+
+name = "convertiq"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "out"

@@ -1,0 +1,34 @@
+[
+  {
+    "tag": "INPUT",
+    "text": "michael@primemarketingexperts.com",
+    "id": "email",
+    "className": "",
+    "href": null,
+    "type": "text"
+  },
+  {
+    "tag": "INPUT",
+    "text": "Cherokee6490%%",
+    "id": "password",
+    "className": "",
+    "href": null,
+    "type": "password"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Login",
+    "id": "",
+    "className": "style_button__BrE83",
+    "href": null,
+    "type": "submit"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Login with Google",
+    "id": "",
+    "className": "style_oauth-button__LSa4H style_google__ItJRW",
+    "href": null,
+    "type": "submit"
+  }
+]

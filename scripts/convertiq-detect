@@ -1,0 +1,96 @@
+#!/usr/bin/env python3
+"""
+ConvertIQ AI Content Detection CLI
+Usage: convertiq-detect [options] [text | --file <path>]
+"""
+
+import sys
+import argparse
+import json
+from pathlib import Path
+
+# Add scripts to path
+sys.path.insert(0, str(Path(__file__).parent))
+
+from detectiq_detector_v2 import ConvertIQDetector, analyze, format_result
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="ConvertIQ AI Content Detector",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  convertiq-detect "Your text here"
+  convertiq-detect --file article.txt
+  convertiq-detect --json "AI generated content"
+  cat article.txt | convertiq-detect --pipe
+
+Environment:
+  MINIMAX_API_KEY    Set for LLM-powered detection
+        """
+    )
+    
+    parser.add_argument('text', nargs='?', help='Text to analyze')
+    parser.add_argument('-f', '--file', metavar='PATH', help='Read from file')
+    parser.add_argument('--pipe', action='store_true', help='Read from stdin')
+    parser.add_argument('-j', '--json', action='store_true', help='Output as JSON')
+    parser.add_argument('-v', '--verbose', action='store_true', help='Show detailed features')
+    parser.add_argument('--api', metavar='KEY', help='MiniMax API key')
+    
+    args = parser.parse_args()
+    
+    # Get API key
+    api_key = args.api or __import__("os").environ.get("MINIMAX_API_KEY")
+    
+    # Get text
+    text = None
+    
+    if args.pipe:
+        text = sys.stdin.read()
+    elif args.file:
+        try:
+            with open(args.file, 'r') as f:
+                text = f.read()
+        except FileNotFoundError:
+            print(f"Error: File not found: {args.file}")
+            sys.exit(1)
+    elif args.text:
+        text = args.text
+    else:
+        parser.print_help()
+        sys.exit(1)
+    
+    if not text.strip():
+        print("Error: No text to analyze")
+        sys.exit(1)
+    
+    # Analyze
+    detector = ConvertIQDetector(api_key=api_key)
+    result = detector.analyze(text)
+    
+    # Output
+    if args.json:
+        output = {
+            "ai_probability": result.ai_probability,
+            "is_ai_generated": result.is_ai_generated,
+            "verdict": result.verdict,
+            "confidence": result.confidence,
+            "method_scores": result.method_scores,
+            "recommendations": result.recommendations,
+            "features": {k: v for k, v in result.features.items() 
+                        if not isinstance(v, dict)} if args.verbose else {}
+        }
+        print(json.dumps(output, indent=2))
+    else:
+        print(format_result(result))
+        
+        if args.verbose:
+            print("\n" + "="*50)
+            print("DETAILED FEATURES")
+            print("="*50)
+            for key, value in result.features.items():
+                if not isinstance(value, dict):
+                    print(f"  {key}: {value}")
+
+if __name__ == "__main__":
+    main()

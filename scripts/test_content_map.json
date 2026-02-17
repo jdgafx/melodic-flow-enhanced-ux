@@ -1,0 +1,9 @@
+{
+  "src/app/pricing/page.tsx": {
+    "topic": "Pricing",
+    "blocks": [
+      "No sneaky fees. No contracts locking you in. Everything&apos;s customizable—because that&apos;s how we do things.",
+      "7 days free. No card required. Walk away anytime if it's not your thing."
+    ]
+  }
+}

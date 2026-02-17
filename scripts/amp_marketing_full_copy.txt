@@ -1,0 +1,1400 @@
+================================================================================
+AMP MARKETING — COMPLETE WEBSITE COPY
+Export for Humanization
+================================================================================
+
+INSTRUCTIONS:
+- Each section below is marked with ===PAGE=== headers
+- Within each page, text blocks are numbered [BLOCK-XX]
+- When humanizing, KEEP the ===PAGE=== and [BLOCK-XX] markers intact
+- Only change the text BETWEEN the markers
+- Save the humanized version and we'll map it back automatically
+
+================================================================================
+
+===PAGE: Homepage (src/app/page.tsx)===
+
+[BLOCK-homepage-01] (CONTENT BLOCK)
+We set up AI that hunts down your perfect customers on social media, Google, and a bunch of ad platforms. Your pipeline stays packed so you can focus on closing deals. Think of it like having a sales team that works around the clock without needing coffee breaks.
+[/BLOCK-homepage-01]
+
+[BLOCK-homepage-02] (CONTENT BLOCK)
+We use AI to research and write high-quality articles that actually rank on Google. You get fresh content that brings in organic traffic without the high cost of a writing agency. It's the smartest way to grow your authority.
+[/BLOCK-homepage-02]
+
+[BLOCK-homepage-03] (CONTENT BLOCK)
+Our AI answers your phone, asks the right questions, and books appointments. Inbound or outbound calls—doesn't matter. Your phone turns into a money-making machine that never takes a break. Your phone becomes a 24/7 booking machine.
+[/BLOCK-homepage-03]
+
+[BLOCK-homepage-04] (CONTENT BLOCK)
+You've got maybe 3 seconds before someone bounces. We build pages that load quick, look sharp, and turn visitors into leads. We test different versions until we find what works best for you.
+[/BLOCK-homepage-04]
+
+[BLOCK-homepage-05] (CONTENT BLOCK)
+A chat widget that doesn't sound like a robot. It talks to your visitors, answers their questions, and books meetings for you. One of our clients tripled their leads in a week after we set this up. It was a big deal for them.
+[/BLOCK-homepage-05]
+
+[BLOCK-homepage-06] (CONTENT BLOCK)
+Social media feels like a second job, right? We take care of it. We post for you every month across all your platforms so people remember you exist. You stay visible without lifting a finger.
+[/BLOCK-homepage-06]
+
+[BLOCK-homepage-07] (CONTENT BLOCK)
+Tired of throwing money at ads and hoping something sticks? We write headlines that grab people and keep testing until your cost per lead drops. You get to watch the numbers go up while we handle the details.
+[/BLOCK-homepage-07]
+
+[BLOCK-homepage-08] (CONTENT BLOCK)
+Emails that don't feel like spam. We write follow-up sequences that sound like a real person wrote them. Leads move through your pipeline on autopilot. No more "just checking in" messages you have to send yourself.
+[/BLOCK-homepage-08]
+
+[BLOCK-homepage-09] (CONTENT BLOCK)
+If people can't find you on Google Maps, you're losing customers. We fix your profile so locals actually see you when they search. More visibility means more calls. Pretty straightforward.
+[/BLOCK-homepage-09]
+
+[BLOCK-homepage-10] (CONTENT BLOCK)
+Responding to reviews matters, but who has time? Our system writes thoughtful replies for you. Good reviews get a thank you, bad ones get handled professionally. You don't type a thing.
+[/BLOCK-homepage-10]
+
+[BLOCK-homepage-11] (PAGE COPY)
+See real results in a week
+[/BLOCK-homepage-11]
+
+[BLOCK-homepage-12] (PAGE COPY)
+More Leads, Less Busywork.
+[/BLOCK-homepage-12]
+
+[BLOCK-homepage-13] (PAGE COPY)
+We build smart tools that bring in leads, answer your phones, and handle the boring stuff while you sleep. No complicated tech talk. Just results.
+[/BLOCK-homepage-13]
+
+[BLOCK-homepage-14] (PAGE COPY)
+Everything We Can Do for You
+[/BLOCK-homepage-14]
+
+[BLOCK-homepage-15] (PAGE COPY)
+If AI can help you get more customers or save time, we've probably built it. Here's what we offer.
+[/BLOCK-homepage-15]
+
+[BLOCK-homepage-16] (CONTENT BLOCK)
+Most folks see their stuff live and working within a week. We move fast.
+[/BLOCK-homepage-16]
+
+[BLOCK-homepage-17] (CONTENT BLOCK)
+No contracts. Cancel whenever. We'd rather earn your business every month.
+[/BLOCK-homepage-17]
+
+[BLOCK-homepage-18] (CONTENT BLOCK)
+We track every lead and booking. You'll always know what's working and what's not.
+[/BLOCK-homepage-18]
+
+[BLOCK-homepage-19] (CONTENT BLOCK)
+Real humans pick up the phone. Got a question? You'll talk to someone who can actually help.
+[/BLOCK-homepage-19]
+
+[BLOCK-homepage-20] (PAGE COPY)
+Don't take our word for it. Here's what real clients told us.
+[/BLOCK-homepage-20]
+
+[BLOCK-homepage-21] (CONTENT BLOCK)
+AMP Marketing honestly changed everything for us. We went from like 10 leads to over 100 in eight weeks. That AI chatbot? It grabs leads while I'm sleeping.
+[/BLOCK-homepage-21]
+
+[BLOCK-homepage-22] (CONTENT BLOCK)
+Finally found an AI team that does what they say. We've burned through agencies before, but these guys are fast. They actually care.
+[/BLOCK-homepage-22]
+
+[BLOCK-homepage-23] (CONTENT BLOCK)
+Our lead generation was basically nonexistent before AMP Marketing took it over. Now our pipeline is full of qualified prospects. Phone has not stopped ringing.
+[/BLOCK-homepage-23]
+
+[BLOCK-homepage-24] (CONTENT BLOCK)
+The AI voice receptionist pays for itself every single month. We used to miss 20% of our calls. Now every single one gets answered professionally, 24/7.
+[/BLOCK-homepage-24]
+
+[BLOCK-homepage-25] (CONTENT BLOCK)
+Email automation changed our business. We were spending hours every week on manual follow-ups. Now it happens automatically, and our close rate has increased by 40%.
+[/BLOCK-homepage-25]
+
+[BLOCK-homepage-26] (CONTENT BLOCK)
+The custom AI application they built for us saved us 30 hours a week. That is not a typo. Best investment we have ever made.
+[/BLOCK-homepage-26]
+
+[BLOCK-homepage-27] (PAGE COPY)
+We've done this for hundreds of businesses. Let's hop on a quick call and see if we can help you too. No pressure. No sales pitch.
+[/BLOCK-homepage-27]
+
+===END PAGE: Homepage===
+
+
+===PAGE: About (src/app/about/page.tsx)===
+
+[BLOCK-about-01] (PAGE COPY)
+We help businesses find more leads and close more sales using technology that actually delivers.
+[/BLOCK-about-01]
+
+[BLOCK-about-02] (PAGE COPY)
+Honestly? We're obsessed with outcomes, not activity. Every dollar you spend should bring you more back.
+[/BLOCK-about-02]
+
+[BLOCK-about-03] (PAGE COPY)
+Straight talk, clear pricing, honest timelines. We don't do corporate speak or hidden fees. Period.
+[/BLOCK-about-03]
+
+[BLOCK-about-04] (PAGE COPY)
+We move fast and adapt to your needs. Seriously, no bureaucracy, no endless approvals.
+[/BLOCK-about-04]
+
+[BLOCK-about-05] (PAGE COPY)
+AMP Marketing was built by the same dedicated team behind
+[/BLOCK-about-05]
+
+[BLOCK-about-06] (PAGE COPY)
+. 
+                            Led by Michael Krieger, our mission remains the same: helping businesses grow through smart, results-driven strategies.
+[/BLOCK-about-06]
+
+[BLOCK-about-07] (PAGE COPY)
+Michael Krieger started Prime Marketing Experts back in 2017. He's from Boston, went to UMass Lowell, and spent years helping hundreds of small businesses figure out how to grow. 
+                            Along the way, he noticed something: AI was getting good enough to make marketing faster and way more affordable for regular businesses.
+[/BLOCK-about-07]
+
+[BLOCK-about-08] (PAGE COPY)
+AMP Marketing is what came next. We took everything we learned at Prime and mixed it with AI tools that actually work—the kind that get you qualified leads in days, not months.
+[/BLOCK-about-08]
+
+[BLOCK-about-09] (PAGE COPY)
+We now work with over 500 businesses across the country. Doesn't matter if you're a plumber or a law firm—you get the same attention to detail and focus on results that Michael's been about since day one.
+[/BLOCK-about-09]
+
+[BLOCK-about-10] (PAGE COPY)
+The AMP Marketing Difference
+[/BLOCK-about-10]
+
+[BLOCK-about-11] (CONTENT BLOCK)
+You see exactly what you're paying. No surprise fees, and you can walk away whenever.
+[/BLOCK-about-11]
+
+[BLOCK-about-12] (CONTENT BLOCK)
+We track every single lead. You'll always know if your money's actually working.
+[/BLOCK-about-12]
+
+[BLOCK-about-13] (CONTENT BLOCK)
+Most of our stuff goes live in about a week. No months of waiting around.
+[/BLOCK-about-13]
+
+[BLOCK-about-14] (CONTENT BLOCK)
+Got a question? Just reach out. You talk to actual people who know your account.
+[/BLOCK-about-14]
+
+[BLOCK-about-15] (CONTENT BLOCK)
+AMP Marketing finally fixed our lead generation problem. We went from 10 leads a month to over 100 in just 8 weeks. The chatbot alone captures dozens of leads while we sleep.
+[/BLOCK-about-15]
+
+[BLOCK-about-16] (CONTENT BLOCK)
+We've worked with plenty of agencies, but none delivered results this fast. We saw more patient inquiries in the first month than we did all last year.
+[/BLOCK-about-16]
+
+[BLOCK-about-17] (CONTENT BLOCK)
+We went from being invisible on Google to dominating the local map pack. Our phone hasn't stopped ringing with reservation inquiries.
+[/BLOCK-about-17]
+
+[BLOCK-about-18] (CONTENT BLOCK)
+The AI voice receptionist pays for itself every single month. We used to miss 20% of our calls. Now every single one gets answered professionally, 24/7.
+[/BLOCK-about-18]
+
+[BLOCK-about-19] (CONTENT BLOCK)
+Email automation changed our business. We were spending hours every week on manual follow-ups. Now it happens automatically, and our close rate has increased by 40%.
+[/BLOCK-about-19]
+
+[BLOCK-about-20] (CONTENT BLOCK)
+The landing page they built for us generated $47,000 in its first month. Nope, not a typo. Best marketing investment we've ever made, period.
+[/BLOCK-about-20]
+
+[BLOCK-about-21] (PAGE COPY)
+Actual numbers from businesses we've worked with. No fluff.
+[/BLOCK-about-21]
+
+[BLOCK-about-22] (CONTENT BLOCK)
+This HVAC company was getting maybe 15 leads a month from their website. Pretty much lived off referrals and word of mouth.
+[/BLOCK-about-22]
+
+[BLOCK-about-23] (CONTENT BLOCK)
+We set up an AI chatbot that catches leads around the clock, fixed up their Google Business profile, and built landing pages for the specific areas they serve.
+[/BLOCK-about-23]
+
+[BLOCK-about-24] (CONTENT BLOCK)
+Eight weeks later? Over 100 leads a month. That's a 567% jump. Their cost per lead dropped 62%, and people now book appointments straight through the bot.
+[/BLOCK-about-24]
+
+[BLOCK-about-25] (CONTENT BLOCK)
+I was skeptical at first, but these guys delivered. Our phone has not stopped ringing since day one.
+[/BLOCK-about-25]
+
+[BLOCK-about-26] (CONTENT BLOCK)
+Brand new dental practice. They needed patients fast, kept dealing with no-shows, and had zero systems for getting reviews.
+[/BLOCK-about-26]
+
+[BLOCK-about-27] (CONTENT BLOCK)
+We put in an AI phone system that handles scheduling, plus automated emails to follow up with new patients and ask for reviews.
+[/BLOCK-about-27]
+
+[BLOCK-about-28] (CONTENT BLOCK)
+First month: 47 new patient appointments. No-shows dropped 73%. And they hit 4.8 stars with 120+ reviews.
+[/BLOCK-about-28]
+
+[BLOCK-about-29] (CONTENT BLOCK)
+The automation alone saves us 10+ hours per week. And the new patient flow is incredible.
+[/BLOCK-about-29]
+
+===END PAGE: About===
+
+
+===PAGE: Contact (src/app/contact/page.tsx)===
+
+[BLOCK-contact-01] (PAGE COPY)
+Got questions? Want to chat about your project? Drop us a line 
+                        and we'll get back to you fast—usually the same day.
+[/BLOCK-contact-01]
+
+[BLOCK-contact-02] (PAGE COPY)
+Google Business Optimization
+[/BLOCK-contact-02]
+
+[BLOCK-contact-03] (PAGE COPY)
+We usually reply within a day.
+[/BLOCK-contact-03]
+
+[BLOCK-contact-04] (PAGE COPY)
+74 Northeastern Blvd #12a Ste 101
+[/BLOCK-contact-04]
+
+[BLOCK-contact-05] (PAGE COPY)
+Free 15-minute chat. Tell us what's bugging you. No pitch, no pressure—just a real conversation about whether we can help.
+[/BLOCK-contact-05]
+
+===END PAGE: Contact===
+
+
+===PAGE: Pricing (src/app/pricing/page.tsx)===
+
+[BLOCK-pricing-01] (CONTENT BLOCK)
+Look, if you're just testing the waters—this is your starting point. You get a chatbot that books appointments while you sleep, we'll fix up your Google listing so locals can actually find you, and reviews get answered on autopilot. Pretty simple stuff.
+[/BLOCK-pricing-01]
+
+[BLOCK-pricing-02] (CONTENT BLOCK)
+Here's the thing—most of our clients land here. You get everything from Starter plus a phone bot that picks up when you can't, email sequences that don't feel spammy, regular social posts, and ad copy that people actually click on.
+[/BLOCK-pricing-02]
+
+[BLOCK-pricing-03] (CONTENT BLOCK)
+This is the full package. We handle your content, build landing pages, set up complete funnels, train custom AI on your business, and you get a dedicated person who knows your stuff inside and out.
+[/BLOCK-pricing-03]
+
+[BLOCK-pricing-04] (CONTENT BLOCK)
+What do I get in the free trial?
+[/BLOCK-pricing-04]
+
+[BLOCK-pricing-05] (CONTENT BLOCK)
+The whole thing. All of it. 7 days, no credit card needed, no weird catches. Try it out. If it's not for you, no big deal—just don't continue. Zero hassle.
+[/BLOCK-pricing-05]
+
+[BLOCK-pricing-06] (CONTENT BLOCK)
+Can you make it fit my business?
+[/BLOCK-pricing-06]
+
+[BLOCK-pricing-07] (CONTENT BLOCK)
+That's the whole point. We don't copy-paste the same stuff for everyone. Your chatbot scripts, emails, ads—all of it gets written for YOUR business. We keep tweaking until it sounds like you.
+[/BLOCK-pricing-07]
+
+[BLOCK-pricing-08] (CONTENT BLOCK)
+What if I want to change plans?
+[/BLOCK-pricing-08]
+
+[BLOCK-pricing-09] (CONTENT BLOCK)
+Go for it. Upgrade when you're ready to grow, downgrade if things slow down. We adjust your bill to match. No fees, no guilt trips.
+[/BLOCK-pricing-09]
+
+[BLOCK-pricing-10] (CONTENT BLOCK)
+What if none of these plans work for me?
+[/BLOCK-pricing-10]
+
+[BLOCK-pricing-11] (CONTENT BLOCK)
+Then we'll make one that does. Just tell us what you're looking for and we'll put something together that fits your situation.
+[/BLOCK-pricing-11]
+
+[BLOCK-pricing-12] (CONTENT BLOCK)
+How fast will this actually work?
+[/BLOCK-pricing-12]
+
+[BLOCK-pricing-13] (CONTENT BLOCK)
+Depends on what you're using. Chatbots? Day one. Could see leads that same afternoon. SEO takes a bit—usually a couple months to really kick in. But most people notice changes in the first week or two.
+[/BLOCK-pricing-13]
+
+[BLOCK-pricing-14] (CONTENT BLOCK)
+Do I have to sign a long contract?
+[/BLOCK-pricing-14]
+
+[BLOCK-pricing-15] (CONTENT BLOCK)
+Nope. Month to month. Want to cancel? Just let us know 30 days ahead. We're not into trapping people.
+[/BLOCK-pricing-15]
+
+[BLOCK-pricing-16] (PAGE COPY)
+No sneaky fees. No contracts locking you in. Everything's customizable—because that's how we do things.
+[/BLOCK-pricing-16]
+
+[BLOCK-pricing-17] (PAGE COPY)
+Not everyone needs the full package. Grab what makes sense for you. We can tweak any of these to fit.
+[/BLOCK-pricing-17]
+
+[BLOCK-pricing-18] (PAGE COPY)
+✓ Help with setup included
+[/BLOCK-pricing-18]
+
+[BLOCK-pricing-19] (PAGE COPY)
+Here's the breakdown so you know what you're getting
+[/BLOCK-pricing-19]
+
+[BLOCK-pricing-20] (PAGE COPY)
+Questions People Usually Ask
+[/BLOCK-pricing-20]
+
+[BLOCK-pricing-21] (PAGE COPY)
+Stuff we get asked all the time
+[/BLOCK-pricing-21]
+
+[BLOCK-pricing-22] (PAGE COPY)
+Want to See If This Actually Works?
+[/BLOCK-pricing-22]
+
+[BLOCK-pricing-23] (PAGE COPY)
+7 days free. No card required. Walk away anytime if it's not your thing.
+[/BLOCK-pricing-23]
+
+[BLOCK-pricing-24] (PAGE COPY)
+Schedule Free Consultation
+[/BLOCK-pricing-24]
+
+===END PAGE: Pricing===
+
+
+===PAGE: Services Overview (src/app/services/page.tsx)===
+
+[BLOCK-services-01] (SEO META)
+We help businesses get more leads and save time with AI. From finding customers to handling calls, we build tools that actually work.
+[/BLOCK-services-01]
+
+[BLOCK-services-02] (CONTENT BLOCK)
+We use smart AI to find your perfect customers across social media and 100+ ad platforms. The system fills your funnel automatically so you just focus on closing deals.
+[/BLOCK-services-02]
+
+[BLOCK-services-03] (CONTENT BLOCK)
+We use AI to research and write high-quality articles that actually rank on Google. You get fresh content that brings in organic traffic without the high cost of a writing agency.
+[/BLOCK-services-03]
+
+[BLOCK-services-04] (CONTENT BLOCK)
+Never miss a call again. Our AI answers, qualifies leads, and books appointments—day or night. Works for incoming calls and outbound too.
+[/BLOCK-services-04]
+
+[BLOCK-services-05] (CONTENT BLOCK)
+You've got about 3 seconds to grab someone's attention. We build pages that load fast and get people to take action. Tested. Proven.
+[/BLOCK-services-05]
+
+[BLOCK-services-06] (CONTENT BLOCK)
+Most chatbots stink. Ours talks like a real person and books calls when people are ready. Clients often see more qualified leads in the first week.
+[/BLOCK-services-06]
+
+[BLOCK-services-07] (CONTENT BLOCK)
+Posting regularly works. It's also a time suck. We handle your posts across all platforms so you stay visible without the hassle.
+[/BLOCK-services-07]
+
+[BLOCK-services-08] (CONTENT BLOCK)
+Bad ads waste money. We write headlines that get clicks and keep testing until your cost per lead goes down. Runs on 100+ platforms.
+[/BLOCK-services-08]
+
+[BLOCK-services-09] (CONTENT BLOCK)
+Generic emails get ignored. We write follow-ups that sound like you—personal, friendly, and they actually get replies.
+[/BLOCK-services-09]
+
+[BLOCK-services-10] (CONTENT BLOCK)
+If people can't find you on Google Maps, they're finding your competition. We fix your profile so locals actually see you.
+[/BLOCK-services-10]
+
+[BLOCK-services-11] (CONTENT BLOCK)
+Replying to every review takes forever. Our AI reads each one and writes a thoughtful response. Good ones get thanked. Bad ones get handled.
+[/BLOCK-services-11]
+
+[BLOCK-services-12] (PAGE COPY)
+More leads. Less busywork. We build AI tools that save you time and bring in customers.
+[/BLOCK-services-12]
+
+[BLOCK-services-13] (PAGE COPY)
+s.featured).map((service, idx) => (
+[/BLOCK-services-13]
+
+[BLOCK-services-14] (PAGE COPY)
+Let's talk for 15 minutes. No pitch—we'll just figure out what makes sense for you.
+[/BLOCK-services-14]
+
+===END PAGE: Services Overview===
+
+
+===PAGE: AI Chatbot (src/app/services/ai-chatbot/page.tsx)===
+
+[BLOCK-ai-chatbot-01] (SEO META)
+Capture leads 24/7 with an intelligent AI chatbot. Never miss a website visitor again.
+[/BLOCK-ai-chatbot-01]
+
+[BLOCK-ai-chatbot-02] (PAGE COPY)
+Look, your website should be doing more than just sitting there. Honestly, if it's not starting conversations and booking leads while you're asleep, you're losing money. We build custom-trained AI chatbots that actually talk to your visitors and get them on your calendar.
+[/BLOCK-ai-chatbot-02]
+
+[BLOCK-ai-chatbot-03] (PAGE COPY)
+How It Helps Your Business
+[/BLOCK-ai-chatbot-03]
+
+[BLOCK-ai-chatbot-04] (PAGE COPY)
+Honestly, most chatbots are trash. We do it differently. We train your bot on your actual business docs and PDFs so it sounds like you, not some generic script. It's like having your best salesperson working 24/7 without the coffee breaks.
+[/BLOCK-ai-chatbot-04]
+
+[BLOCK-ai-chatbot-05] (BULLET POINT)
+We feed it your actual website, docs, and any PDFs you have—so it really knows your business inside and out.
+[/BLOCK-ai-chatbot-05]
+
+[BLOCK-ai-chatbot-06] (BULLET POINT)
+It asks the right questions to figure out if someone's actually worth your time before booking anything.
+[/BLOCK-ai-chatbot-06]
+
+[BLOCK-ai-chatbot-07] (BULLET POINT)
+Plugs straight into whatever calendar you use—Google, Outlook, doesn't matter. Books only when you're free.
+[/BLOCK-ai-chatbot-07]
+
+[BLOCK-ai-chatbot-08] (BULLET POINT)
+Visitors get instant answers at 2am. You don't have to be there.
+[/BLOCK-ai-chatbot-08]
+
+[BLOCK-ai-chatbot-09] (BULLET POINT)
+Every conversation automatically flows into your CRM. No manual data entry.
+[/BLOCK-ai-chatbot-09]
+
+[BLOCK-ai-chatbot-10] (BULLET POINT)
+And yeah, it gets smarter the more it chats with people. Learns what works.
+[/BLOCK-ai-chatbot-10]
+
+[BLOCK-ai-chatbot-11] (PAGE COPY)
+Starting at $497 setup + $149/mo
+[/BLOCK-ai-chatbot-11]
+
+[BLOCK-ai-chatbot-12] (PAGE COPY)
+Custom training and monthly AI management.
+[/BLOCK-ai-chatbot-12]
+
+[BLOCK-ai-chatbot-13] (PAGE COPY)
+Try it on your site. If it doesn't work, you don't pay.
+[/BLOCK-ai-chatbot-13]
+
+[BLOCK-ai-chatbot-14] (PAGE COPY)
+Frequently Asked Questions
+[/BLOCK-ai-chatbot-14]
+
+[BLOCK-ai-chatbot-15] (FAQ QUESTION)
+How does the free trial work?
+[/BLOCK-ai-chatbot-15]
+
+[BLOCK-ai-chatbot-16] (FAQ ANSWER)
+You get the full thing for 7 days—no credit card needed. Just see how many leads it actually pulls in. If it doesn't work for you, walk away. No harm done.
+[/BLOCK-ai-chatbot-16]
+
+[BLOCK-ai-chatbot-17] (FAQ QUESTION)
+How is the AI trained?
+[/BLOCK-ai-chatbot-17]
+
+[BLOCK-ai-chatbot-18] (FAQ ANSWER)
+We upload your website, any PDFs you have, docs, whatever you've got. The bot learns it all so it gives answers that actually make sense for your business—not generic fluff.
+[/BLOCK-ai-chatbot-18]
+
+[BLOCK-ai-chatbot-19] (FAQ QUESTION)
+Does it work with my calendar?
+[/BLOCK-ai-chatbot-19]
+
+[BLOCK-ai-chatbot-20] (FAQ ANSWER)
+Yup—works with Google, Outlook, whatever you use. Only books during times you actually have free. We set all that up for you.
+[/BLOCK-ai-chatbot-20]
+
+[BLOCK-ai-chatbot-21] (FAQ QUESTION)
+What if it doesn't know an answer?
+[/BLOCK-ai-chatbot-21]
+
+[BLOCK-ai-chatbot-22] (FAQ ANSWER)
+It tells them something like 'Let me get someone who knows more about that'—then immediately pings your team via email or text. You follow up and close the deal. Easy.
+[/BLOCK-ai-chatbot-22]
+
+[BLOCK-ai-chatbot-23] (PAGE COPY)
+Ready to Capture More Leads?
+[/BLOCK-ai-chatbot-23]
+
+[BLOCK-ai-chatbot-24] (PAGE COPY)
+Give it a week. Seriously. If you don't see more qualified leads coming in, just walk away.
+[/BLOCK-ai-chatbot-24]
+
+===END PAGE: AI Chatbot===
+
+
+===PAGE: AI Voice (src/app/services/ai-voice/page.tsx)===
+
+[BLOCK-ai-voice-01] (SEO META)
+Never miss a call again. AI-powered phone answering that works 24/7.
+[/BLOCK-ai-voice-01]
+
+[BLOCK-ai-voice-02] (PAGE COPY)
+Look, missed calls aren't just annoying—they're missed money. Honestly, if you aren't picking up on the first ring, your customers are just calling the next guy on Google. Our AI phone system handles everything 24/7 so you don't have to. It books appointments, answers questions, and basically runs your front desk while you're actually doing the work.
+[/BLOCK-ai-voice-02]
+
+[BLOCK-ai-voice-03] (PAGE COPY)
+Here's the deal—most businesses miss about a third of their calls. That's a lot of cash left on the table. We make sure every single caller gets a real conversation and a chance to book, even if it's 2 AM on a Sunday.
+[/BLOCK-ai-voice-03]
+
+[BLOCK-ai-voice-04] (BULLET POINT)
+First ring. Every time. No more voicemail, no more missed opportunities.
+[/BLOCK-ai-voice-04]
+
+[BLOCK-ai-voice-05] (BULLET POINT)
+It chats with callers, figures out if they're a good fit, then books them automatically.
+[/BLOCK-ai-voice-05]
+
+[BLOCK-ai-voice-06] (BULLET POINT)
+Something weird come up? It can send the call to your cell or take a message.
+[/BLOCK-ai-voice-06]
+
+[BLOCK-ai-voice-07] (BULLET POINT)
+Keep your number. Seriously, you don't need to change anything.
+[/BLOCK-ai-voice-07]
+
+[BLOCK-ai-voice-08] (BULLET POINT)
+We train it on your services in like an hour. No tech degree required.
+[/BLOCK-ai-voice-08]
+
+[BLOCK-ai-voice-09] (BULLET POINT)
+Plugs into whatever calendar you use. No double-bookings, ever.
+[/BLOCK-ai-voice-09]
+
+[BLOCK-ai-voice-10] (PAGE COPY)
+Starting at $497 setup + $249/mo
+[/BLOCK-ai-voice-10]
+
+[BLOCK-ai-voice-11] (PAGE COPY)
+Professional setup and ongoing 24/7 service.
+[/BLOCK-ai-voice-11]
+
+[BLOCK-ai-voice-12] (PAGE COPY)
+Questions? We've Got Answers
+[/BLOCK-ai-voice-12]
+
+[BLOCK-ai-voice-13] (FAQ QUESTION)
+How fast can I get this running?
+[/BLOCK-ai-voice-13]
+
+[BLOCK-ai-voice-14] (FAQ ANSWER)
+Most folks are up and getting calls within a day or two. We just need to know what you do, when you're free, and how you want calls handled.
+[/BLOCK-ai-voice-14]
+
+[BLOCK-ai-voice-15] (FAQ QUESTION)
+What if it can't help someone?
+[/BLOCK-ai-voice-15]
+
+[BLOCK-ai-voice-16] (FAQ ANSWER)
+You set the rules. It can grab their info, send them to your cell, or schedule a callback. Whatever works for you.
+[/BLOCK-ai-voice-16]
+
+[BLOCK-ai-voice-17] (FAQ QUESTION)
+Do I need a new phone number?
+[/BLOCK-ai-voice-17]
+
+[BLOCK-ai-voice-18] (FAQ ANSWER)
+Nope. You keep your number. We just route calls through our system so they get answered. Simple.
+[/BLOCK-ai-voice-18]
+
+[BLOCK-ai-voice-19] (FAQ QUESTION)
+How do I know how many calls you handled?
+[/BLOCK-ai-voice-19]
+
+[BLOCK-ai-voice-20] (FAQ ANSWER)
+Dashboard shows you everything—how many calls, how long they lasted, what happened. No guessing.
+[/BLOCK-ai-voice-20]
+
+[BLOCK-ai-voice-21] (PAGE COPY)
+Stop Losing Calls to Voicemail
+[/BLOCK-ai-voice-21]
+
+[BLOCK-ai-voice-22] (PAGE COPY)
+Try it free for a week. See how many appointments you wake up to.
+[/BLOCK-ai-voice-22]
+
+===END PAGE: AI Voice===
+
+
+===PAGE: Ad Copy (src/app/services/ad-copy/page.tsx)===
+
+[BLOCK-ad-copy-01] (SEO META)
+Ad copy that grabs attention and gets clicks. Lower your costs and sell more.
+[/BLOCK-ad-copy-01]
+
+[BLOCK-ad-copy-02] (PAGE COPY)
+High-Performance Ads Optimization
+[/BLOCK-ad-copy-02]
+
+[BLOCK-ad-copy-03] (PAGE COPY)
+Stop wasting money on ads people ignore. We write short, sharp headlines that grab attention and make people click. We test different versions every month to keep your costs low and your sales high.
+[/BLOCK-ad-copy-03]
+
+[BLOCK-ad-copy-04] (PAGE COPY)
+Here's something that keeps us up at night: most businesses waste a massive chunk of their ad budget—sometimes 30-50%—on copy that totally misses the mark. That's crazy, right? So here's how we tackle things:
+[/BLOCK-ad-copy-04]
+
+[BLOCK-ad-copy-05] (BULLET POINT)
+We create 4-8 headline variations for each ad set and let the testing do its thing.
+[/BLOCK-ad-copy-05]
+
+[BLOCK-ad-copy-06] (BULLET POINT)
+We do calls-to-action that actually make people click—not those boring 'Learn More' buttons we all scroll right past.
+[/BLOCK-ad-copy-06]
+
+[BLOCK-ad-copy-07] (BULLET POINT)
+Google, Meta, LinkedIn—we know what works on each platform.
+[/BLOCK-ad-copy-07]
+
+[BLOCK-ad-copy-08] (BULLET POINT)
+Different messages for different audiences because, let's be honest, a homeowner thinks way differently than a contractor.
+[/BLOCK-ad-copy-08]
+
+[BLOCK-ad-copy-09] (BULLET POINT)
+Oh, and most folks completely overlook extra details that make your ad stand out and actually make a real difference.
+[/BLOCK-ad-copy-09]
+
+[BLOCK-ad-copy-10] (BULLET POINT)
+We do weekly updates to improve results based on real data, not guesses. It's really not that complicated when you break it down.
+[/BLOCK-ad-copy-10]
+
+[BLOCK-ad-copy-11] (PAGE COPY)
+Starting at $299 setup + $199/mo
+[/BLOCK-ad-copy-11]
+
+[BLOCK-ad-copy-12] (PAGE COPY)
+Unlimited copy revisions included.
+[/BLOCK-ad-copy-12]
+
+[BLOCK-ad-copy-13] (FAQ QUESTION)
+Which platforms do you handle?
+[/BLOCK-ad-copy-13]
+
+[BLOCK-ad-copy-14] (FAQ ANSWER)
+Google Ads, Meta (that's Facebook and Instagram), LinkedIn Ads, and Microsoft Ads. Each one's got its own quirks and best practices—so what works on LinkedIn won't necessarily fly on Instagram, you know?
+[/BLOCK-ad-copy-14]
+
+[BLOCK-ad-copy-15] (FAQ QUESTION)
+How many variations do you actually write?
+[/BLOCK-ad-copy-15]
+
+[BLOCK-ad-copy-16] (FAQ ANSWER)
+Usually somewhere between 4-8 per ad set. It's enough to test things out without drowning in a million options.
+[/BLOCK-ad-copy-16]
+
+[BLOCK-ad-copy-17] (FAQ QUESTION)
+What if I already have ads running?
+[/BLOCK-ad-copy-17]
+
+[BLOCK-ad-copy-18] (FAQ ANSWER)
+No worries. We'll take a hard look at what's not working and come up with some fresh alternatives. Sometimes the fix is dead simple—just a tweak here and there. Other times? Yeah, we probably need to start from scratch.
+[/BLOCK-ad-copy-18]
+
+[BLOCK-ad-copy-19] (FAQ QUESTION)
+How do you know if it's working?
+[/BLOCK-ad-copy-19]
+
+[BLOCK-ad-copy-20] (FAQ ANSWER)
+We track clicks, conversions, and cost per lead. If the numbers go up and costs go down, it's working. We don't chase vanity metrics.
+[/BLOCK-ad-copy-20]
+
+[BLOCK-ad-copy-21] (PAGE COPY)
+Ready to Stop Burning Ad Budget?
+[/BLOCK-ad-copy-21]
+
+[BLOCK-ad-copy-22] (PAGE COPY)
+A dentist we work with cut their cost per lead by 40% in one month. Better copy. Less waste.
+[/BLOCK-ad-copy-22]
+
+===END PAGE: Ad Copy===
+
+
+===PAGE: Email Automation (src/app/services/email-automation/page.tsx)===
+
+[BLOCK-email-automation-01] (SEO META)
+Turn subscribers into customers with smart email sequences that actually get read.
+[/BLOCK-email-automation-01]
+
+[BLOCK-email-automation-02] (PAGE COPY)
+Look, most automated emails are boring and go straight to spam. We don't do that. We build sequences that actually sound like a human wrote them, so you can turn subscribers into customers without sounding like a robot.
+[/BLOCK-email-automation-02]
+
+[BLOCK-email-automation-03] (PAGE COPY)
+Most Clients See Results in About a Week
+[/BLOCK-email-automation-03]
+
+[BLOCK-email-automation-04] (PAGE COPY)
+Honestly, the goal is to make your emails feel like a one-on-one conversation. We've done this for HVAC, law firms, you name it. Here's how we help you win:
+[/BLOCK-email-automation-04]
+
+[BLOCK-email-automation-05] (BULLET POINT)
+A welcome series that actually feels personal—like a real person sat down to write it.
+[/BLOCK-email-automation-05]
+
+[BLOCK-email-automation-06] (BULLET POINT)
+Cart recovery emails that bring people back (honestly, we usually see 15-30% recovery rates).
+[/BLOCK-email-automation-06]
+
+[BLOCK-email-automation-07] (BULLET POINT)
+Follow-ups that don't feel spammy or annoying.
+[/BLOCK-email-automation-07]
+
+[BLOCK-email-automation-08] (BULLET POINT)
+Campaigns to wake up those quiet subscribers who haven't opened anything in months.
+[/BLOCK-email-automation-08]
+
+[BLOCK-email-automation-09] (BULLET POINT)
+Smart triggers based on what people actually *do* on your site.
+[/BLOCK-email-automation-09]
+
+[BLOCK-email-automation-10] (BULLET POINT)
+We test everything. We don't just guess and hope.
+[/BLOCK-email-automation-10]
+
+[BLOCK-email-automation-11] (PAGE COPY)
+Starting at $199 setup + $49/mo
+[/BLOCK-email-automation-11]
+
+[BLOCK-email-automation-12] (PAGE COPY)
+Custom sequence build and monthly optimization.
+[/BLOCK-email-automation-12]
+
+[BLOCK-email-automation-13] (PAGE COPY)
+First 2,500 subscribers included
+[/BLOCK-email-automation-13]
+
+[BLOCK-email-automation-14] (FAQ QUESTION)
+How long does this take?
+[/BLOCK-email-automation-14]
+
+[BLOCK-email-automation-15] (FAQ ANSWER)
+Give us about a week. We need a few days to really get your voice down, set up the tech, and test it all. Rushing just leads to mistakes.
+[/BLOCK-email-automation-15]
+
+[BLOCK-email-automation-16] (FAQ QUESTION)
+What platforms do you work with?
+[/BLOCK-email-automation-16]
+
+[BLOCK-email-automation-17] (FAQ ANSWER)
+Pretty much all of them—Mailchimp, ConvertKit, Klaviyo, ActiveCampaign. If you're on something weird, we'll figure it out.
+[/BLOCK-email-automation-17]
+
+[BLOCK-email-automation-18] (FAQ QUESTION)
+Can I write my own copy?
+[/BLOCK-email-automation-18]
+
+[BLOCK-email-automation-19] (FAQ ANSWER)
+Absolutely. It's your business. We can write it, you can write it, or we can mix and match. Whatever works best for you.
+[/BLOCK-email-automation-19]
+
+[BLOCK-email-automation-20] (FAQ QUESTION)
+What about spam filters?
+[/BLOCK-email-automation-20]
+
+[BLOCK-email-automation-21] (FAQ ANSWER)
+We set up all the technical stuff—DKIM, SPF, list cleaning—so your emails actually land in inboxes. Most clients see 95%+ deliverability.
+[/BLOCK-email-automation-21]
+
+[BLOCK-email-automation-22] (PAGE COPY)
+Tired of Chasing Leads Manually?
+[/BLOCK-email-automation-22]
+
+[BLOCK-email-automation-23] (PAGE COPY)
+One of our clients put it best: "I used to spend 3 hours a day on follow-ups. Now it all happens while I sleep."
+[/BLOCK-email-automation-23]
+
+[BLOCK-email-automation-24] (PAGE COPY)
+Let us Build Your Sequence
+[/BLOCK-email-automation-24]
+
+===END PAGE: Email Automation===
+
+
+===PAGE: Google Business (src/app/services/google-business/page.tsx)===
+
+[BLOCK-google-business-01] (SEO META)
+Dominate local search. Show up when nearby customers are looking for you.
+[/BLOCK-google-business-01]
+
+[BLOCK-google-business-02] (PAGE COPY)
+Look, if you aren't in the top 3 of Google's map pack, you're basically invisible. Honestly, most profiles are a mess. We fix yours up so local customers actually find you and call you.
+[/BLOCK-google-business-02]
+
+[BLOCK-google-business-03] (PAGE COPY)
+Get Found by Local Customers
+[/BLOCK-google-business-03]
+
+[BLOCK-google-business-04] (PAGE COPY)
+Honestly, most Google Business profiles are half-baked. That's just money you're leaving for your competitors. We optimize every inch of your profile so you dominate the local search results.
+[/BLOCK-google-business-04]
+
+[BLOCK-google-business-05] (BULLET POINT)
+We dig into what people actually type when looking for businesses like yours.
+[/BLOCK-google-business-05]
+
+[BLOCK-google-business-06] (BULLET POINT)
+Your photos get fixed up—no more blurry pics from 2015.
+[/BLOCK-google-business-06]
+
+[BLOCK-google-business-07] (BULLET POINT)
+We make sure your categories are right so Google knows what you do.
+[/BLOCK-google-business-07]
+
+[BLOCK-google-business-08] (BULLET POINT)
+Q&A section gets populated with answers to common questions.
+[/BLOCK-google-business-08]
+
+[BLOCK-google-business-09] (BULLET POINT)
+Every review gets a response. Good ones get thanked, bad ones get handled.
+[/BLOCK-google-business-09]
+
+[BLOCK-google-business-10] (BULLET POINT)
+You see exactly how many calls and clicks you're getting. Real numbers.
+[/BLOCK-google-business-10]
+
+[BLOCK-google-business-11] (PAGE COPY)
+Full optimization and 30 days of ranking tweaks.
+[/BLOCK-google-business-11]
+
+[BLOCK-google-business-12] (FAQ QUESTION)
+How long until I show up in searches?
+[/BLOCK-google-business-12]
+
+[BLOCK-google-business-13] (FAQ ANSWER)
+Most businesses start seeing movement in 3-7 days. The real growth happens when you hit that map pack—usually within a month.
+[/BLOCK-google-business-13]
+
+[BLOCK-google-business-14] (FAQ QUESTION)
+Do I need to give you new photos?
+[/BLOCK-google-business-14]
+
+[BLOCK-google-business-15] (FAQ ANSWER)
+Not necessarily. We use what you have and tell you what would help. If you've got decent pics already, we work with those.
+[/BLOCK-google-business-15]
+
+[BLOCK-google-business-16] (FAQ QUESTION)
+What if my profile already exists?
+[/BLOCK-google-business-16]
+
+[BLOCK-google-business-17] (FAQ ANSWER)
+That's perfect, actually. Most profiles we see are like 60% done. We take them to 100% and optimize what's there.
+[/BLOCK-google-business-17]
+
+[BLOCK-google-business-18] (FAQ QUESTION)
+Is this a monthly thing?
+[/BLOCK-google-business-18]
+
+[BLOCK-google-business-19] (FAQ ANSWER)
+Nope, one-time fix. We set it up, optimize it, and you're good. If you want us to manage it ongoing, we can talk about that, but no pressure.
+[/BLOCK-google-business-19]
+
+[BLOCK-google-business-20] (PAGE COPY)
+Get found by customers in your neighborhood. Start today.
+[/BLOCK-google-business-20]
+
+===END PAGE: Google Business===
+
+
+===PAGE: Landing Pages (src/app/services/landing-pages/page.tsx)===
+
+[BLOCK-landing-pages-01] (SEO META)
+Pages built to turn visitors into customers. Clean, fast, and easy to use.
+[/BLOCK-landing-pages-01]
+
+[BLOCK-landing-pages-02] (PAGE COPY)
+A single page built to turn visitors into leads. We write the words, design the layout, and make sure the "Buy" button works every time. You get a clean site that loads fast and actually makes you money.
+[/BLOCK-landing-pages-02]
+
+[BLOCK-landing-pages-03] (PAGE COPY)
+Here's the honest difference between a pretty page and one that makes money:
+[/BLOCK-landing-pages-03]
+
+[BLOCK-landing-pages-04] (BULLET POINT)
+It looks perfect on mobile—let's be real, that's where 70% of your traffic comes from.
+[/BLOCK-landing-pages-04]
+
+[BLOCK-landing-pages-05] (BULLET POINT)
+It loads fast, like under 3 seconds. Any slower, and people bounce.
+[/BLOCK-landing-pages-05]
+
+[BLOCK-landing-pages-06] (BULLET POINT)
+Headlines that actually make you stop scrolling.
+[/BLOCK-landing-pages-06]
+
+[BLOCK-landing-pages-07] (BULLET POINT)
+We mix in your best reviews and logos so trust is built instantly—people buy from people they trust, right?
+[/BLOCK-landing-pages-07]
+
+[BLOCK-landing-pages-08] (BULLET POINT)
+Big, clear buttons. We don't hide checkout.
+[/BLOCK-landing-pages-08]
+
+[BLOCK-landing-pages-09] (BULLET POINT)
+We set up tracking that actually works so you know what's bringing in money.
+[/BLOCK-landing-pages-09]
+
+[BLOCK-landing-pages-10] (PAGE COPY)
+Two rounds of revisions included.
+[/BLOCK-landing-pages-10]
+
+[BLOCK-landing-pages-11] (PAGE COPY)
+Some Things You Might Wonder
+[/BLOCK-landing-pages-11]
+
+[BLOCK-landing-pages-12] (FAQ QUESTION)
+Where do the pages actually live?
+[/BLOCK-landing-pages-12]
+
+[BLOCK-landing-pages-13] (FAQ ANSWER)
+We can host it on your site, or set up something new. Whatever works with your tech stack.
+[/BLOCK-landing-pages-13]
+
+[BLOCK-landing-pages-14] (FAQ QUESTION)
+Can you connect to my CRM?
+[/BLOCK-landing-pages-14]
+
+[BLOCK-landing-pages-15] (FAQ ANSWER)
+Yep. It pipes leads straight into HubSpot, Salesforce, Mailchimp—whatever you're using. No headaches.
+[/BLOCK-landing-pages-15]
+
+[BLOCK-landing-pages-16] (FAQ QUESTION)
+What if I want changes down the road?
+[/BLOCK-landing-pages-16]
+
+[BLOCK-landing-pages-17] (FAQ ANSWER)
+First 30 days of tweaks are on us. After that, we're here if you need us. Fair enough?
+[/BLOCK-landing-pages-17]
+
+[BLOCK-landing-pages-18] (FAQ QUESTION)
+How many conversions should I expect?
+[/BLOCK-landing-pages-18]
+
+[BLOCK-landing-pages-19] (FAQ ANSWER)
+Honestly? It depends on your offer and traffic. We build the engine, but you gotta put gas in it.
+[/BLOCK-landing-pages-19]
+
+[BLOCK-landing-pages-20] (PAGE COPY)
+That Landing Page You've Been Putting Off
+[/BLOCK-landing-pages-20]
+
+[BLOCK-landing-pages-21] (PAGE COPY)
+A client in e-commerce told us their landing page generated $47,000 in its first month. Seriously, they'd been "meaning to get around to it" for two years.
+[/BLOCK-landing-pages-21]
+
+===END PAGE: Landing Pages===
+
+
+===PAGE: Lead Funnel (src/app/services/lead-funnel/page.tsx)===
+
+[BLOCK-lead-funnel-01] (SEO META)
+Turn visitors into customers 24/7. AI-powered lead capture across website, Facebook, and LinkedIn.
+[/BLOCK-lead-funnel-01]
+
+[BLOCK-lead-funnel-02] (PAGE COPY)
+Most lead funnels are broken. They either ask for too much info too soon, or they just drop leads into a black hole. We build funnels that actually convert strangers into booked appointments.
+[/BLOCK-lead-funnel-02]
+
+[BLOCK-lead-funnel-03] (PAGE COPY)
+Why AI Assisted Leadgen Works Better
+[/BLOCK-lead-funnel-03]
+
+[BLOCK-lead-funnel-04] (PAGE COPY)
+We build funnels that actually work—you know, the kind that turn strangers into booked appointments on your calendar. Here's how we roll:
+[/BLOCK-lead-funnel-04]
+
+[BLOCK-lead-funnel-05] (BULLET POINT)
+We start by creating something your ideal customers actually want—maybe it's a checklist, a guide, or a calculator. Something they can't resist downloading.
+[/BLOCK-lead-funnel-05]
+
+[BLOCK-lead-funnel-06] (BULLET POINT)
+Then we build you a landing page that actually converts. We're talking 20% or better. Most agencies get excited about 5%—we shoot way higher.
+[/BLOCK-lead-funnel-06]
+
+[BLOCK-lead-funnel-07] (BULLET POINT)
+Next, we set up email sequences that don't feel robotic. These emails warm up your leads automatically until they're ready to talk.
+[/BLOCK-lead-funnel-07]
+
+[BLOCK-lead-funnel-08] (BULLET POINT)
+We connect everything to your calendar so qualified prospects can book time with you directly—no back-and-forth email chains.
+[/BLOCK-lead-funnel-08]
+
+[BLOCK-lead-funnel-09] (BULLET POINT)
+And yeah, we track all of it. You'll know exactly which pieces are working and which ones we need to tweak.
+[/BLOCK-lead-funnel-09]
+
+[BLOCK-lead-funnel-10] (PAGE COPY)
+Complete lead generation system
+[/BLOCK-lead-funnel-10]
+
+[BLOCK-lead-funnel-11] (PAGE COPY)
+Simple, transparent pricing. We build the system, keep it running, and ensure your leads keep flowing.
+[/BLOCK-lead-funnel-11]
+
+[BLOCK-lead-funnel-12] (PAGE COPY)
+Typical clients see their first qualified lead within 7 days.
+[/BLOCK-lead-funnel-12]
+
+[BLOCK-lead-funnel-13] (PAGE COPY)
+Three Channels, One System
+[/BLOCK-lead-funnel-13]
+
+[BLOCK-lead-funnel-14] (PAGE COPY)
+Most businesses ignore at least one of these channels. We connect all three so you never miss a lead, no matter where they find you.
+[/BLOCK-lead-funnel-14]
+
+[BLOCK-lead-funnel-15] (CONTENT BLOCK)
+Pops up at the right moment. Asks qualifying questions. Books appointments. Works 24/7.
+[/BLOCK-lead-funnel-15]
+
+[BLOCK-lead-funnel-16] (CONTENT BLOCK)
+1.3 billion people use Messenger every month. We catch them on a platform they already trust.
+[/BLOCK-lead-funnel-16]
+
+[BLOCK-lead-funnel-17] (CONTENT BLOCK)
+Finds prospects who match your criteria. Engages with their content. Starts conversations that convert.
+[/BLOCK-lead-funnel-17]
+
+[BLOCK-lead-funnel-18] (FAQ QUESTION)
+How is this different from the chatbot I already have?
+[/BLOCK-lead-funnel-18]
+
+[BLOCK-lead-funnel-19] (FAQ ANSWER)
+Look, most chatbots just answer basic questions and stop there. Ours actually sells. It figures out if someone's a good fit, gets their contact info, and books them on your calendar—all automatically. One of our clients said their old bot felt like talking to a vending machine. Ours? Like having their best sales rep pulling night shifts.
+[/BLOCK-lead-funnel-19]
+
+[BLOCK-lead-funnel-20] (FAQ QUESTION)
+What happens if I already use a CRM?
+[/BLOCK-lead-funnel-20]
+
+[BLOCK-lead-funnel-21] (FAQ ANSWER)
+Good question—we plug into pretty much everything. HubSpot, Salesforce, Pipedrive, Zoho, you name it. Every chat, every detail, drops right into your existing setup. Your team sees the full conversation so leads never have to repeat themselves.
+[/BLOCK-lead-funnel-21]
+
+[BLOCK-lead-funnel-22] (FAQ QUESTION)
+Facebook Messenger sounds complicated. Is it?
+[/BLOCK-lead-funnel-22]
+
+[BLOCK-lead-funnel-23] (FAQ ANSWER)
+Not at all—that's our job. Here's what actually happens: someone DMs your Facebook page at 3am. Your bot replies instantly (yes, instantly), asks a few quick questions to qualify them, and if they're a fit, offers to book a call. They pick a time from your calendar, done. You wake up to a booked meeting. Pretty sweet.
+[/BLOCK-lead-funnel-23]
+
+[BLOCK-lead-funnel-24] (FAQ QUESTION)
+I have tried LinkedIn automation before and it felt spammy.
+[/BLOCK-lead-funnel-24]
+
+[BLOCK-lead-funnel-25] (FAQ ANSWER)
+Yeah, we get that. Those tools spamming everyone with the same generic message? Total garbage—and they ruin LinkedIn for everyone. We do it differently. We find people who actually fit your ideal profile, engage with their posts like real humans (actual thoughtful comments, not just 'great post!'), and start real conversations. Think warm intros, not cold spam.
+[/BLOCK-lead-funnel-25]
+
+[BLOCK-lead-funnel-26] (FAQ QUESTION)
+How long until I see results?
+[/BLOCK-lead-funnel-26]
+
+[BLOCK-lead-funnel-27] (FAQ ANSWER)
+Depends on your traffic, honestly. Most folks see their first solid lead within the first week though. The cool part? The system learns what works best for your specific business and gets better over time. By week three or four, you'll usually have a steady flow coming in without lifting a finger.
+[/BLOCK-lead-funnel-27]
+
+[BLOCK-lead-funnel-28] (FAQ QUESTION)
+What if I need changes after launch?
+[/BLOCK-lead-funnel-28]
+
+[BLOCK-lead-funnel-29] (FAQ ANSWER)
+First 30 days? Totally free for whatever tweaks you need. After that, we bill hourly at reasonable rates. We're not those guys who vanish after launch—if you need something changed, you get it. Truth is, most clients stay because this stuff actually works, not because they're stuck in some contract.
+[/BLOCK-lead-funnel-29]
+
+[BLOCK-lead-funnel-30] (PAGE COPY)
+The Number One Reason Leads Get Lost
+[/BLOCK-lead-funnel-30]
+
+[BLOCK-lead-funnel-31] (PAGE COPY)
+Response time. A lead that doesn't get a reply within 5 minutes is 10x less likely to convert. That's just how people work—they move on, forget, find a competitor.
+[/BLOCK-lead-funnel-31]
+
+[BLOCK-lead-funnel-32] (PAGE COPY)
+One gym owner we worked with put it simply: "I used to lose 5 to 10 leads a week because I couldn't respond fast enough. Now I wake up to appointments already booked on my calendar."
+[/BLOCK-lead-funnel-32]
+
+[BLOCK-lead-funnel-33] (PAGE COPY)
+Takes 15 minutes. No pressure. We'll just talk about what you need.
+[/BLOCK-lead-funnel-33]
+
+===END PAGE: Lead Funnel===
+
+
+===PAGE: Review Response (src/app/services/review-response/page.tsx)===
+
+[BLOCK-review-response-01] (SEO META)
+We handle your customer reviews for you. Thoughtful, personal replies to every person.
+[/BLOCK-review-response-01]
+
+[BLOCK-review-response-02] (PAGE COPY)
+We handle your customer feedback so you don't have to. Every review gets a thoughtful, personal reply within 24 hours. It shows people you care and helps your business show up higher in local searches.
+[/BLOCK-review-response-02]
+
+[BLOCK-review-response-03] (PAGE COPY)
+Here's how we keep your reputation spotless while you sleep:
+[/BLOCK-review-response-03]
+
+[BLOCK-review-response-04] (BULLET POINT)
+It thanks customers for positive feedback in a way that feels real and authentic.
+[/BLOCK-review-response-04]
+
+[BLOCK-review-response-05] (BULLET POINT)
+It handles the haters professionally—defusing the situation so you don't have to stress about it.
+[/BLOCK-review-response-05]
+
+[BLOCK-review-response-06] (BULLET POINT)
+We teach it to sound like you, not a corporate press release.
+[/BLOCK-review-response-06]
+
+[BLOCK-review-response-07] (BULLET POINT)
+Google, Yelp, Facebook—if someone's talking about you online, we catch it.
+[/BLOCK-review-response-07]
+
+[BLOCK-review-response-08] (BULLET POINT)
+If things get heated, it pings you instantly so you can step in.
+[/BLOCK-review-response-08]
+
+[BLOCK-review-response-09] (BULLET POINT)
+It responds in minutes, not 'whenever I get around to it'.
+[/BLOCK-review-response-09]
+
+[BLOCK-review-response-10] (PAGE COPY)
+Unlimited responses included. No per-review fees.
+[/BLOCK-review-response-10]
+
+[BLOCK-review-response-11] (FAQ QUESTION)
+Can I customize the responses?
+[/BLOCK-review-response-11]
+
+[BLOCK-review-response-12] (FAQ ANSWER)
+Totally. You can tweak the voice, approve templates, or just let it run. It's your reputation, you're in charge.
+[/BLOCK-review-response-12]
+
+[BLOCK-review-response-13] (FAQ QUESTION)
+What platforms do you monitor?
+[/BLOCK-review-response-13]
+
+[BLOCK-review-response-14] (FAQ ANSWER)
+Pretty much everywhere people complain or compliment. Google, Yelp, TripAdvisor—we got 'em covered.
+[/BLOCK-review-response-14]
+
+[BLOCK-review-response-15] (FAQ QUESTION)
+What about angry customers?
+[/BLOCK-review-response-15]
+
+[BLOCK-review-response-16] (FAQ ANSWER)
+We don't let the AI freelance on angry rants. Those get flagged straight to you unless you tell us otherwise.
+[/BLOCK-review-response-16]
+
+[BLOCK-review-response-17] (FAQ QUESTION)
+Does it sound robotic?
+[/BLOCK-review-response-17]
+
+[BLOCK-review-response-18] (FAQ ANSWER)
+Not a chance. We specifically train it to avoid that 'Thank you valued customer' vibe. It sounds like a human being.
+[/BLOCK-review-response-18]
+
+[BLOCK-review-response-19] (PAGE COPY)
+Respond to every review. Show customers you care. Start today.
+[/BLOCK-review-response-19]
+
+===END PAGE: Review Response===
+
+
+===PAGE: SEO Content (src/app/services/seo-content/page.tsx)===
+
+[BLOCK-seo-content-01] (SEO META)
+Helpful articles that real people want to read. Get more traffic without the fluff.
+[/BLOCK-seo-content-01]
+
+[BLOCK-seo-content-02] (PAGE COPY)
+Articles that real people want to read. We find the questions your customers are asking and answer them clearly. No fluff or keyword stuffing—just helpful info that brings steady traffic to your site.
+[/BLOCK-seo-content-02]
+
+[BLOCK-seo-content-03] (PAGE COPY)
+Ever wonder why some content gets high traffic while other pages remain invisible? We create content that search engines favor and your audience actually wants to read. Here is how we make that happen:
+[/BLOCK-seo-content-03]
+
+[BLOCK-seo-content-04] (BULLET POINT)
+Around 2,000 words of genuinely useful content that actually answers what searchers are looking for. No filler.
+[/BLOCK-seo-content-04]
+
+[BLOCK-seo-content-05] (BULLET POINT)
+We don't guess at keywords. We dig into ones with real search volume—actual opportunities, not made-up nonsense.
+[/BLOCK-seo-content-05]
+
+[BLOCK-seo-content-06] (BULLET POINT)
+Links that connect your pages together in a way that actually makes sense.
+[/BLOCK-seo-content-06]
+
+[BLOCK-seo-content-07] (BULLET POINT)
+The text people see when searching on Google that makes them stop scrolling and click.
+[/BLOCK-seo-content-07]
+
+[BLOCK-seo-content-08] (BULLET POINT)
+Headers that sound natural to readers while playing nice with search engines at the same time.
+[/BLOCK-seo-content-08]
+
+[BLOCK-seo-content-09] (BULLET POINT)
+And honestly? The best part is that it's ready to drop right into WordPress, Wix, Squarespace—whatever platform you're using.
+[/BLOCK-seo-content-09]
+
+[BLOCK-seo-content-10] (PAGE COPY)
+Or $499/mo for 4 articles delivered monthly.
+[/BLOCK-seo-content-10]
+
+[BLOCK-seo-content-11] (FAQ QUESTION)
+How do you pick what to write about?
+[/BLOCK-seo-content-11]
+
+[BLOCK-seo-content-12] (FAQ ANSWER)
+Honestly, we dig into what your competitors are ranking for, check out what questions your customers are asking, and find out what search terms actually get traffic. We run everything by you before we start writing—no surprises.
+[/BLOCK-seo-content-12]
+
+[BLOCK-seo-content-13] (FAQ QUESTION)
+Do you guarantee first page rankings?
+[/BLOCK-seo-content-13]
+
+[BLOCK-seo-content-14] (FAQ ANSWER)
+Look, no honest person can promise that. Here's what we can guarantee: well-written, properly optimized content. Rankings depend on so many factors though—competition, domain authority, how old your site is, you name it.
+[/BLOCK-seo-content-14]
+
+[BLOCK-seo-content-15] (FAQ QUESTION)
+Can you publish directly to my site?
+[/BLOCK-seo-content-15]
+
+[BLOCK-seo-content-16] (FAQ ANSWER)
+Absolutely. WordPress, Wix, Squarespace—we can log in and handle it, or just give you the content to upload yourself. Whatever's easier for you.
+[/BLOCK-seo-content-16]
+
+[BLOCK-seo-content-17] (FAQ QUESTION)
+What kind of articles work best?
+[/BLOCK-seo-content-17]
+
+[BLOCK-seo-content-18] (FAQ ANSWER)
+How-to guides, industry explainers, comparisons, and answers to frequently asked questions. Basically, the information your audience is actually searching for.
+[/BLOCK-seo-content-18]
+
+[BLOCK-seo-content-19] (PAGE COPY)
+Organic Traffic That Actually Converts
+[/BLOCK-seo-content-19]
+
+[BLOCK-seo-content-20] (PAGE COPY)
+A client in the home services space went from 300 monthly visitors to 3,000 in 4 months. The right content, optimized the right way.
+[/BLOCK-seo-content-20]
+
+===END PAGE: SEO Content===
+
+
+===PAGE: Social Media (src/app/services/social-media/page.tsx)===
+
+[BLOCK-social-media-01] (SEO META)
+Stay active online without spending all day on your phone. Real posts for real people.
+[/BLOCK-social-media-01]
+
+[BLOCK-social-media-02] (PAGE COPY)
+Consistent Social Presence
+[/BLOCK-social-media-02]
+
+[BLOCK-social-media-03] (PAGE COPY)
+Stay active online without spending all day on your phone. We post three times a week with real photos and captions that start conversations. It keeps your brand top-of-mind and builds a loyal following.
+[/BLOCK-social-media-03]
+
+[BLOCK-social-media-04] (PAGE COPY)
+We get it. You want results without living on your phone. So here's what we do for you:
+[/BLOCK-social-media-04]
+
+[BLOCK-social-media-05] (BULLET POINT)
+20 posts a month that actually sound like you. None of that stiff corporate nonsense.
+[/BLOCK-social-media-05]
+
+[BLOCK-social-media-06] (BULLET POINT)
+We handle LinkedIn, Facebook, Instagram, and X. All of them.
+[/BLOCK-social-media-06]
+
+[BLOCK-social-media-07] (BULLET POINT)
+Custom graphics—and yes, no more cringe stock photos of people shaking hands in meeting rooms.
+[/BLOCK-social-media-07]
+
+[BLOCK-social-media-08] (BULLET POINT)
+Hashtags that are actually chosen to help people find you, not just random words thrown together.
+[/BLOCK-social-media-08]
+
+[BLOCK-social-media-09] (BULLET POINT)
+We also jump into the comments, reply to people, and build a real community around your brand.
+[/BLOCK-social-media-09]
+
+[BLOCK-social-media-10] (BULLET POINT)
+At the end of each month, you get a report that breaks down what's working. Just the data that actually matters.
+[/BLOCK-social-media-10]
+
+[BLOCK-social-media-11] (PAGE COPY)
+Content calendar and scheduling included.
+[/BLOCK-social-media-11]
+
+[BLOCK-social-media-12] (PAGE COPY)
+What You Might Be Wondering
+[/BLOCK-social-media-12]
+
+[BLOCK-social-media-13] (FAQ QUESTION)
+So, which platforms should you actually be on?
+[/BLOCK-social-media-13]
+
+[BLOCK-social-media-14] (FAQ ANSWER)
+Honestly, it depends on what you do. A local restaurant? Yeah, you're way better off on Instagram and Google Business than LinkedIn—that's just common sense, right? We help you zero in on where your customers actually spend their time.
+[/BLOCK-social-media-14]
+
+[BLOCK-social-media-15] (FAQ QUESTION)
+Do I get to see posts before they go live?
+[/BLOCK-social-media-15]
+
+[BLOCK-social-media-16] (FAQ ANSWER)
+Absolutely. You'll get a content calendar every month. Review it, give it the thumbs up, tell us what needs changing—we're not hitting publish without your say-so, promise.
+[/BLOCK-social-media-16]
+
+[BLOCK-social-media-17] (FAQ QUESTION)
+Can you post from my account?
+[/BLOCK-social-media-17]
+
+[BLOCK-social-media-18] (FAQ ANSWER)
+Yeah, we can if you want to hand over access. Or we can just send you the content and you post it yourself. Honestly, whatever you're comfortable with—no pressure here at all.
+[/BLOCK-social-media-18]
+
+[BLOCK-social-media-19] (FAQ QUESTION)
+What if I need changes to the content?
+[/BLOCK-social-media-19]
+
+[BLOCK-social-media-20] (FAQ ANSWER)
+No worries, we'll tweak it. Sometimes it takes a round or two to really nail your voice, so we'll keep working with you until it actually feels like your brand.
+[/BLOCK-social-media-20]
+
+[BLOCK-social-media-21] (PAGE COPY)
+Your Competitors Are Posting. Are You?
+[/BLOCK-social-media-21]
+
+[BLOCK-social-media-22] (PAGE COPY)
+One restaurant client told us: "I kept meaning to post. Then I never did. Now my Instagram actually looks alive."
+[/BLOCK-social-media-22]
+
+===END PAGE: Social Media===
+
+
+================================================================================
+TOTAL: 326 text blocks across 15 pages
+TOTAL WORDS: ~5,677
+================================================================================
