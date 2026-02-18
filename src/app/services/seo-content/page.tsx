@@ -24,7 +24,7 @@ export default function SeoContentPage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-600 mb-4">Have you ever thought about why some content attracts traffic while other pages get no visitors? One way we render our content is by putting the needs of your audience first and search engines second so naturally, your content gets the best of both worlds. We take several steps:</p>
+              <p className="text-gray-400 mb-4">Have you ever thought about why some content attracts traffic while other pages get no visitors? One way we render our content is by putting the needs of your audience first and search engines second so naturally, your content gets the best of both worlds. We take several steps:</p>
               <ul className="space-y-4">
                 {[
                    "Approximately 2,000 words of legitimate content carefully crafted to provide comprehensive answers to the main search intent without fillers or other content additives.",
@@ -65,7 +65,7 @@ export default function SeoContentPage() {
             { q: "Which type of articles are best?", a: "Instructional articles or how-to guides, industry explainers, comparisons and list of FAQs. In fact, it is all the information that your target audience needs and searches for." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
-              <h3 className="font-bold text-gray-900 mb-2">{faq.q}</h3>
+              <h3 className="font-bold text-white mb-2">{faq.q}</h3>
               <p className="text-gray-400">{faq.a}</p>
             </div>
           ))}

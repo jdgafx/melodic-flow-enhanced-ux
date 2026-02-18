@@ -85,7 +85,7 @@ export default function AiChatbotPage() {
             },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
-              <h3 className="font-bold text-gray-900 mb-2">{faq.q}</h3>
+              <h3 className="font-bold text-white mb-2">{faq.q}</h3>
               <p className="text-gray-400">{faq.a}</p>
             </div>
           ))}

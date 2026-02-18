@@ -24,7 +24,7 @@ export default function ReviewResponsePage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-600 mb-4">This is how we clean your reputation while you get your sleep:</p>
+              <p className="text-gray-400 mb-4">This is how we clean your reputation while you get your sleep:</p>
               <ul className="space-y-4">
                 {[
                   "It expresses gratitude to customers for their positive review in a very sincere and authentic way.",
@@ -64,7 +64,7 @@ export default function ReviewResponsePage() {
             { q: "Does it sound robotic?", a: "Not a chance. We specifically train it to avoid that 'Thank you valued customer' vibe. It sounds like a human being." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
-              <h3 className="font-bold text-gray-900 mb-2">{faq.q}</h3>
+              <h3 className="font-bold text-white mb-2">{faq.q}</h3>
               <p className="text-gray-400">{faq.a}</p>
             </div>
           ))}

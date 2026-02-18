@@ -68,7 +68,7 @@ export default function LeadGenPage() {
       <section className="py-20 bg-black/20">
         <div className="container mx-auto px-4 max-w-4xl">
           <h2 className="text-3xl font-bold text-white mb-8 text-center">Three Channels, One System</h2>
-          <p className="text-gray-600 mb-10 text-center max-w-2xl mx-auto">
+          <p className="text-gray-400 mb-10 text-center max-w-2xl mx-auto">
             Many businesses miss out on one or more of these channels. We, on the other hand, connect all three so you never lose a lead regardless of how and where the customer first gets to know about you.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -92,10 +92,10 @@ export default function LeadGenPage() {
                 stat: "Warm introductions at scale"
               },
             ].map((channel, idx) => (
-              <div key={idx} className="bg-white rounded-xl p-6 shadow hover:shadow-lg transition-shadow">
+              <div key={idx} className="bg-white/5 rounded-xl p-6 border border-white/10 backdrop-blur-sm hover:bg-white/10 transition-all">
                 <div className="text-4xl mb-3">{channel.icon}</div>
-                <h3 className="font-bold text-gray-900 mb-2">{channel.title}</h3>
-                <p className="text-gray-600 text-sm mb-4">{channel.desc}</p>
+                <h3 className="font-bold text-white mb-2">{channel.title}</h3>
+                <p className="text-gray-400 text-sm mb-4">{channel.desc}</p>
                 <p className="text-indigo-600 font-medium text-sm">{channel.stat}</p>
               </div>
             ))}
@@ -133,8 +133,8 @@ export default function LeadGenPage() {
                 a: "Free for the first month, you can request any modifications you want. Afterwards, we charge by the hour at modest rates. We are not those kind of people who disappear after the launch—we keep you updated on what we are doing. Honestly, most of the clients don't move on to other companies because of some contract, but simply because this stuff really works."
               },
             ].map((faq, idx) => (
-              <div key={idx} className="bg-white rounded-xl p-6 shadow">
-                <h3 className="font-bold text-gray-900 mb-2">{faq.q}</h3>
+              <div key={idx} className="bg-white/5 rounded-xl p-6 border border-white/10 backdrop-blur-sm">
+                <h3 className="font-bold text-white mb-2">{faq.q}</h3>
                 <p className="text-gray-400">{faq.a}</p>
               </div>
             ))}

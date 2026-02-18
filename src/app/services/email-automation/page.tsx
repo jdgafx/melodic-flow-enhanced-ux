@@ -25,7 +25,7 @@ export default function EmailAutomationPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl font-bold text-white mb-6">Most customers report seeing a positive impact within a week.</h2>
-              <p className="text-gray-600 mb-4">Let's be honest, the purpose here is to make your emails appear as a personal conversation between two people only. Regardless whether it's HVAC or legal services, we have experience on both. What we do for you:</p>
+              <p className="text-gray-400 mb-4">Let's be honest, the purpose here is to make your emails appear as a personal conversation between two people only. Regardless whether it's HVAC or legal services, we have experience on both. What we do for you:</p>
               <ul className="space-y-4">
                 {[
                   "Welcome emails that really sound as if they were written by a human.",
@@ -47,7 +47,7 @@ export default function EmailAutomationPage() {
             <div className="bg-white/5 rounded-3xl p-8 border border-white/10 backdrop-blur-sm">
               <h3 className="text-2xl font-bold text-white mb-4">Pricing</h3>
               <div className="text-4xl font-black text-indigo-600 mb-2">Starting at $199 setup + $49/mo</div>
-              <p className="text-gray-600 mb-2">Personalized sequence creation and monthly fine-tuning.</p>
+              <p className="text-gray-400 mb-2">Personalized sequence creation and monthly fine-tuning.</p>
               <p className="text-gray-500 text-sm mb-6">First 2,500 subscribers included</p>
               <Link href="/contact" className="block w-full bg-indigo-600 text-white text-center py-4 rounded-xl font-bold hover:bg-indigo-700 transition-colors">
                 Start 7-Day Free Trial
@@ -66,7 +66,7 @@ export default function EmailAutomationPage() {
             { q: "What about spam filters?", a: "We have done all the technical things—DKIM, SPF, and cleaning the list—so that your emails really reach envelopes. Most of the customers experience 95% or even more delivery rate." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
-              <h3 className="font-bold text-gray-900 mb-2">{faq.q}</h3>
+              <h3 className="font-bold text-white mb-2">{faq.q}</h3>
               <p className="text-gray-400">{faq.a}</p>
             </div>
           ))}

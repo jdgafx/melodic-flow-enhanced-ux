@@ -24,7 +24,7 @@ export default function AdCopyPage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-600 mb-4">Here is something that worries us: most companies throw away a double-digit percentage of their ad budgets—sometimes 30-50%—simply due to poor ad copy. Insane, right? So here is our answer:</p>
+              <p className="text-gray-400 mb-4">Here is something that worries us: most companies throw away a double-digit percentage of their ad budgets—sometimes 30-50%—simply due to poor ad copy. Insane, right? So here is our answer:</p>
               <ul className="space-y-4">
                 {[
                    "We produce 4-8 headline variations for each ad set and let the testing do its thing.",
@@ -64,7 +64,7 @@ export default function AdCopyPage() {
             { q: "How do you know if it's working?", a: "We monitor every three of these metrics — clicks, conversions, and cost per lead. When the numbers keep going up and the costs go down, then it's working. We are not after vanity metrics." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
-              <h3 className="font-bold text-gray-900 mb-2">{faq.q}</h3>
+              <h3 className="font-bold text-white mb-2">{faq.q}</h3>
               <p className="text-gray-400">{faq.a}</p>
             </div>
           ))}

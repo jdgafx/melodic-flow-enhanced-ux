@@ -24,7 +24,7 @@ export default function SocialMediaPage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-600 mb-4">We understand. You want to see some success without being glued to your phone. So here&apos;s the idea:</p>
+              <p className="text-gray-400 mb-4">We understand. You want to see some success without being glued to your phone. So here&apos;s the idea:</p>
               <ul className="space-y-4">
                 {[
                   "20 posts a month, and they really sound like you. No stiff corporate speak here.",
@@ -64,7 +64,7 @@ export default function SocialMediaPage() {
             { q: "What if I want something different in the content?", a: "Don't worry about it, we'll change it. Usually, it's one or two rounds before you get your voice right, so we'll keep tweaking with you until it is really your brand." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
-              <h3 className="font-bold text-gray-900 mb-2">{faq.q}</h3>
+              <h3 className="font-bold text-white mb-2">{faq.q}</h3>
               <p className="text-gray-400">{faq.a}</p>
             </div>
           ))}
