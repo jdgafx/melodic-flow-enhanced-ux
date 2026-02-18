@@ -179,7 +179,7 @@ export default function PricingPage() {
                         {alaCarteServices.map((service, idx) => (
                             <div key={idx} className="bg-white/5 rounded-2xl p-6 border border-white/10 hover:border-indigo-500/50 hover:bg-white/10 transition-all group backdrop-blur-sm">
                                 <div className="flex justify-between items-start mb-3">
-                                    <h3 className="text-lg font-bold text-white group-hover:text-amp-accent transition-colors">
+                                    <h3 className="text-lg font-bold text-white group-hover:text-violet-500 transition-colors">
                                         {service.name}
                                     </h3>
                                     {service.oneTime && (
@@ -188,7 +188,7 @@ export default function PricingPage() {
                                 </div>
                                 <p className="text-gray-400 text-sm mb-4">{service.description}</p>
                                 <div className="flex items-baseline gap-2">
-                                    <span className="text-2xl font-black text-amp-accent">{service.price}</span>
+                                    <span className="text-2xl font-black text-violet-500">{service.price}</span>
                                     {service.oneTime ? (
                                         <span className="text-gray-500 text-sm">one-time</span>
                                     ) : (
@@ -225,7 +225,7 @@ export default function PricingPage() {
                                 <tr className="border-b border-white/10">
                                     <th className="text-left py-6 px-6 font-bold text-white">Feature</th>
                                     <th className="text-center py-6 px-6 font-bold text-gray-400">Starter</th>
-                                    <th className="text-center py-6 px-6 font-bold text-amp-accent bg-white/5 rounded-t-2xl">Professional</th>
+                                    <th className="text-center py-6 px-6 font-bold text-violet-500 bg-white/5 rounded-t-2xl">Professional</th>
                                     <th className="text-center py-6 px-6 font-bold text-gray-400">Enterprise</th>
                                 </tr>
                             </thead>
@@ -257,7 +257,7 @@ export default function PricingPage() {
                                         <td className="text-center py-4 px-6 bg-white/5">
                                             {typeof row.pro === 'boolean' ? (
                                                 row.pro ? <CheckIcon /> : <XIcon />
-                                            ) : <span className="text-amp-accent font-bold text-xs">{row.pro}</span>}
+                                            ) : <span className="text-violet-500 font-bold text-xs">{row.pro}</span>}
                                         </td>
                                         <td className="text-center py-4 px-6">
                                             {typeof row.enterprise === 'boolean' ? (
@@ -291,7 +291,7 @@ export default function PricingPage() {
 
             <section className="py-20">
                 <div className="container mx-auto px-4">
-                    <div className="bg-gradient-to-r from-amp-primary to-amp-accent rounded-[3rem] p-12 text-center shadow-2xl relative overflow-hidden group">
+                    <div className="bg-gradient-to-r from-indigo-500 to-violet-500 rounded-[3rem] p-12 text-center shadow-2xl relative overflow-hidden group">
                         <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10"></div>
                         <div className="relative z-10">
                             <h2 className="text-3xl md:text-5xl font-black text-white mb-6">
@@ -301,7 +301,7 @@ export default function PricingPage() {
                                 7 days free. No card required. Walk away anytime if it's not your thing.
                             </p>
                             <div className="flex flex-col sm:flex-row gap-6 justify-center">
-                                <Link href="/contact" className="bg-white text-amp-primary px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transform hover:-translate-y-1 transition-all">
+                                <Link href="/contact" className="bg-white text-black px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transform hover:-translate-y-1 transition-all">
                                     Start 7-Day Free Trial
                                 </Link>
                                 <Link href="/contact" className="bg-indigo-900/30 backdrop-blur text-white px-10 py-5 rounded-full font-bold text-lg border border-white/20 hover:bg-indigo-900/50 transition-all">

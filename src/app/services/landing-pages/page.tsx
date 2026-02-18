@@ -35,7 +35,7 @@ export default function LandingPagesPage() {
                   "We installed proper tracking so you always know where the money is coming from.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
-                    <svg className="w-6 h-6 text-amp-secondary mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     <span className="text-gray-300">{item}</span>
@@ -45,10 +45,10 @@ export default function LandingPagesPage() {
             </div>
             <div className="bg-white/5 rounded-2xl p-8 border border-white/10 backdrop-blur-sm">
               <h3 className="text-2xl font-bold text-white mb-4">Pricing</h3>
-              <div className="text-5xl font-black text-amp-secondary mb-2">Starting at $799<span className="text-xl text-gray-500">/page</span></div>
+              <div className="text-5xl font-black text-blue-500 mb-2">Starting at $799<span className="text-xl text-gray-500">/page</span></div>
               <p className="text-sm text-gray-500 mb-2">One-time fee per page</p>
               <p className="text-gray-400 mb-6">You are free to revise the content two times.</p>
-              <Link href="/contact" className="block w-full bg-amp-primary text-white text-center py-4 rounded-xl font-bold hover:bg-amp-primary/80 transition-colors">
+              <Link href="/contact" className="block w-full bg-indigo-600 text-white text-center py-4 rounded-xl font-bold hover:bg-indigo-700 transition-colors">
                 Order Landing Page
               </Link>
             </div>
@@ -71,13 +71,13 @@ export default function LandingPagesPage() {
           ))}
         </div>
       </section>
-      <section className="py-24 bg-gradient-to-r from-amp-primary to-amp-accent">
+      <section className="py-24 bg-gradient-to-r from-indigo-500 to-violet-500">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">The landing page you&apos;ve been procrastinating about.</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
             A brand in the e-commerce sector mentioned that their landing page alone had fetched $47,000 in month&apos;s time. They seriously could not believe it because they had been &quot;meaning to get around to it&quot; for nearly two years.
           </p>
-          <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl">
+          <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Build My Page
           </Link>
         </div>

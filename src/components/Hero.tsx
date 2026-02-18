@@ -7,15 +7,15 @@ const Hero: React.FC = () => {
     <section className="relative min-h-screen flex items-center justify-center pt-32 pb-20 px-6 overflow-hidden">
       
       {/* Ambient Spotlight */}
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-amp-primary/20 rounded-full blur-[120px] -z-10" />
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-indigo-500/20 rounded-full blur-[120px] -z-10" />
 
       <div className="max-w-5xl mx-auto text-center relative z-10">
         
         {/* Glass Badge */}
         <div className="inline-flex items-center justify-center px-4 py-1.5 rounded-full bg-white/5 border border-white/10 backdrop-blur-md mb-8 shadow-2xl hover:bg-white/10 transition-colors cursor-default">
           <span className="relative flex h-2 w-2 mr-3">
-            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amp-secondary opacity-75"></span>
-            <span className="relative inline-flex rounded-full h-2 w-2 bg-amp-secondary"></span>
+            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-500 opacity-75"></span>
+            <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
           </span>
           <span className="text-sm font-medium text-gray-200 tracking-wide">Real results in a matter of days</span>
           <ChevronRight className="w-4 h-4 ml-1 text-gray-400" />
@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
         {/* Headline - Added 'text-white' fallback before transparent/clip classes */}
         <h1 className="text-5xl md:text-8xl font-black tracking-tighter leading-[1.1] mb-8 text-white text-transparent bg-clip-text bg-gradient-to-b from-white via-white to-gray-400 drop-shadow-sm">
           AI That Works <br />
-          <span className="text-amp-secondary bg-clip-text text-transparent bg-gradient-to-r from-amp-secondary via-amp-accent to-amp-primary animate-gradient-x">
+          <span className="text-blue-500 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 via-violet-500 to-indigo-500 animate-gradient-x">
             for Your Business
           </span>
         </h1>

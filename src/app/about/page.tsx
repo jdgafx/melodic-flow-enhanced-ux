@@ -50,7 +50,7 @@ export default function AboutPage() {
                         <div className="absolute top-0 right-0 w-64 h-64 bg-indigo-600/5 rounded-full blur-3xl -mr-32 -mt-32"></div>
                         <h2 className="text-3xl font-bold text-white mb-8 relative z-10">Our Story</h2>
                         <p className="text-lg text-gray-300 leading-relaxed mb-6 relative z-10">
-                            AMP Marketing was created by the very same hardworking team that <a href="https://www.primemarketingexperts.com" target="_blank" rel="noopener noreferrer" className="text-amp-accent hover:underline">Prime Marketing Experts</a>. With Michael Krieger at the helm, our core mission remains unchanged: through smart, results-driven marketing strategies to help businesses grow.
+                            AMP Marketing was created by the very same hardworking team that <a href="https://www.primemarketingexperts.com" target="_blank" rel="noopener noreferrer" className="text-violet-500 hover:underline">Prime Marketing Experts</a>. With Michael Krieger at the helm, our core mission remains unchanged: through smart, results-driven marketing strategies to help businesses grow.
                         </p>
                         <p className="text-lg text-gray-300 leading-relaxed mb-6 relative z-10">
                             Back in 2017 Michael Krieger founded Prime Marketing Experts. He grew up in Boston, graduated from UMass Lowell, and has spent the better part of his career assisting businesses to achieve growth. 
@@ -82,7 +82,7 @@ export default function AboutPage() {
                             ))}
                         </div>
                         <div className="mt-12 relative z-10">
-                            <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-5 rounded-full font-bold hover:scale-105 transition-transform shadow-xl shadow-white/10">
+                            <Link href="/contact" className="inline-block bg-white text-black px-10 py-5 rounded-full font-bold hover:scale-105 transition-transform shadow-xl shadow-white/10">
                                 Let us Get to Work →
                             </Link>
                         </div>
@@ -111,7 +111,7 @@ export default function AboutPage() {
                                 <p className="text-gray-300 italic mb-6 leading-relaxed">"{testimonial.quote}"</p>
                                 <div className="border-t border-white/10 pt-4">
                                     <p className="text-white font-bold">{testimonial.author}</p>
-                                    <p className="text-amp-accent text-sm">{testimonial.company}</p>
+                                    <p className="text-violet-500 text-sm">{testimonial.company}</p>
                                 </div>
                             </div>
                         ))}
@@ -122,7 +122,7 @@ export default function AboutPage() {
             <section className="py-24">
                 <div className="container mx-auto px-4 max-w-6xl">
                     <div className="text-center mb-16">
-                        <span className="text-amp-secondary font-bold uppercase tracking-widest text-sm">Success Stories</span>
+                        <span className="text-blue-500 font-bold uppercase tracking-widest text-sm">Success Stories</span>
                         <h2 className="text-4xl md:text-5xl font-black text-white mt-4 mb-6">Case Studies</h2>
                         <p className="text-xl text-gray-400 max-w-2xl mx-auto">Real-life data of the companies we've been working with. No marketing jargon.</p>
                     </div>
@@ -147,12 +147,12 @@ export default function AboutPage() {
                                 <div className="grid grid-cols-1 lg:grid-cols-2">
                                     <div className="bg-gradient-to-br from-indigo-600/20 to-indigo-900/40 p-12 relative overflow-hidden">
                                         <div className="absolute top-0 right-0 w-32 h-32 bg-indigo-500/10 rounded-full blur-2xl -mr-16 -mt-16"></div>
-                                        <div className="text-amp-secondary text-sm font-bold uppercase tracking-widest mb-4 relative z-10">Success Story</div>
+                                        <div className="text-blue-500 text-sm font-bold uppercase tracking-widest mb-4 relative z-10">Success Story</div>
                                         <h3 className="text-3xl font-black text-white mb-6 relative z-10">{study.client}</h3>
                                         <div className="space-y-8 relative z-10">
                                             <p className="text-gray-300 leading-relaxed">{study.story}</p>
                                             <div className="pt-6 border-t border-white/10">
-                                                <h4 className="font-bold text-amp-accent mb-3 uppercase tracking-wider text-xs">The Solution</h4>
+                                                <h4 className="font-bold text-violet-500 mb-3 uppercase tracking-wider text-xs">The Solution</h4>
                                                 <p className="text-gray-300 text-sm leading-relaxed">{study.solution}</p>
                                             </div>
                                         </div>
@@ -160,9 +160,9 @@ export default function AboutPage() {
                                     <div className="p-12 flex flex-col justify-center">
                                         <h4 className="font-bold text-white mb-4 uppercase tracking-wider text-xs">The Results</h4>
                                         <p className="text-gray-300 mb-10 leading-relaxed text-lg">{study.result}</p>
-                                        <div className="bg-white/5 rounded-2xl p-8 border-l-4 border-amp-secondary">
+                                        <div className="bg-white/5 rounded-2xl p-8 border-l-4 border-blue-500">
                                             <p className="text-gray-300 italic mb-4 leading-relaxed">"{study.testimonial}"</p>
-                                            <p className="text-amp-secondary font-bold text-sm tracking-wide">— {study.client}</p>
+                                            <p className="text-blue-500 font-bold text-sm tracking-wide">— {study.client}</p>
                                         </div>
                                     </div>
                                 </div>

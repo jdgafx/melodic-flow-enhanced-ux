@@ -36,7 +36,7 @@ export default function EmailAutomationPage() {
                   "We hold tests for all our steps. We don&apos;t simply guess and wish success.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
-                    <svg className="w-6 h-6 text-amp-secondary mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     <span className="text-gray-300">{item}</span>
@@ -46,10 +46,10 @@ export default function EmailAutomationPage() {
             </div>
             <div className="bg-white/5 rounded-2xl p-8 border border-white/10 backdrop-blur-sm">
               <h3 className="text-2xl font-bold text-white mb-4">Pricing</h3>
-              <div className="text-4xl font-black text-amp-secondary mb-2">Starting at $199 setup + $49/mo</div>
+              <div className="text-4xl font-black text-blue-500 mb-2">Starting at $199 setup + $49/mo</div>
               <p className="text-gray-400 mb-2">Personalized sequence creation and monthly fine-tuning.</p>
               <p className="text-gray-500 text-sm mb-6">First 2,500 subscribers included</p>
-              <Link href="/contact" className="block w-full bg-amp-primary text-white text-center py-4 rounded-xl font-bold hover:bg-amp-primary/80 transition-colors">
+              <Link href="/contact" className="block w-full bg-indigo-600 text-white text-center py-4 rounded-xl font-bold hover:bg-indigo-700 transition-colors">
                 Start 7-Day Free Trial
               </Link>
             </div>
@@ -72,13 +72,13 @@ export default function EmailAutomationPage() {
           ))}
         </div>
       </section>
-      <section className="py-24 bg-gradient-to-r from-amp-primary to-amp-accent">
+      <section className="py-24 bg-gradient-to-r from-indigo-500 to-violet-500">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Stop hunting down leads manually?</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
             One of the clients has said it best: &quot;I used to spend 3 hours a day on follow-ups. Now it all happens while I sleep.&quot;
           </p>
-          <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl">
+          <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             How about we build your sequence?
           </Link>
         </div>

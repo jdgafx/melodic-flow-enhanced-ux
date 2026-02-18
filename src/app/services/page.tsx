@@ -91,9 +91,9 @@ export default function ServicesPage() {
 
       <section className="bg-transparent text-white py-24 pt-32">
         <div className="container mx-auto px-4 text-center">
-          <span className="text-amp-secondary font-bold uppercase tracking-widest text-sm">Our Services</span>
+          <span className="text-blue-500 font-bold uppercase tracking-widest text-sm">Our Services</span>
             <h1 className="text-4xl md:text-6xl font-black mt-4 mb-6">
-               Marketing That <span className="text-transparent bg-clip-text bg-gradient-to-r from-amp-secondary via-amp-accent to-amp-primary">Gets Results</span>
+               Marketing That <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-violet-500 to-indigo-500">Gets Results</span>
              </h1>
              <p className="text-xl text-gray-400 max-w-2xl mx-auto">
                More leads. Less busywork. We build AI tools that save you time and bring in customers.
@@ -104,7 +104,7 @@ export default function ServicesPage() {
       <section className="py-16 bg-black/20">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <span className="text-amp-secondary font-bold uppercase tracking-widest text-sm">Featured</span>
+            <span className="text-blue-500 font-bold uppercase tracking-widest text-sm">Featured</span>
             <h2 className="text-3xl font-black text-white mt-2">What We Do Best</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
@@ -117,7 +117,7 @@ export default function ServicesPage() {
                 <div className="text-5xl mb-4">{service.icon}</div>
                 <h3 className="text-xl font-bold text-white mb-3">{service.title}</h3>
                 <p className="text-gray-400 mb-4 leading-relaxed">{service.desc}</p>
-                <div className="text-amp-secondary font-bold text-lg">{service.price}</div>
+                <div className="text-blue-500 font-bold text-lg">{service.price}</div>
               </Link>
             ))}
           </div>
@@ -136,14 +136,14 @@ export default function ServicesPage() {
                 <div className="text-5xl mb-6">{service.icon}</div>
                 <h3 className="text-xl font-bold text-white mb-3">{service.title}</h3>
                 <p className="text-gray-400 mb-4 leading-relaxed">{service.desc}</p>
-                <div className="text-amp-secondary font-bold text-lg">{service.price}</div>
+                <div className="text-blue-500 font-bold text-lg">{service.price}</div>
               </Link>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="py-24 bg-gradient-to-r from-amp-primary to-amp-accent">
+      <section className="py-24 bg-gradient-to-r from-indigo-500 to-violet-500">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-black text-white mb-6">Not Sure What You Need?</h2>
           <p className="text-indigo-100 text-xl mb-8 max-w-2xl mx-auto">
@@ -151,7 +151,7 @@ export default function ServicesPage() {
           </p>
           <Link 
             href="/contact" 
-            className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1"
+            className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1"
           >
             Book a Free Call
           </Link>

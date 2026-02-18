@@ -107,7 +107,7 @@ export default function ContactPage() {
                                 <p className="text-gray-300 mb-6 relative z-10 leading-relaxed">
                                     15 minutes for free. Tell us what is your problem. You won't get pressured or pitched here — only a real conversation on whether we could be the right people to help you.
                                 </p>
-                                <a href="mailto:michael@primemarketingexperts.com" className="relative z-10 block w-full bg-white text-amp-primary text-center py-4 rounded-xl font-bold hover:bg-gray-100 transition-all transform hover:scale-[1.02] shadow-xl shadow-white/10">
+                                <a href="mailto:michael@primemarketingexperts.com" className="relative z-10 block w-full bg-white text-black text-center py-4 rounded-xl font-bold hover:bg-gray-100 transition-all transform hover:scale-[1.02] shadow-xl shadow-white/10">
                                     Email Us
                                 </a>
                             </div>
@@ -116,7 +116,7 @@ export default function ContactPage() {
                                 <div className="space-y-3 text-gray-400">
                                     <p className="flex justify-between border-b border-white/5 pb-2"><span>Monday - Friday</span><span className="text-white">9:00 AM - 6:00 PM EST</span></p>
                                     <p className="flex justify-between border-b border-white/5 pb-2"><span>Saturday</span><span className="text-white">10:00 AM - 2:00 PM EST</span></p>
-                                    <p className="flex justify-between"><span>Sunday</span><span className="text-white font-semibold text-amp-accent">Closed</span></p>
+                                    <p className="flex justify-between"><span>Sunday</span><span className="text-white font-semibold text-violet-500">Closed</span></p>
                                 </div>
                             </div>
                         </div>

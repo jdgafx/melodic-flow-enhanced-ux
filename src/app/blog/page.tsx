@@ -135,14 +135,14 @@ export default async function BlogPage() {
                                             <span className="text-6xl text-white/30">📄</span>
                                         )}
                                     </div>
-                                    <div className="text-amp-secondary text-xs font-bold uppercase tracking-widest mb-2">{post.category}</div>
-                                    <h3 className="text-xl font-extrabold text-white mb-4 leading-tight group-hover:text-amp-secondary transition-colors">{post.title}</h3>
+                                    <div className="text-blue-500 text-xs font-bold uppercase tracking-widest mb-2">{post.category}</div>
+                                    <h3 className="text-xl font-extrabold text-white mb-4 leading-tight group-hover:text-blue-500 transition-colors">{post.title}</h3>
                                     <p className="text-gray-400 text-sm mb-4 leading-relaxed flex-grow">{post.excerpt}</p>
                                     <div className="flex items-center justify-between text-gray-400 text-sm">
                                         <span>{new Date(post.publishedAt).toLocaleDateString()}</span>
                                         <span>{post.readTime} min read</span>
                                     </div>
-                                    <div className="mt-4 text-amp-secondary font-bold text-sm uppercase tracking-widest flex items-center">
+                                    <div className="mt-4 text-blue-500 font-bold text-sm uppercase tracking-widest flex items-center">
                                         Read Article <span className="ml-2 text-xl group-hover:translate-x-2 transition-transform">→</span>
                                     </div>
                                 </Link>
@@ -159,7 +159,7 @@ export default async function BlogPage() {
                         We help businesses get more leads without all the headaches. Curious if we can help you? Let's chat.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                        <Link href="/contact" className="bg-amp-primary text-white px-8 py-4 rounded-full font-bold hover:bg-amp-primary/80 transition-colors">
+                        <Link href="/contact" className="bg-indigo-600 text-white px-8 py-4 rounded-full font-bold hover:bg-indigo-700 transition-colors">
                             Book a Free Call
                         </Link>
                         <Link href="/pricing" className="bg-white/5 text-white border-2 border-white/10 px-8 py-4 rounded-full font-bold hover:bg-white/10 backdrop-blur-sm transition-colors">

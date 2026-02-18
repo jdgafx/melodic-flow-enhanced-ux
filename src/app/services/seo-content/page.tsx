@@ -35,7 +35,7 @@ export default function SeoContentPage() {
                   "Frankly, the best thing about it is that it comes ready to be uploaded to the most popular platforms such as WordPress, Wix, Squarespace, or any other platform you are using.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
-                    <svg className="w-6 h-6 text-amp-secondary mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     <span className="text-gray-300">{item}</span>
@@ -45,10 +45,10 @@ export default function SeoContentPage() {
             </div>
             <div className="bg-white/5 rounded-2xl p-8 border border-white/10 backdrop-blur-sm">
               <h3 className="text-2xl font-bold text-white mb-4">Pricing</h3>
-              <div className="text-5xl font-black text-amp-secondary mb-2">Starting at $149<span className="text-xl text-gray-500">/article</span></div>
+              <div className="text-5xl font-black text-blue-500 mb-2">Starting at $149<span className="text-xl text-gray-500">/article</span></div>
               <p className="text-sm text-gray-500 mb-2">One-time fee per article</p>
               <p className="text-gray-400 mb-6">Or $499/month for 4 new articles delivered each month.</p>
-              <Link href="/contact" className="block w-full bg-amp-primary text-white text-center py-4 rounded-xl font-bold hover:bg-amp-primary/80 transition-colors">
+              <Link href="/contact" className="block w-full bg-indigo-600 text-white text-center py-4 rounded-xl font-bold hover:bg-indigo-700 transition-colors">
                 Order Article
               </Link>
             </div>
@@ -71,13 +71,13 @@ export default function SeoContentPage() {
           ))}
         </div>
       </section>
-      <section className="py-24 bg-gradient-to-r from-amp-primary to-amp-accent">
+      <section className="py-24 bg-gradient-to-r from-indigo-500 to-violet-500">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Organic Traffic That Converts</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
             A home services client went from getting 300 visitors per month to 3,000 in only 4 months. It was the right content in the right way that made it happen.
           </p>
-          <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl">
+          <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Write My First Article
           </Link>
         </div>

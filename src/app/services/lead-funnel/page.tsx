@@ -39,7 +39,7 @@ export default function LeadGenPage() {
                   "Also, to make it easy for you, we do the tracking as well. You will pinpoint the successful activities as well as those that have to be worked on.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
-                    <svg className="w-6 h-6 text-amp-secondary mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     <span className="text-gray-300">{item}</span>
@@ -49,12 +49,12 @@ export default function LeadGenPage() {
             </div>
             <div className="bg-white/5 rounded-2xl p-8 border border-white/10 backdrop-blur-sm">
               <h3 className="text-2xl font-bold text-white mb-4">Pricing</h3>
-              <div className="text-5xl font-black text-amp-secondary mb-2">$1,499 setup + $299/mo</div>
+              <div className="text-5xl font-black text-blue-500 mb-2">$1,499 setup + $299/mo</div>
               <p className="text-sm text-gray-500 mb-2">Complete lead generation system</p>
               <p className="text-gray-400 mb-6">
                 Simple and clear pricing. We set up the system, run it, and make sure that your leads never dry up.
               </p>
-              <Link href="/contact" className="block w-full bg-amp-primary text-white text-center py-4 rounded-xl font-bold hover:bg-amp-primary/80 transition-colors">
+              <Link href="/contact" className="block w-full bg-indigo-600 text-white text-center py-4 rounded-xl font-bold hover:bg-indigo-700 transition-colors">
                 Get Started
               </Link>
               <p className="text-xs text-gray-500 mt-4 text-center">
@@ -96,7 +96,7 @@ export default function LeadGenPage() {
                 <div className="text-4xl mb-3">{channel.icon}</div>
                 <h3 className="font-bold text-white mb-2">{channel.title}</h3>
                 <p className="text-gray-400 text-sm mb-4">{channel.desc}</p>
-                <p className="text-amp-secondary font-medium text-sm">{channel.stat}</p>
+                <p className="text-blue-500 font-medium text-sm">{channel.stat}</p>
               </div>
             ))}
           </div>
@@ -142,7 +142,7 @@ export default function LeadGenPage() {
         </div>
       </section>
 
-      <section className="py-24 bg-gradient-to-r from-amp-primary to-amp-accent">
+      <section className="py-24 bg-gradient-to-r from-indigo-500 to-violet-500">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">The Number One Reason Leads Get Lost</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto text-lg">
@@ -151,7 +151,7 @@ export default function LeadGenPage() {
           <p className="text-indigo-100 mb-10 max-w-2xl mx-auto text-lg">
             One gym owner we helped summed it up saying: "I was losing 5 to 10 leads weekly because I was too slow to respond. Now I wake up to appointments that are already booked on my calendar."
           </p>
-          <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
+          <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
             Book Your Discovery Call
           </Link>
           <p className="text-indigo-200 text-sm mt-6">

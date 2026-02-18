@@ -36,7 +36,7 @@ export default function GoogleBusinessPage() {
                   "We let you gauge the traffic to your phone and website at the level of accuracy that the data that you see is the truth.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
-                    <svg className="w-6 h-6 text-amp-secondary mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     <span className="text-gray-300">{item}</span>
@@ -46,9 +46,9 @@ export default function GoogleBusinessPage() {
             </div>
             <div className="bg-white/5 rounded-2xl p-8 border border-white/10 backdrop-blur-sm">
               <h3 className="text-2xl font-bold text-white mb-4">Pricing</h3>
-              <div className="text-4xl font-black text-amp-secondary mb-2">$399 one-time</div>
+              <div className="text-4xl font-black text-blue-500 mb-2">$399 one-time</div>
               <p className="text-gray-400 mb-6">Complete optimization and 30 days of ranking tweaking.</p>
-              <Link href="/contact" className="block w-full bg-amp-primary text-white text-center py-4 rounded-xl font-bold hover:bg-amp-primary/80 transition-colors">
+              <Link href="/contact" className="block w-full bg-indigo-600 text-white text-center py-4 rounded-xl font-bold hover:bg-indigo-700 transition-colors">
                 Get Started Today
               </Link>
             </div>
@@ -71,13 +71,13 @@ export default function GoogleBusinessPage() {
           ))}
         </div>
       </section>
-      <section className="py-24 bg-gradient-to-r from-amp-primary to-amp-accent">
+      <section className="py-24 bg-gradient-to-r from-indigo-500 to-violet-500">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Show Up When It Matters</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
             Be found by people from your neighborhood. Kick-off now.
           </p>
-          <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl">
+          <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Get Started
           </Link>
         </div>

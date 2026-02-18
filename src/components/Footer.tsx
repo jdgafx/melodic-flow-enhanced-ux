@@ -45,20 +45,20 @@ const Footer: React.FC = () => {
             <div>
                 <h4 className="text-white font-black text-xs uppercase tracking-[0.2em] mb-8">Services</h4>
                 <ul className="space-y-4 text-gray-500 text-sm font-medium">
-                    <li><Link href="/services/ai-chatbot" className="hover:text-amp-primary transition-colors">AI Chatbot</Link></li>
-                    <li><Link href="/services/ai-voice" className="hover:text-amp-primary transition-colors">AI Voice</Link></li>
-                    <li><Link href="/services/lead-funnel" className="hover:text-amp-primary transition-colors">Sales Funnels</Link></li>
-                    <li><Link href="/services/seo-content" className="hover:text-amp-primary transition-colors">SEO Engine</Link></li>
+                    <li><Link href="/services/ai-chatbot" className="hover:text-indigo-500 transition-colors">AI Chatbot</Link></li>
+                    <li><Link href="/services/ai-voice" className="hover:text-indigo-500 transition-colors">AI Voice</Link></li>
+                    <li><Link href="/services/lead-funnel" className="hover:text-indigo-500 transition-colors">Sales Funnels</Link></li>
+                    <li><Link href="/services/seo-content" className="hover:text-indigo-500 transition-colors">SEO Engine</Link></li>
                 </ul>
             </div>
 
             <div>
                 <h4 className="text-white font-black text-xs uppercase tracking-[0.2em] mb-8">Company</h4>
                 <ul className="space-y-4 text-gray-500 text-sm font-medium">
-                    <li><Link href="/about" className="hover:text-amp-primary transition-colors">About Us</Link></li>
-                    <li><Link href="/pricing" className="hover:text-amp-primary transition-colors">Pricing</Link></li>
-                    <li><Link href="/contact" className="hover:text-amp-primary transition-colors">Contact</Link></li>
-                    <li><Link href="/blog" className="hover:text-amp-primary transition-colors">Blog</Link></li>
+                    <li><Link href="/about" className="hover:text-indigo-500 transition-colors">About Us</Link></li>
+                    <li><Link href="/pricing" className="hover:text-indigo-500 transition-colors">Pricing</Link></li>
+                    <li><Link href="/contact" className="hover:text-indigo-500 transition-colors">Contact</Link></li>
+                    <li><Link href="/blog" className="hover:text-indigo-500 transition-colors">Blog</Link></li>
                 </ul>
             </div>
 

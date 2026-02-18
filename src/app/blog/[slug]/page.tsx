@@ -58,7 +58,7 @@ const portableTextComponents = {
             <p className="text-gray-300 leading-relaxed mb-6">{children}</p>
         ),
         blockquote: ({ children }: { children?: React.ReactNode }) => (
-            <blockquote className="bg-white/5 border-l-4 border-amp-secondary p-6 my-8 rounded-r-lg text-gray-300 backdrop-blur-sm">
+            <blockquote className="bg-white/5 border-l-4 border-blue-500 p-6 my-8 rounded-r-lg text-gray-300 backdrop-blur-sm">
                 {children}
             </blockquote>
         ),
@@ -75,7 +75,7 @@ const portableTextComponents = {
         strong: ({ children }: { children?: React.ReactNode }) => <strong className="font-bold">{children}</strong>,
         em: ({ children }: { children?: React.ReactNode }) => <em className="italic">{children}</em>,
         link: ({ value, children }: { value?: { href: string }; children?: React.ReactNode }) => (
-            <a href={value?.href} className="text-amp-secondary hover:underline" target="_blank" rel="noopener noreferrer">
+            <a href={value?.href} className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                 {children}
             </a>
         ),
@@ -103,11 +103,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             <article>
                 <section className="bg-transparent py-20 pt-32">
                     <div className="container mx-auto px-4 max-w-4xl">
-                        <Link href="/blog" className="text-amp-secondary font-bold text-sm uppercase tracking-widest hover:underline mb-6 inline-block">
+                        <Link href="/blog" className="text-blue-500 font-bold text-sm uppercase tracking-widest hover:underline mb-6 inline-block">
                             ← Back to Blog
                         </Link>
                         {post.category && (
-                            <div className="text-amp-secondary text-xs font-bold uppercase tracking-widest mb-4">
+                            <div className="text-blue-500 text-xs font-bold uppercase tracking-widest mb-4">
                                 {post.category.title || post.category}
                             </div>
                         )}
@@ -154,13 +154,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 </section>
             </article>
 
-            <section className="bg-gradient-to-r from-amp-primary to-amp-accent py-16">
+            <section className="bg-gradient-to-r from-indigo-500 to-violet-500 py-16">
                 <div className="container mx-auto px-4 text-center">
                     <h2 className="text-3xl font-black text-white mb-6">Ready to get results?</h2>
                     <p className="text-indigo-100 text-xl mb-8 max-w-2xl mx-auto">
                         Let's help you implement AI-powered marketing that actually works.
                     </p>
-                    <Link href="/contact" className="inline-block bg-white text-amp-primary px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
+                    <Link href="/contact" className="inline-block bg-white text-black px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
                         Book a Free Call
                     </Link>
                 </div>

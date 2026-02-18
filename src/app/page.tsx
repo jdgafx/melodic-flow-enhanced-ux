@@ -35,7 +35,7 @@ export default function Home() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {stats.map((stat, idx) => (
               <div key={idx} className="text-center">
-                <div className="text-4xl md:text-5xl font-black text-amp-primary mb-2">{stat.value}</div>
+                <div className="text-4xl md:text-5xl font-black text-indigo-500 mb-2">{stat.value}</div>
                 <div className="text-gray-400 font-medium">{stat.label}</div>
               </div>
             ))}
@@ -46,7 +46,7 @@ export default function Home() {
       <section className="py-24">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <span className="text-amp-secondary font-bold uppercase tracking-widest text-sm">All Services</span>
+            <span className="text-blue-500 font-bold uppercase tracking-widest text-sm">All Services</span>
             <h2 className="text-4xl md:text-5xl font-black text-white mt-4 mb-6">All the things we can do for you</h2>
             <p className="text-xl text-gray-400 max-w-2xl mx-auto">
               If it turns out AI is able to get you more customers or save your time, we may have just built it. See what we have here.
@@ -59,8 +59,8 @@ export default function Home() {
                   <h3 className="text-lg font-bold text-white mb-2">{service.title}</h3>
                   <p className="text-gray-400 text-sm mb-3">{service.desc}</p>
                   <div className="flex justify-between items-center">
-                  <span className="text-amp-secondary font-bold text-sm">{service.price}</span>
-                  <span className="text-amp-primary font-semibold text-sm group-hover:text-amp-accent">Learn More →</span>
+                  <span className="text-blue-500 font-bold text-sm">{service.price}</span>
+                  <span className="text-indigo-500 font-semibold text-sm group-hover:text-violet-500">Learn More →</span>
                 </div>
                 </Link>
               ))}
@@ -92,7 +92,7 @@ export default function Home() {
       <section className="py-20 bg-black/20 text-white">
         <div className="container mx-auto px-4 max-w-5xl">
           <div className="text-center mb-12">
-            <span className="text-amp-secondary font-bold uppercase tracking-widest text-sm">Testimonials</span>
+            <span className="text-blue-500 font-bold uppercase tracking-widest text-sm">Testimonials</span>
             <h2 className="text-4xl font-black mt-4 mb-6">What Our Clients Say</h2>
             <p className="text-gray-400 text-xl">Don't just believe us. Let real clients be the judge.</p>
           </div>
@@ -114,7 +114,7 @@ export default function Home() {
                 <p className="text-gray-300 italic mb-6 leading-relaxed">"{testimonial.quote}"</p>
                 <div className="border-t border-white/10 pt-4">
                   <p className="text-white font-bold">{testimonial.author}</p>
-                  <p className="text-amp-secondary text-sm">{testimonial.company}</p>
+                  <p className="text-blue-500 text-sm">{testimonial.company}</p>
                 </div>
               </div>
             ))}
@@ -122,13 +122,13 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="bg-gradient-to-r from-amp-primary to-amp-accent py-20">
+      <section className="bg-gradient-to-r from-indigo-500 to-violet-500 py-20">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-black text-white mb-6">Want More Customers?</h2>
           <p className="text-indigo-100 text-xl mb-10 max-w-2xl mx-auto">
             We have hundreds of businesses under our belt. Let's have a brief chat and check whether we may be able to assist you too. No pressure and no sales pitch.
           </p>
-          <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
+          <Link href="/contact" className="inline-block bg-white text-black px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
             Book a Free Call
           </Link>
         </div>

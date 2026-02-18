@@ -10,6 +10,13 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-poppins);
   --font-poppins: "Poppins", sans-serif;
+  --color-amp-bg: #050508;
+  --color-amp-card: #0F121C;
+  --color-amp-primary: #6366f1;
+  --color-amp-secondary: #3b82f6;
+  --color-amp-accent: #8b5cf6;
+  --color-amp-text: #E2E8F0;
+  --color-amp-muted: #94a3b8;
 }
 
 body {
