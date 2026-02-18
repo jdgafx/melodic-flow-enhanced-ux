@@ -96,13 +96,13 @@ export default async function BlogPage() {
     }
 
     return (
-        <main className="min-h-screen bg-white font-poppins">
+        <main className="min-h-screen bg-transparent font-poppins text-gray-200">
             <Navbar />
 
-            <section className="bg-[#f9f6f3] py-24">
+            <section className="bg-transparent py-24 pt-32">
                 <div className="container mx-auto px-4 text-center">
-                    <h1 className="text-4xl md:text-6xl font-extrabold text-[#1a1a1a] mb-6">What We're Reading</h1>
-                    <p className="max-w-3xl mx-auto text-xl text-gray-600 leading-relaxed italic">
+                    <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-6">What We're Reading</h1>
+                    <p className="max-w-3xl mx-auto text-xl text-gray-400 leading-relaxed italic">
                         Stuff we found useful about getting more leads and growing your business. No fluff.
                     </p>
                 </div>
@@ -135,14 +135,14 @@ export default async function BlogPage() {
                                             <span className="text-6xl text-white/30">📄</span>
                                         )}
                                     </div>
-                                    <div className="text-indigo-600 text-xs font-bold uppercase tracking-widest mb-2">{post.category}</div>
-                                    <h3 className="text-xl font-extrabold text-gray-900 mb-4 leading-tight group-hover:text-indigo-600 transition-colors">{post.title}</h3>
-                                    <p className="text-gray-500 text-sm mb-4 leading-relaxed flex-grow">{post.excerpt}</p>
+                                    <div className="text-amp-secondary text-xs font-bold uppercase tracking-widest mb-2">{post.category}</div>
+                                    <h3 className="text-xl font-extrabold text-white mb-4 leading-tight group-hover:text-amp-secondary transition-colors">{post.title}</h3>
+                                    <p className="text-gray-400 text-sm mb-4 leading-relaxed flex-grow">{post.excerpt}</p>
                                     <div className="flex items-center justify-between text-gray-400 text-sm">
                                         <span>{new Date(post.publishedAt).toLocaleDateString()}</span>
                                         <span>{post.readTime} min read</span>
                                     </div>
-                                    <div className="mt-4 text-indigo-600 font-bold text-sm uppercase tracking-widest flex items-center">
+                                    <div className="mt-4 text-amp-secondary font-bold text-sm uppercase tracking-widest flex items-center">
                                         Read Article <span className="ml-2 text-xl group-hover:translate-x-2 transition-transform">→</span>
                                     </div>
                                 </Link>
@@ -152,17 +152,17 @@ export default async function BlogPage() {
                 </div>
             </section>
 
-            <section className="py-20 bg-gray-50">
+            <section className="py-20 bg-black/20">
                 <div className="container mx-auto px-4 text-center">
-                    <h2 className="text-3xl font-bold text-gray-900 mb-6">Want to Talk Shop?</h2>
-                    <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
+                    <h2 className="text-3xl font-bold text-white mb-6">Want to Talk Shop?</h2>
+                    <p className="text-gray-400 mb-8 max-w-2xl mx-auto">
                         We help businesses get more leads without all the headaches. Curious if we can help you? Let's chat.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                        <Link href="/contact" className="bg-indigo-600 text-white px-8 py-4 rounded-full font-bold hover:bg-indigo-700 transition-colors">
+                        <Link href="/contact" className="bg-amp-primary text-white px-8 py-4 rounded-full font-bold hover:bg-amp-primary/80 transition-colors">
                             Book a Free Call
                         </Link>
-                        <Link href="/pricing" className="bg-white text-indigo-600 border-2 border-indigo-600 px-8 py-4 rounded-full font-bold hover:bg-indigo-50 transition-colors">
+                        <Link href="/pricing" className="bg-white/5 text-white border-2 border-white/10 px-8 py-4 rounded-full font-bold hover:bg-white/10 backdrop-blur-sm transition-colors">
                             View Pricing
                         </Link>
                     </div>

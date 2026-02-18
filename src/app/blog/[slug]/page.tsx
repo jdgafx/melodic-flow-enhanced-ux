@@ -49,33 +49,33 @@ const portableTextComponents = {
     },
     block: {
         h2: ({ children }: { children?: React.ReactNode }) => (
-            <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-6">{children}</h2>
+            <h2 className="text-2xl font-bold text-white mt-12 mb-6">{children}</h2>
         ),
         h3: ({ children }: { children?: React.ReactNode }) => (
-            <h3 className="text-xl font-bold text-gray-900 mt-8 mb-4">{children}</h3>
+            <h3 className="text-xl font-bold text-white mt-8 mb-4">{children}</h3>
         ),
         normal: ({ children }: { children?: React.ReactNode }) => (
-            <p className="text-gray-700 leading-relaxed mb-6">{children}</p>
+            <p className="text-gray-300 leading-relaxed mb-6">{children}</p>
         ),
         blockquote: ({ children }: { children?: React.ReactNode }) => (
-            <blockquote className="bg-indigo-50 border-l-4 border-indigo-500 p-6 my-8 rounded-r-lg text-indigo-800">
+            <blockquote className="bg-white/5 border-l-4 border-amp-secondary p-6 my-8 rounded-r-lg text-gray-300 backdrop-blur-sm">
                 {children}
             </blockquote>
         ),
     },
     list: {
         bullet: ({ children }: { children?: React.ReactNode }) => (
-            <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-8">{children}</ul>
+            <ul className="list-disc pl-6 space-y-2 text-gray-300 mb-8">{children}</ul>
         ),
         number: ({ children }: { children?: React.ReactNode }) => (
-            <ol className="list-decimal pl-6 space-y-2 text-gray-700 mb-8">{children}</ol>
+            <ol className="list-decimal pl-6 space-y-2 text-gray-300 mb-8">{children}</ol>
         ),
     },
     marks: {
         strong: ({ children }: { children?: React.ReactNode }) => <strong className="font-bold">{children}</strong>,
         em: ({ children }: { children?: React.ReactNode }) => <em className="italic">{children}</em>,
         link: ({ value, children }: { value?: { href: string }; children?: React.ReactNode }) => (
-            <a href={value?.href} className="text-indigo-600 hover:underline" target="_blank" rel="noopener noreferrer">
+            <a href={value?.href} className="text-amp-secondary hover:underline" target="_blank" rel="noopener noreferrer">
                 {children}
             </a>
         ),
@@ -97,22 +97,22 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     }
 
     return (
-        <main className="min-h-screen bg-white font-poppins">
+        <main className="min-h-screen bg-transparent font-poppins text-gray-200">
             <Navbar />
             
             <article>
-                <section className="bg-[#f9f6f3] py-20">
+                <section className="bg-transparent py-20 pt-32">
                     <div className="container mx-auto px-4 max-w-4xl">
-                        <Link href="/blog" className="text-indigo-600 font-bold text-sm uppercase tracking-widest hover:underline mb-6 inline-block">
+                        <Link href="/blog" className="text-amp-secondary font-bold text-sm uppercase tracking-widest hover:underline mb-6 inline-block">
                             ← Back to Blog
                         </Link>
                         {post.category && (
-                            <div className="text-indigo-600 text-xs font-bold uppercase tracking-widest mb-4">
+                            <div className="text-amp-secondary text-xs font-bold uppercase tracking-widest mb-4">
                                 {post.category.title || post.category}
                             </div>
                         )}
-                        <h1 className="text-4xl md:text-5xl font-extrabold text-[#1a1a1a] mb-6 leading-tight">{post.title}</h1>
-                        <div className="flex items-center gap-6 text-gray-500 text-sm">
+                        <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-6 leading-tight">{post.title}</h1>
+                        <div className="flex items-center gap-6 text-gray-400 text-sm">
                             {post.publishedAt && (
                                 <span>{new Date(post.publishedAt).toLocaleDateString()}</span>
                             )}
@@ -140,9 +140,9 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
                 <section className="py-16">
                     <div className="container mx-auto px-4 max-w-3xl">
-                        <div className="prose prose-lg prose-indigo max-w-none">
+                        <div className="prose prose-lg prose-invert max-w-none">
                             {post.excerpt && (
-                                <p className="text-xl text-gray-700 leading-relaxed mb-8 font-medium">
+                                <p className="text-xl text-gray-300 leading-relaxed mb-8 font-medium">
                                     {post.excerpt}
                                 </p>
                             )}
@@ -154,13 +154,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 </section>
             </article>
 
-            <section className="bg-gradient-to-r from-indigo-600 to-indigo-700 py-16">
+            <section className="bg-gradient-to-r from-amp-primary to-amp-accent py-16">
                 <div className="container mx-auto px-4 text-center">
                     <h2 className="text-3xl font-black text-white mb-6">Ready to get results?</h2>
                     <p className="text-indigo-100 text-xl mb-8 max-w-2xl mx-auto">
                         Let's help you implement AI-powered marketing that actually works.
                     </p>
-                    <Link href="/contact" className="inline-block bg-white text-indigo-600 px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
+                    <Link href="/contact" className="inline-block bg-white text-amp-primary px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1">
                         Book a Free Call
                     </Link>
                 </div>

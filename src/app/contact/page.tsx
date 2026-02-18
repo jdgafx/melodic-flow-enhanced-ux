@@ -107,7 +107,7 @@ export default function ContactPage() {
                                 <p className="text-gray-300 mb-6 relative z-10 leading-relaxed">
                                     15 minutes for free. Tell us what is your problem. You won't get pressured or pitched here — only a real conversation on whether we could be the right people to help you.
                                 </p>
-                                <a href="mailto:michael@primemarketingexperts.com" className="relative z-10 block w-full bg-white text-indigo-600 text-center py-4 rounded-xl font-bold hover:bg-indigo-50 transition-all transform hover:scale-[1.02] shadow-xl shadow-white/10">
+                                <a href="mailto:michael@primemarketingexperts.com" className="relative z-10 block w-full bg-white text-amp-primary text-center py-4 rounded-xl font-bold hover:bg-gray-100 transition-all transform hover:scale-[1.02] shadow-xl shadow-white/10">
                                     Email Us
                                 </a>
                             </div>

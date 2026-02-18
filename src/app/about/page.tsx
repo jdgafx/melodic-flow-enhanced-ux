@@ -82,7 +82,7 @@ export default function AboutPage() {
                             ))}
                         </div>
                         <div className="mt-12 relative z-10">
-                            <Link href="/contact" className="inline-block bg-white text-indigo-600 px-10 py-5 rounded-full font-bold hover:scale-105 transition-transform shadow-xl shadow-white/10">
+                            <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-5 rounded-full font-bold hover:scale-105 transition-transform shadow-xl shadow-white/10">
                                 Let us Get to Work →
                             </Link>
                         </div>

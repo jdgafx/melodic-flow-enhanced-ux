@@ -86,38 +86,38 @@ const services = [
 
 export default function ServicesPage() {
   return (
-    <main className="min-h-screen bg-white font-sans">
+    <main className="min-h-screen bg-transparent font-poppins text-gray-200">
       <Navbar />
 
-      <section className="bg-gradient-to-br from-slate-900 via-indigo-900 to-slate-900 text-white py-24">
+      <section className="bg-transparent text-white py-24 pt-32">
         <div className="container mx-auto px-4 text-center">
-          <span className="text-indigo-400 font-bold uppercase tracking-widest text-sm">Our Services</span>
+          <span className="text-amp-secondary font-bold uppercase tracking-widest text-sm">Our Services</span>
             <h1 className="text-4xl md:text-6xl font-black mt-4 mb-6">
-               Marketing That <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-emerald-400">Gets Results</span>
+               Marketing That <span className="text-transparent bg-clip-text bg-gradient-to-r from-amp-secondary via-amp-accent to-amp-primary">Gets Results</span>
              </h1>
-             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
+             <p className="text-xl text-gray-400 max-w-2xl mx-auto">
                More leads. Less busywork. We build AI tools that save you time and bring in customers.
              </p>
         </div>
       </section>
 
-      <section className="py-16 bg-indigo-50">
+      <section className="py-16 bg-black/20">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <span className="text-indigo-600 font-bold uppercase tracking-widest text-sm">Featured</span>
-            <h2 className="text-3xl font-black text-gray-900 mt-2">What We Do Best</h2>
+            <span className="text-amp-secondary font-bold uppercase tracking-widest text-sm">Featured</span>
+            <h2 className="text-3xl font-black text-white mt-2">What We Do Best</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             {services.filter(s => s.featured).map((service, idx) => (
               <Link 
                 key={idx} 
                 href={service.href}
-                className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all border-2 border-indigo-100 group hover:-translate-y-1 block"
+                className="bg-white/5 rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all border border-white/10 group hover:-translate-y-1 block backdrop-blur-sm hover:bg-white/10"
               >
                 <div className="text-5xl mb-4">{service.icon}</div>
-                <h3 className="text-xl font-bold text-gray-900 mb-3">{service.title}</h3>
-                <p className="text-gray-600 mb-4 leading-relaxed">{service.desc}</p>
-                <div className="text-indigo-600 font-bold text-lg">{service.price}</div>
+                <h3 className="text-xl font-bold text-white mb-3">{service.title}</h3>
+                <p className="text-gray-400 mb-4 leading-relaxed">{service.desc}</p>
+                <div className="text-amp-secondary font-bold text-lg">{service.price}</div>
               </Link>
             ))}
           </div>
@@ -131,12 +131,12 @@ export default function ServicesPage() {
               <Link 
                 key={idx} 
                 href={service.href}
-                className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all border border-gray-100 group hover:-translate-y-1 block"
+                className="bg-white/5 rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all border border-white/10 group hover:-translate-y-1 block backdrop-blur-sm hover:bg-white/10"
               >
                 <div className="text-5xl mb-6">{service.icon}</div>
-                <h3 className="text-xl font-bold text-gray-900 mb-3">{service.title}</h3>
-                <p className="text-gray-600 mb-4 leading-relaxed">{service.desc}</p>
-                <div className="text-indigo-600 font-bold text-lg">{service.price}</div>
+                <h3 className="text-xl font-bold text-white mb-3">{service.title}</h3>
+                <p className="text-gray-400 mb-4 leading-relaxed">{service.desc}</p>
+                <div className="text-amp-secondary font-bold text-lg">{service.price}</div>
               </Link>
             ))}
           </div>
@@ -151,7 +151,7 @@ export default function ServicesPage() {
           </p>
           <Link 
             href="/contact" 
-            className="inline-block bg-white text-indigo-600 px-10 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1"
+            className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-1"
           >
             Book a Free Call
           </Link>

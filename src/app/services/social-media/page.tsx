@@ -11,7 +11,7 @@ export default function SocialMediaPage() {
   return (
     <main className="min-h-screen bg-transparent font-poppins text-gray-200">
       <Navbar />
-      <section className="bg-gradient-to-br from-slate-900 via-indigo-900 to-slate-900 text-white py-20">
+      <section className="bg-transparent text-white py-24 pt-32">
         <div className="container mx-auto px-4 text-center">
           <div className="text-6xl mb-6">📱</div>
           <h1 className="text-4xl md:text-6xl font-black mb-6">Consistent Social Presence</h1>
@@ -35,7 +35,7 @@ export default function SocialMediaPage() {
                   "At the beginning of the month, you get a report that dissects the work behind the success. Just the data that really counts.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
-                    <svg className="w-6 h-6 text-emerald-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg className="w-6 h-6 text-amp-secondary mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     <span className="text-gray-300">{item}</span>
@@ -43,11 +43,11 @@ export default function SocialMediaPage() {
                 ))}
               </ul>
             </div>
-            <div className="bg-white/5 rounded-3xl p-8 border border-white/10 backdrop-blur-sm">
+            <div className="bg-white/5 rounded-2xl p-8 border border-white/10 backdrop-blur-sm">
               <h3 className="text-2xl font-bold text-white mb-4">Pricing</h3>
-              <div className="text-5xl font-black text-indigo-600 mb-2">Starting at $299<span className="text-xl text-gray-500">/mo</span></div>
+              <div className="text-5xl font-black text-amp-secondary mb-2">Starting at $299<span className="text-xl text-gray-500">/mo</span></div>
               <p className="text-gray-400 mb-6">We also prepare and schedule your content.</p>
-              <Link href="/contact" className="block w-full bg-indigo-600 text-white text-center py-4 rounded-xl font-bold hover:bg-indigo-700 transition-colors">
+              <Link href="/contact" className="block w-full bg-amp-primary text-white text-center py-4 rounded-xl font-bold hover:bg-amp-primary/80 transition-colors">
                 Start 7-Day Free Trial
               </Link>
             </div>
@@ -76,7 +76,7 @@ export default function SocialMediaPage() {
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
             One restaurant client said to us: &quot;I kept meaning to post and then I didn&apos;t. Now my Instagram actually looks alive.&quot;
           </p>
-          <Link href="/contact" className="inline-block bg-white text-indigo-600 px-10 py-4 rounded-full font-bold text-lg shadow-xl">
+          <Link href="/contact" className="inline-block bg-white text-amp-primary px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Get a Content Calendar
           </Link>
         </div>
