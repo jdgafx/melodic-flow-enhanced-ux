@@ -68,7 +68,7 @@ export default function RootLayout({
       "addressCountry": "US",
     },
     "telephone": "+1-617-651-1457",
-    "email": "hello@convertiq.com",
+    "email": "hello@ampmarketing.io",
     "url": "https://convertiq.com",
     "priceRange": "$$",
     "openingHoursSpecification": [
