@@ -4,7 +4,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Reputation Management System | AMP Marketing",
-  description: "We handle customer reviews for you, with thoughtful and personalized replies to everyone.",
+  description: "Automated review responses that sound personal and professional. Every review gets a reply within 24 hours.",
+  keywords: ["reputation management service", "automated review responses", "Google review management", "Yelp review response service", "online reputation management", "review monitoring service", "business review management", "customer feedback automation", "AI review response", "respond to Google reviews automatically", "negative review management", "review generation service", "online reviews for business", "best reputation management agency 2025"],
 };
 
 export default function ReviewResponsePage() {
@@ -16,7 +17,7 @@ export default function ReviewResponsePage() {
           <div className="text-6xl mb-6">⭐</div>
           <h1 className="text-4xl md:text-6xl font-black mb-6">Reputation Management</h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            We negotiate your customer feedback on your behalf so you don&apos;t have to. A thoughtful and personalized response is given to every review within 24 hours. It communicates to people that you are attentive and it also helps your business rank first in local searches.
+            Every review deserves a response. We handle yours automatically&mdash;thoughtful, personalized replies within 24 hours. It shows customers you care, and it helps your business rank higher in local search.
           </p>
         </div>
       </section>
@@ -24,15 +25,15 @@ export default function ReviewResponsePage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-400 mb-4">This is how we clean your reputation while you get your sleep:</p>
+              <p className="text-gray-400 mb-4">Here&apos;s how we protect and build your reputation while you focus on running your business:</p>
               <ul className="space-y-4">
                 {[
-                  "It expresses gratitude to customers for their positive review in a very sincere and authentic way.",
-                  "It professionally deals with those who are upset through de-escalating the conflict so you are not getting anxious about it.",
-                  "We train it to be personal and sound like you rather than a cold corporate press release.",
-                  "Google, Yelp, Facebook - anytime and anywhere someone mentions you in a positive or negative way, we are on top of it.",
-                  "If the situation gets out of control, it fires a message to your phone straight away so you can be the first to act.",
-                  "It does not wait until it is convenient but nearly instantaneously replies.",
+                  "Positive reviews get sincere, specific thank-you responses\u2014not generic templates.",
+                  "Negative reviews are handled professionally. We de-escalate the situation so you don\u2019t have to.",
+                  "Every response is trained to match your voice and tone, not sound like a corporate press release.",
+                  "We monitor Google, Yelp, Facebook, and any other platform where customers leave feedback.",
+                  "If something urgent comes in, you get an immediate alert on your phone so you can step in if needed.",
+                  "Responses go out quickly\u2014often within minutes, not hours.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
                     <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -56,12 +57,12 @@ export default function ReviewResponsePage() {
       </section>
       <section className="py-20 bg-black/20">
         <div className="container mx-auto px-4 max-w-3xl">
-          <h2 className="text-3xl font-bold text-white mb-8 text-center">Some Common Questions</h2>
+          <h2 className="text-3xl font-bold text-white mb-8 text-center">Common Questions</h2>
           {[
-            { q: "Can I tweak the responses?", a: "Absolutely. If you want, you may modify the voice, give the template a go-ahead, or simply run the system. You are at the helm of the reputation management." },
-            { q: "Which social media platforms are monitored by you?", a: "Basically, wherever anyone posts compliments or grievances. We cover Google, Yelp, TripAdvisor, and all the rest." },
-            { q: "And what about customer complaints...", a: "We do not allow AI to go off on angry rants without supervision. Those are flagged and sent to you immediately unless you have instructed otherwise." },
-            { q: "Does it sound robotic?", a: "Not a chance. We specifically train it to avoid that 'Thank you valued customer' vibe. It sounds like a human being." },
+            { q: "Can I tweak the responses?", a: "Yes. You can adjust the tone, approve templates in advance, or just let it run. You\u2019re always in control of how your brand sounds." },
+            { q: "Which platforms do you monitor?", a: "Everywhere your customers leave reviews. Google, Yelp, TripAdvisor, Facebook, and more." },
+            { q: "What about angry customers?", a: "Sensitive reviews get flagged and sent to you immediately. We don\u2019t let AI handle heated situations unsupervised unless you tell us otherwise." },
+            { q: "Does it sound robotic?", a: "Not at all. We train it to avoid the \u2018Thank you, valued customer\u2019 template tone. Every reply reads like a real person wrote it." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
               <h3 className="font-bold text-white mb-2">{faq.q}</h3>

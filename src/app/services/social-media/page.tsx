@@ -4,7 +4,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Consistent Social Presence Package | AMP Marketing",
-  description: "Stay online without turning your phone into a second home. Genuine posts for genuine people.",
+  description: "Consistent social media posting that keeps your brand visible. 20 posts a month that sound like you, not a robot.",
+  keywords: ["social media management service", "social media posting service", "Instagram management for business", "LinkedIn content management", "Facebook business page management", "social media agency", "social media marketing", "brand awareness social media", "social media content calendar", "X Twitter management", "social media for small business", "social media agency Nashua NH", "best social media management 2025", "affordable social media service"],
 };
 
 export default function SocialMediaPage() {
@@ -16,7 +17,7 @@ export default function SocialMediaPage() {
           <div className="text-6xl mb-6">📱</div>
           <h1 className="text-4xl md:text-6xl font-black mb-6">Consistent Social Presence</h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Stay online without spending all day on your phone. We make it three posts a week, real photos and captions that begin the conversations. It needs your brand to be top-of-mind and your followers to be loyal.
+            Consistent posting builds your brand, but it takes time you don&apos;t have. We handle it&mdash;three posts a week with real photos and captions that start conversations. Your brand stays visible and your audience stays engaged.
           </p>
         </div>
       </section>
@@ -24,15 +25,15 @@ export default function SocialMediaPage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-400 mb-4">We understand. You want to see some success without being glued to your phone. So here&apos;s the idea:</p>
+              <p className="text-gray-400 mb-4">You want results without being glued to your phone all day. Here&apos;s what we deliver:</p>
               <ul className="space-y-4">
                 {[
-                  "20 posts a month, and they really sound like you. No stiff corporate speak here.",
-                  "We manage LinkedIn, Facebook, Instagram, and X, basically all of them.",
-                  "Customized visuals—and yes, no more horrible pictures of two men shaking hands in boardrooms.",
-                  "The hashtags are actually selected to bring you new people and not just words thrown together without meaning.",
-                  "We also drop by comments, reply to people and develop the community with your brand at the center.",
-                  "At the beginning of the month, you get a report that dissects the work behind the success. Just the data that really counts.",
+                  "20 posts a month that sound like you\u2014no stiff corporate language.",
+                  "We manage LinkedIn, Facebook, Instagram, and X. All of them, if you want.",
+                  "Custom visuals that represent your brand. No more generic stock photos.",
+                  "Hashtags researched and selected to reach new audiences, not randomly thrown together.",
+                  "Community engagement\u2014we reply to comments, answer questions, and build relationships on your behalf.",
+                  "Monthly performance reports with the metrics that matter. No vanity numbers.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
                     <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -56,12 +57,12 @@ export default function SocialMediaPage() {
       </section>
       <section className="py-20 bg-black/20">
         <div className="container mx-auto px-4 max-w-3xl">
-          <h2 className="text-3xl font-bold text-white mb-8 text-center">What possibly questions come up in your mind?</h2>
+          <h2 className="text-3xl font-bold text-white mb-8 text-center">Common Questions</h2>
           {[
-            { q: "So, what platforms should you actually consider being present on?", a: "Honestly, it is basically dependent on your product service. A restaurant in the neighborhood? Well, you're definitely better off on Instagram and Google Business rather than LinkedIn, that's just common sense, right? We pinpoint for you the places where your customers spend their time." },
-            { q: "Will I have the chance to preview the posts before they are published?", a: "Of course, it's totally fine. Every month, you'll have a content calendar in your hands. You go through it, approve it, tell us what changes need to be made—we won't hit publish without your confirmation, I mean it." },
-            { q: "Could you handle posting from my account?", a: "Yes, we can if you decide to give us the access. Or we just deliver the content to you and you post it. To be honest, whatever is your comfort zone, no pressure at all." },
-            { q: "What if I want something different in the content?", a: "Don't worry about it, we'll change it. Usually, it's one or two rounds before you get your voice right, so we'll keep tweaking with you until it is really your brand." },
+            { q: "Which platforms work best for my business?", a: "It depends on your audience. A local restaurant does better on Instagram and Google Business than LinkedIn. We identify where your customers spend their time and focus there." },
+            { q: "Can I preview posts before they go live?", a: "Of course. You get a content calendar at the start of each month. Review it, approve it, request changes\u2014we don\u2019t publish anything without your sign-off." },
+            { q: "Can you post from my accounts?", a: "Yes, if you give us access. Or we deliver the content and you post it yourself. Whatever you\u2019re comfortable with." },
+            { q: "What if the content doesn\u2019t sound right?", a: "We adjust. It usually takes one or two rounds to nail your brand voice. We keep refining until it sounds like you." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
               <h3 className="font-bold text-white mb-2">{faq.q}</h3>
@@ -72,9 +73,9 @@ export default function SocialMediaPage() {
       </section>
       <section className="py-24 bg-gradient-to-r from-indigo-500 to-violet-500">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold text-white mb-6">Are You Posting...</h2>
+          <h2 className="text-3xl font-bold text-white mb-6">Your Social Media, Handled</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
-            One restaurant client said to us: &quot;I kept meaning to post and then I didn&apos;t. Now my Instagram actually looks alive.&quot;
+            One restaurant owner told us: &quot;I kept meaning to post but never did. Now my Instagram actually looks alive.&quot;
           </p>
           <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Get a Content Calendar

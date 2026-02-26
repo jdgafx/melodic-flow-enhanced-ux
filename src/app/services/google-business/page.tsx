@@ -4,7 +4,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Google Business Profile Optimization | AMP Marketing",
-  description: "Dominate local search. Get discovered by customers near you when they are looking for you.",
+  description: "Get found in Google's local map pack. We optimize your Business Profile so nearby customers call you first.",
+  keywords: ["Google Business Profile optimization", "local SEO services", "Google Maps ranking", "local map pack optimization", "Google Business listing management", "local search optimization", "GMB optimization service", "local business marketing", "get found on Google Maps", "Google Business Profile agency", "local SEO Nashua NH", "Bing Places optimization", "improve local search ranking", "Google Business reviews management", "rank higher on Google Maps"],
 };
 
 export default function GoogleBusinessPage() {
@@ -16,7 +17,7 @@ export default function GoogleBusinessPage() {
           <div className="text-6xl mb-6">📍</div>
           <h1 className="text-4xl md:text-6xl font-black mb-6">Local Search Mastery</h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Listen, if you don't get to the top 3 of Google map pack, you are literally invisible. To tell the truth, most profiles are downright a disaster. We change yours in a way that people in your local area will find you and even call you.
+            If you&apos;re not in the top 3 of Google&apos;s map pack, your competitors are getting those calls. Most business profiles are incomplete or poorly optimized. We fix that so local customers find you and pick up the phone.
           </p>
         </div>
       </section>
@@ -25,15 +26,15 @@ export default function GoogleBusinessPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl font-bold text-white mb-6">Make yourself visible to local customers</h2>
-              <p className="text-gray-400 mb-6">Just to be honest, the majority of Google Business profiles are only halfway finished. It is like handing over money to your competitors. By optimizing every square inch of your profile, we ensure that you get the most from the local search results.</p>
+              <p className="text-gray-400 mb-6">Most Google Business profiles are only half-finished. That&apos;s money going straight to your competitors. We optimize every detail of your profile so you rank higher in local search results.</p>
               <ul className="space-y-4">
                 {[
-                  "We conduct a comprehensive study on the keywords that people most frequently type in when searching for businesses like yours.",
-                  "We retake your photos- no more old and blurry photos.",
-                  "We work on your categories to make them perfect so that Google is not confused by your services.",
-                  "The Q & A spot is filled up with questions that people usually ask and answers are given.",
-                  "You reply to every review. Thank the good, handle the bad.",
-                  "We let you gauge the traffic to your phone and website at the level of accuracy that the data that you see is the truth.",
+                  "Keyword research to find the exact terms your local customers are searching for.",
+                  "Updated, high-quality photos that make a strong first impression.",
+                  "Accurate categories so Google shows your business for the right searches.",
+                  "Q&A section filled with the questions customers ask most, along with clear answers.",
+                  "Professional responses to every review\u2014positive and negative.",
+                  "Tracking setup so you can see exactly how many calls and website visits your profile drives.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
                     <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -59,10 +60,10 @@ export default function GoogleBusinessPage() {
         <div className="container mx-auto px-4 max-w-3xl">
           <h2 className="text-3xl font-bold text-white mb-8 text-center">Common Questions</h2>
           {[
-            { q: "How long until I show up in searches?", a: "Most of the companies experience the first changes in 3-7 days. The real growth comes when you are in the map pack, which quite often occurs within a month." },
-            { q: "Do I need to give you new photos?", a: "No. We take what you have and let you know what would help. If your photos are good enough, we use them." },
-            { q: "What if my profile already exists?", a: "Actually, that's a perfect situation. Our experts checked many online profiles and found out that most of them are only 60% complete. So we make them 100% and optimize everything that is there." },
-            { q: "Is this a monthly thing?", a: "No, it's a one-off thing. We create, make it better, and that's it. In case you want us to take care of it on a regular basis, we can discuss that further, but there is no pressure." },
+            { q: "How long until I show up in searches?", a: "Most businesses see initial improvements within 3-7 days. The bigger gains come when you start appearing in the map pack, which typically happens within a month." },
+            { q: "Do I need to give you new photos?", a: "Not unless your current ones need replacing. We work with what you have and advise on what would help. If your photos are solid, we use them." },
+            { q: "What if my profile already exists?", a: "That\u2019s ideal. Most existing profiles are only about 60% complete. We fill in the gaps and optimize everything that\u2019s already there." },
+            { q: "Is this a monthly thing?", a: "One-time setup. We optimize it, hand it back, and you\u2019re done. If you want ongoing management later, we can discuss that\u2014but there\u2019s no pressure." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
               <h3 className="font-bold text-white mb-2">{faq.q}</h3>
@@ -75,7 +76,7 @@ export default function GoogleBusinessPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Show Up When It Matters</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
-            Be found by people from your neighborhood. Kick-off now.
+            Get found by customers in your area. Start showing up where it matters.
           </p>
           <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Get Started

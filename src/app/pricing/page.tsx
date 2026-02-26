@@ -11,7 +11,7 @@ export default function PricingPage() {
     const platformTiers = [
         {
             name: 'Starter',
-            description: "What if you are just figuring things out? That should be your starting point. You get a chatbot that books appointments for you when you sleep, we'll optimize your Google listing so the locals can actually find you, and reviews will be answered automatically. Close to a dozen sign-ups a month.",
+            description: "Just getting started? This is your entry point. You get a chatbot that books appointments while you sleep, Google Business optimization so locals can find you, and automated review responses.",
             monthlyPrice: 297,
             annualPrice: 247,
             features: [
@@ -27,7 +27,7 @@ export default function PricingPage() {
         },
         {
             name: 'Professional',
-            description: "If you ask us most clients end up here. You get everything from Starter plus a phone bot that automatically answers your phone when you can't, email sequences that don't sound like spam, regular social media posts, and ad copy that people actually click on.",
+            description: "Where most clients land. Everything in Starter, plus an AI phone receptionist, email sequences that sound human, regular social media posts, and ad copy that drives clicks.",
             monthlyPrice: 597,
             annualPrice: 497,
             features: [
@@ -45,7 +45,7 @@ export default function PricingPage() {
         },
         {
             name: 'Enterprise',
-            description: "That's the complete one. We create your content, design your landing pages, establish a complete sales funnel, train an AI which understands your business, and you are assigned a personal manager who knows your business inside out.",
+            description: "The full package. We create your content, design your landing pages, build a complete sales funnel, train a custom AI for your business, and assign you a dedicated account manager.",
             monthlyPrice: 1297,
             annualPrice: 1097,
             features: [
@@ -72,7 +72,7 @@ export default function PricingPage() {
         { name: 'Email Automation', price: 'Starting at $49/mo', oneTime: false, setup: '$199 one-time setup', description: 'Follow-ups that actually get opened' },
         { name: 'Social Media', price: 'Starting at $299/mo', oneTime: false, setup: null, description: '20 posts a month so you stay visible' },
         { name: 'Ad Copy', price: 'Starting at $199/mo', oneTime: false, setup: '$299 one-time setup', description: 'Words that make people click' },
-        { name: 'SEO Content', price: 'Starting at $149 per article', oneTime: true, setup: null, description: 'Long-form stuff that ranks on Google' },
+        { name: 'SEO Content', price: 'Starting at $149 per article', oneTime: true, setup: null, description: 'Long-form articles that rank on Google' },
         { name: 'Landing Pages', price: 'Starting at $799 one-time', oneTime: true, setup: null, description: 'Pages built to turn visitors into leads' },
         { name: 'Automated Sales Funnels', price: 'Starting at $299/mo', oneTime: false, setup: '$1,499 one-time setup', description: 'The whole funnel—soup to nuts' }
     ];
@@ -80,27 +80,27 @@ export default function PricingPage() {
     const faqs = [
         {
             question: "What do I get in the free trial?",
-            answer: "It is everything. The whole thing. 7 days, no credit card required, no strange catches. Try it out. If it's not for you, no problem—just don't continue. Zero hassle."
+            answer: "Full access to everything for 7 days. No credit card required, no catches. Try it out, and if it's not for you, walk away. Zero hassle."
         },
         {
             question: "Can you make it fit my business?",
-            answer: "There is no one-size-fits-all with us. We don't do copy-paste for the same content all over the place. Your chatbot scripts, emails, ads—everything is created specifically for YOUR business. We'll keep working on it until it really sounds like you."
+            answer: "Everything is built specifically for your business. Chatbot scripts, emails, ads—none of it is copy-paste. We keep refining until it sounds like you."
         },
         {
             question: "What if I want to change plans?",
-            answer: "Absolutely. Upgrade when you feel like expanding, downgrade if less busy. We make sure your bill is the right one. No fees, no guilt."
+            answer: "Upgrade when you're ready to grow, downgrade during slower months. We adjust your billing accordingly. No fees, no hassle."
         },
         {
             question: "What if none of the plans are right for me?",
-            answer: "We'll create one for you. It is as simple as saying what you want and we will come up with a solution that suits your circumstances."
+            answer: "We'll build a custom plan. Tell us what you need, and we'll put together a package that fits your situation."
         },
         {
             question: "How quickly will this actually work?",
-            answer: "This is mainly what you use. Chatbots? Day one. You might get the leads the same afternoon. SEO takes a little more time—usually a couple of months to really gain momentum. However, most people notice the results in the first week or two."
+            answer: "Depends on the service. Chatbots can start capturing leads on day one. SEO takes a few months to build momentum. Most clients see noticeable results within the first week or two."
         },
         {
             question: "Do I have to sign a long contract?",
-            answer: "We do a month to month thing. If you want to cancel, just give us a 30 days notice. We are different from those companies who trap their customers."
+            answer: "Month-to-month billing. If you want to cancel, give us 30 days notice. No long-term contracts, no traps."
         }
     ];
 
@@ -276,7 +276,7 @@ export default function PricingPage() {
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-16">
                         <h2 className="text-3xl md:text-4xl font-black text-white mb-4">Questions People Usually Ask</h2>
-                        <p className="text-gray-400">Stuff we get asked all the time</p>
+                        <p className="text-gray-400">Answers to the most common questions</p>
                     </div>
                     <div className="max-w-3xl mx-auto space-y-4">
                         {faqs.map((faq, idx) => (

@@ -2,6 +2,18 @@ import { Navbar, Footer } from '@/components/Layout';
 import Link from 'next/link';
 import { getPosts, urlFor } from '@/sanity/lib/client';
 import Image from 'next/image';
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Marketing Blog | AI Tips, Lead Generation Strategies & Growth Guides | AMP Marketing",
+  description: "Expert articles on AI marketing, automated lead generation, chatbot strategies, SEO, and small business growth. Practical advice from the AMP Marketing team.",
+  keywords: ["marketing blog", "AI marketing tips", "lead generation strategies", "small business growth blog", "chatbot marketing", "SEO content strategy", "email marketing tips", "digital marketing insights", "AI marketing articles", "business automation blog", "Bing Ads tips", "Google Ads strategies", "marketing automation guides"],
+  openGraph: {
+    title: "AMP Marketing Blog | AI Marketing Tips & Growth Strategies",
+    description: "Practical marketing advice for small businesses. Learn about AI chatbots, lead generation, SEO, and more.",
+    url: "https://convertiq.com/blog",
+  },
+};
 
 const fallbackPosts = [
     {
@@ -87,7 +99,7 @@ export default async function BlogPage() {
     try {
         const sanityPosts = await getPosts();
         if (sanityPosts && sanityPosts.length > 0) {
-            posts = sanityPosts;
+            posts = [...sanityPosts, ...fallbackPosts];
         } else {
             posts = fallbackPosts;
         }
@@ -103,7 +115,7 @@ export default async function BlogPage() {
                 <div className="container mx-auto px-4 text-center">
                     <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-6">What We're Reading</h1>
                     <p className="max-w-3xl mx-auto text-xl text-gray-400 leading-relaxed italic">
-                        Stuff we found useful about getting more leads and growing your business. No fluff.
+                        Articles we found useful about getting more leads and growing your business. No fluff.
                     </p>
                 </div>
             </section>

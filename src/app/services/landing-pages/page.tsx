@@ -5,6 +5,7 @@ import Link from "next/link";
 export const metadata = {
   title: "High-Converting Pages | AMP Marketing",
   description: "Pages designed to convert visitors into paying customers. Simple, quick, and user-friendly.",
+  keywords: ["landing page design service", "high-converting landing pages", "lead capture page design", "landing page agency", "conversion rate optimization", "mobile-optimized landing pages", "custom landing page builder", "landing page for lead generation", "fast loading landing pages", "A/B tested landing pages", "landing page copywriting", "best landing page agency 2025", "PPC landing page design", "Bing Ads landing pages"],
 };
 
 export default function LandingPagesPage() {
@@ -27,12 +28,12 @@ export default function LandingPagesPage() {
               <p className="text-gray-400 mb-4">Here is the straightforward comparison between an attractive page and one that generates sales:</p>
               <ul className="space-y-4">
                 {[
-                  "On a mobile device it is flawless—let&apos;s be sincere, that is the source of 70% of your visitors.",
-                  "Your page loads fast, like under 3 seconds. People leave if it's any slower.",
-                  "Titles that make you put the scroll down and wait.",
-                  "Trust is instantly established when we combine your glowing testimonials and client logos—after all, people buy from people they trust, right?",
-                  "Prominent and obvious buttons. We don&apos;t make it difficult to check out.",
-                  "We installed proper tracking so you always know where the money is coming from.",
+                  "Flawless on mobile\u2014where over 70% of your visitors are browsing.",
+                  "Lightning-fast load times under 3 seconds. Anything slower and visitors leave.",
+                  "Headlines that stop the scroll.",
+                  "Trust is instantly established when we combine your glowing testimonials and client logos\u2014because people buy from people they trust.",
+                  "Prominent and obvious buttons. We don\u2019t make it difficult to check out.",
+                  "We set up proper analytics so you always know where the money is coming from.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
                     <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -60,9 +61,9 @@ export default function LandingPagesPage() {
           <h2 className="text-3xl font-bold text-white mb-8 text-center">Things You May Be Wondering About</h2>
           {[
             { q: "Where will the pages actually be?", a: "We can either put it on your existing website or create a new one for you. It'll work whichever way you choose." },
-            { q: "Can you integrate with my CRM?", a: "Of course, we can feed the leads directly into HubSpot, Salesforce, Mailchimp—the CRM of your choice. No hassles." },
-            { q: "What if I want changes after some time?", a: "We cover the first 30 days of tweaks, but after that, if you need us, we will be here. Agreed?" },
-            { q: "How many conversions do you think I will get?", a: "Truthfully? It's your product and your traffic that determines the result. We provide the mechanism, but you have to fuel it." },
+            { q: "Can you integrate with my CRM?", a: "Of course, we can feed the leads directly into HubSpot, Salesforce, Mailchimp\u2014the CRM of your choice. No hassles." },
+            { q: "What if I want changes after some time?", a: "We cover the first 30 days of tweaks, and after that, we are always available if you need further updates." },
+            { q: "How many conversions do you think I will get?", a: "Results depend on your product and your traffic. We build the conversion mechanism\u2014you bring the audience." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
               <h3 className="font-bold text-white mb-2">{faq.q}</h3>
@@ -75,7 +76,7 @@ export default function LandingPagesPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">The landing page you&apos;ve been procrastinating about.</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
-            A brand in the e-commerce sector mentioned that their landing page alone had fetched $47,000 in month&apos;s time. They seriously could not believe it because they had been &quot;meaning to get around to it&quot; for nearly two years.
+            One e-commerce brand reported that a single landing page generated $47,000 in its first month. They had been putting it off for nearly two years.
           </p>
           <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Build My Page

@@ -4,7 +4,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Peak Performance Ads Optimization | AMP Marketing",
-  description: "Crafted ad copy that feels native, really gets people's attention, and attracts clicks. Achieve even better results while lowering your expense.",
+  description: "Ad copy that grabs attention, drives clicks, and lowers your cost per lead. We test relentlessly so your budget works harder.",
+  keywords: ["ad copy optimization", "PPC ad writing service", "Google Ads copywriting", "Bing Ads copy optimization", "Facebook ad copy writing", "ad headline testing", "cost per lead reduction", "paid advertising agency", "Meta ad copy agency", "LinkedIn Ads copywriting", "Microsoft Ads copy", "ad A/B testing service", "lower cost per click", "PPC agency Nashua NH", "best ad copy agency 2025"],
 };
 
 export default function AdCopyPage() {
@@ -16,7 +17,7 @@ export default function AdCopyPage() {
           <div className="text-6xl mb-6">📝</div>
           <h1 className="text-4xl md:text-6xl font-black mb-6">Peak Performance Ads Optimization</h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Throwing your money down on ads that are totally invisible to people is not the right thing to do. We come up with short but strong CD headlines that catch the eye and force the click. Every month, we try out several versions AND we keep your cost low and your sales high.
+            Stop burning money on ads nobody clicks. We write sharp headlines, test multiple variations, and optimize your campaigns every week. Your cost per lead goes down. Your results go up.
           </p>
         </div>
       </section>
@@ -24,15 +25,15 @@ export default function AdCopyPage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-400 mb-4">Here is something that worries us: most companies throw away a double-digit percentage of their ad budgets—sometimes 30-50%—simply due to poor ad copy. Insane, right? So here is our answer:</p>
+              <p className="text-gray-400 mb-4">Here&apos;s a number that should bother you: most companies waste 30-50% of their ad budget on weak copy. We fix that.</p>
               <ul className="space-y-4">
                 {[
-                   "We produce 4-8 headline variations for each ad set and let the testing do its thing.",
-                  "We create engage attention CTA that makes people click—not those boring 'Learn More' buttons which are always being scrolled past.",
-                  "Google, Meta, LinkedIn—we have the secret of each platform in our pockets.",
-                  "A different message for each audience because, let&apos;s face it, the way a homeowner thinks is totally different from the way a contractor thinks.",
-                  "And here is something most of the people are just missing totally—a handful of points, such as your ad getting noticed immediately, which actually make a real difference.",
-                  "Every week, we perform updates to the campaign based on the analysis of actual data, not guesswork. It's not that complex when you break it down.",
+                  "We write 4-8 headline variations per ad set and let real data pick the winner.",
+                  "Clear calls to action that make people click\u2014not generic \u2018Learn More\u2019 buttons everyone scrolls past.",
+                  "Platform-specific copy for Google, Meta, LinkedIn, and Microsoft Ads. What works on LinkedIn won\u2019t work on Instagram.",
+                  "Different messaging for different audiences. A homeowner thinks differently than a contractor.",
+                  "Ad quality scores that get your ads noticed faster and shown more often.",
+                  "Weekly optimizations based on performance data, not guesswork.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
                     <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -58,10 +59,10 @@ export default function AdCopyPage() {
         <div className="container mx-auto px-4 max-w-3xl">
           <h2 className="text-3xl font-bold text-white mb-8 text-center">Quick Questions</h2>
           {[
-            { q: "Which platforms do you handle?", a: "Google Ads, Meta (that includes Facebook and Instagram), LinkedIn Ads, and Microsoft Ads. Each one has its own unique features and best practices, so what works on LinkedIn may not necessarily work on Instagram." },
-            { q: "How many variations do you actually write?", a: "Typically, the number ranges between 4-8 per ad set. It is sufficient for testing without overwhelming with a multitude of options." },
-            { q: "What if I already have ads running?", a: "It’s cool. We will focus on creating a contrast between the works and your new ads. Occasionally, a simple solution is to just do a little tweak here and there. Other times? Yeah, the overhaul might be necessary." },
-            { q: "How do you know if it's working?", a: "We monitor every three of these metrics — clicks, conversions, and cost per lead. When the numbers keep going up and the costs go down, then it's working. We are not after vanity metrics." },
+            { q: "Which platforms do you handle?", a: "Google Ads, Meta (Facebook and Instagram), LinkedIn Ads, and Microsoft Ads. Each platform has its own best practices, so we tailor copy for every one." },
+            { q: "How many variations do you write?", a: "Typically 4-8 per ad set. Enough to run meaningful tests without overcomplicating things." },
+            { q: "What if I already have ads running?", a: "No problem. We\u2019ll benchmark your current ads against our new versions. Sometimes a small tweak is all it takes. Other times, a full rewrite makes the difference." },
+            { q: "How do you know if it's working?", a: "We track clicks, conversions, and cost per lead. When results go up and costs go down, it\u2019s working. We don\u2019t chase vanity metrics." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
               <h3 className="font-bold text-white mb-2">{faq.q}</h3>
@@ -74,7 +75,7 @@ export default function AdCopyPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-6">Want to stop wasting your ad budget?</h2>
           <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
-            One of the dental clients that we cooperated with managed to reduce their cost per lead by 40% within a month. Better text. Less waste.
+            One dental client cut their cost per lead by 40% in the first month. Better copy, less waste.
           </p>
           <Link href="/contact" className="inline-block bg-white text-black px-10 py-4 rounded-full font-bold text-lg shadow-xl">
             Get Better Copy

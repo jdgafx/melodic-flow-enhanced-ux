@@ -4,7 +4,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Content That Ranks | AMP Marketing",
-  description: "Knowledgeable articles that human beings will genuinely read. Boost your site traffic without worthless content.",
+  description: "Expert articles your audience will read and trust. Boost your site traffic with well-researched, SEO-optimized content.",
+  keywords: ["SEO content writing service", "SEO articles for business", "content marketing services", "blog writing service", "organic traffic growth", "keyword-optimized content", "SEO copywriting agency", "AI-assisted SEO writing", "long-form SEO content", "rank on Google with content", "SEO blog posts for small business", "content marketing agency", "best SEO writing service 2025", "Bing search ranking content"],
 };
 
 export default function SeoContentPage() {
@@ -16,7 +17,7 @@ export default function SeoContentPage() {
           <div className="text-6xl mb-6">🔍</div>
           <h1 className="text-4xl md:text-6xl font-black mb-6">Content That Ranks</h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Are articles that people actually read. We discover the questions that your buyers are asking and provide clear answers. We avoid fluff and repetitive keywords. Instead, we offer only helpful information that steadily brings traffic to your website.
+            We write articles that your target audience will read, share, and trust. We discover the questions your buyers are asking and provide clear answers. No fluff, no keyword stuffing—just helpful information that steadily brings traffic to your website.
           </p>
         </div>
       </section>
@@ -24,15 +25,15 @@ export default function SeoContentPage() {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <p className="text-gray-400 mb-4">Have you ever thought about why some content attracts traffic while other pages get no visitors? One way we render our content is by putting the needs of your audience first and search engines second so naturally, your content gets the best of both worlds. We take several steps:</p>
+              <p className="text-gray-400 mb-4">Some pages attract steady traffic for years. Others get zero visitors. The difference is strategy. We write for your audience first and search engines second—so your content performs on both fronts. Here's what goes into every article:</p>
               <ul className="space-y-4">
                 {[
-                   "Approximately 2,000 words of legitimate content carefully crafted to provide comprehensive answers to the main search intent without fillers or other content additives.",
-                  "We don&apos;t guess at keywords. We dig into ones with real search volume—actual opportunities, not made-up nonsense.",
-                  "Always make the link relationships among your pages logical and coherent.",
-                  "The text element that people see when searching on Google, which catches their attention and attracts clicks.",
+                   "Around 2,000 words of in-depth content that fully answers the search query. No filler, no padding.",
+                  "We don\u2019t guess at keywords. We dig into ones with real search volume—actual opportunities, not made-up nonsense.",
+                  "Strategic internal linking that connects related pages on your site, helping both readers and search engines navigate your content.",
+                  "Compelling meta descriptions—the preview text shown in Google search results—written to grab attention and drive clicks to your page.",
                   "Titles that sound appealing to the reader while simultaneously being friendly to search engines.",
-                  "Frankly, the best thing about it is that it comes ready to be uploaded to the most popular platforms such as WordPress, Wix, Squarespace, or any other platform you are using.",
+                  "Every article is delivered publish-ready and formatted for your platform—WordPress, Wix, Squarespace, or any other CMS you use.",
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
                     <svg className="w-6 h-6 text-blue-500 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -59,10 +60,10 @@ export default function SeoContentPage() {
         <div className="container mx-auto px-4 max-w-3xl">
           <h2 className="text-3xl font-bold text-white mb-8 text-center">Before You Ask</h2>
           {[
-            { q: "How do you decide what to write about?", a: "Actually, we think about what your competitors rank for, analyze the questions from your customers, and determine which search terms are really getting traffic. We include you in decision-making before doing the actual writing—so no surprises." },
-            { q: "Do you guarantee first page rankings?", a: "Come on, no reasonable person can make such a promise. What we do promise is: great content that is well crafted and properly optimized. However, there are so many ranking factors such as your competitors, your domain authority, the age of your site, and so on." },
+            { q: "How do you decide what to write about?", a: "We research what your competitors rank for, analyze the questions your customers are asking, and identify which search terms are driving real traffic. We include you in every content decision before writing begins—so there are no surprises." },
+            { q: "Do you guarantee first page rankings?", a: "No reputable agency can guarantee specific rankings—anyone who does is being misleading. What we do guarantee is well-researched, expertly written content that follows SEO best practices. Rankings depend on many factors including competition, domain authority, and site age, but strong content is the foundation of every successful strategy." },
             { q: "Can you post the articles on my website?", a: "Certainly. WordPress, Wix, Squarespace, etc. we can log in and post it, or just give you the content to upload yourself. Whatever is most convenient for you." },
-            { q: "Which type of articles are best?", a: "Instructional articles or how-to guides, industry explainers, comparisons and list of FAQs. In fact, it is all the information that your target audience needs and searches for." },
+            { q: "Which type of articles are best?", a: "How-to guides, industry explainers, product comparisons, and FAQ pages tend to perform best. The common thread is that they answer the specific questions your target audience is searching for." },
           ].map((faq, idx) => (
             <div key={idx} className="bg-white/5 rounded-xl p-6 mb-4 border border-white/10 backdrop-blur-sm">
               <h3 className="font-bold text-white mb-2">{faq.q}</h3>

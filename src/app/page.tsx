@@ -2,19 +2,32 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "AI Marketing Agency | Automated Lead Generation & Sales Tools | AMP Marketing",
+  description: "AMP Marketing builds AI-powered lead generation systems, chatbots, voice receptionists, and sales automation tools for small businesses. Get more leads, book more appointments, and grow revenue on autopilot.",
+  keywords: ["AI marketing agency", "automated lead generation", "AI chatbot for business", "AI voice receptionist", "marketing automation", "lead generation services", "sales automation tools", "small business marketing", "Nashua NH marketing agency", "digital marketing automation", "Bing Ads management company", "Google Ads management agency", "AI lead capture system", "appointment booking automation", "business growth tools", "AI marketing services near me", "best AI marketing agency 2025", "affordable lead generation", "AI-powered sales funnel", "marketing agency for small business"],
+  openGraph: {
+    title: "AMP Marketing | AI-Powered Lead Generation & Sales Automation",
+    description: "Get more leads and book more appointments with AI chatbots, voice receptionists, email automation, and smart sales funnels. Built for small businesses that want to grow.",
+    url: "https://convertiq.com",
+    type: "website",
+  },
+};
 
 export default function Home() {
   const services = [
-    { icon: "🚀", title: "Automated Sales Funnels", href: "/services/lead-funnel", desc: "We program AI to track down your ideal clients across different social media, Google, and various other advertising platforms. Your funnel is always full, so you only need to concentrate on selling. It’s like having a sales team that never stops and never asks for breaks.", price: "Starting at $1,499 Setup + $299/mo" },
-    { icon: "💡", title: "SEO Content", href: "/contact", desc: "We employ AI to carry out the research and generate top-notch articles that really get a good ranking on Google. So, you will have new content that keeps attracting visitors from a search engine without having to pay a hefty price to a writing agency. It’s basically the cleverest method to increase your authority.", price: "Starting at $149 per article" },
-    { icon: "📞", title: "AI Voice", href: "/services/ai-voice", desc: "Answering the call, our AI interacts with the caller, identifies the needs, and schedules the meetings. Whether the calls are inbound or outbound, no problem. Turning the phone into a source of profit that works nonstop is your phone. Your phone is your 24-hour, non-stop appointment scheduler.", price: "Starting at $497 Setup + $249/mo" },
-    { icon: "⚙️", title: "Landing Pages", href: "/services/landing-pages", desc: "It's very likely that only a few seconds (probably 3) are at your disposal before the person leaves. We design the websites that load quickly, visually attractive, and guys who are visiting the website stick and convert.", price: "Starting at $799 one-time" },
-    { icon: "🤖", title: "AI Chatbot", href: "/services/ai-chatbot", desc: "Your website visitors deserve an intelligent, human-level conversation partner. The chatbot engages with the guests, replies to their inquiries, and arranges the meetings for you. One of our customers tripled their leads in a week after we installed this. It was a huge deal for them.", price: "Starting at $497 Setup + $149/mo" },
-    { icon: "📱", title: "Social Media", href: "/services/social-media", desc: "Social media is not really a place for fun but a serious task, isn't it? We handle it for you. We publish posts on your behalf all the time so that the people you know can see them and get to know who you are. Without dipping a finger, you have stayed visible.", price: "Starting at $299/mo" },
-    { icon: "📝", title: "Ad Copy", href: "/services/ad-copy", desc: "Wanna stop the constant waste of your budget on ads without getting any results? We craft the most attractive headlines and keeps testing till your cost per lead goes down. You can spend your time watching the numbers increase while we carry the load.", price: "Starting at $299 Setup + $199/mo" },
-    { icon: "✉️", title: "Email Automation", href: "/services/email-automation", desc: "We create email sequences that don't sound like marketing. We craft email sequences that sound like they were written by a real human being. B2B Leads flow through your pipeline without any struggle or effort. No more \"just checking in\" is the kind of message you have to be the one to send.", price: "Starting at $199 Setup + $49/mo" },
-    { icon: "📍", title: "Google Business", href: "/services/google-business", desc: "If you are not on Google Maps, you won’t get any customers. We are going to make sure that your profile strikes the searchers' eyes when they're walking around, and looking for you. When your visibility increases, so do the phone calls. Simple enough, huh?", price: "Starting at $399 one-time" },
-    { icon: "⭐", title: "Review Response", href: "/services/review-response", desc: "Pulling off writing review responses is a great way to engage customers. You can let the system come up with creative answers to both positive and negative reviews automatically. You type nothing while great service is being provided.", price: "Starting at $99/mo" },
+    { icon: "🚀", title: "Automated Sales Funnels", href: "/services/lead-funnel", desc: "We use AI to find your ideal clients across social media, Google, and other ad platforms. Your funnel stays full so you can focus on closing deals. It’s like a sales team that never takes a break.", price: "Starting at $1,499 Setup + $299/mo" },
+    { icon: "💡", title: "SEO Content", href: "/contact", desc: "We research and write articles that rank well on Google. Fresh content brings in organic visitors month after month, without the cost of a big writing agency. One of the smartest ways to build authority online.", price: "Starting at $149 per article" },
+    { icon: "📞", title: "AI Voice", href: "/services/ai-voice", desc: "Our AI answers calls, qualifies leads, and books appointments around the clock. Inbound or outbound, it handles both. Your phone becomes a 24/7 appointment-booking machine.", price: "Starting at $497 Setup + $249/mo" },
+    { icon: "⚙️", title: "Landing Pages", href: "/services/landing-pages", desc: "You have about 3 seconds before a visitor leaves. We build pages that load fast, look sharp, and turn browsers into buyers.", price: "Starting at $799 one-time" },
+    { icon: "🤖", title: "AI Chatbot", href: "/services/ai-chatbot", desc: "Your website visitors get an intelligent conversation partner that answers questions and books meetings for you. One client tripled their leads in a week after we set this up.", price: "Starting at $497 Setup + $149/mo" },
+    { icon: "📱", title: "Social Media", href: "/services/social-media", desc: "Consistent posting builds your brand, but it takes time you don’t have. We handle it for you. Regular posts that keep you visible and help your audience get to know you, without lifting a finger.", price: "Starting at $299/mo" },
+    { icon: "📝", title: "Ad Copy", href: "/services/ad-copy", desc: "Stop burning money on ads nobody clicks. We write compelling headlines and test variations until your cost per lead drops. You watch the numbers go up while we do the heavy lifting.", price: "Starting at $299 Setup + $199/mo" },
+    { icon: "✉️", title: "Email Automation", href: "/services/email-automation", desc: "We write email sequences that sound like a real person, not a marketing robot. Leads flow through your pipeline on autopilot. No more writing \"just checking in\" emails by hand.", price: "Starting at $199 Setup + $49/mo" },
+    { icon: "📍", title: "Google Business", href: "/services/google-business", desc: "If you’re not showing up on Google Maps, your competitors are getting those calls. We optimize your profile so local customers find you first. Better visibility means more phone calls.", price: "Starting at $399 one-time" },
+    { icon: "⭐", title: "Review Response", href: "/services/review-response", desc: "Every review gets a thoughtful, personalized reply within 24 hours. Positive ones get thanked. Negative ones get handled professionally. All of it runs on autopilot.", price: "Starting at $99/mo" },
   ];
 
   const stats = [
@@ -74,10 +87,10 @@ export default function Home() {
           <h2 className="text-3xl font-black text-white mb-8 text-center">Why People Work With Us</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {[
-              { icon: "⚡", title: "Fast Implementation", desc: "Usually, people claim their stuff is up and running and functioning within a week. We don't waste time." },
-              { icon: "💰", title: "Month-to-Month", desc: "No strings attached. You can cancel anytime. We would rather continually earn your trust and loyalty." },
-              { icon: "📊", title: "Transparent Reporting", desc: "We don't miss a single lead and booking. Your insights will be crystal clear at all times." },
-              { icon: "👋", title: "Direct Support", desc: "The person who answers the call is genuine. If you have a question, you can expect an helpful answer." },
+              { icon: "⚡", title: "Fast Implementation", desc: "Most clients are up and running within a week. We don't waste time." },
+              { icon: "💰", title: "Month-to-Month", desc: "No long-term contracts. Cancel anytime. We earn your business every single month." },
+              { icon: "📊", title: "Transparent Reporting", desc: "Every lead and booking is tracked. You always know exactly what's working." },
+              { icon: "👋", title: "Direct Support", desc: "A real person picks up when you call. Questions get answered quickly and clearly." },
             ].map((item, idx) => (
               <div key={idx} className="bg-white/5 rounded-xl p-6 shadow border border-white/10 backdrop-blur-sm">
                 <div className="text-3xl mb-3">{item.icon}</div>
@@ -98,12 +111,12 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              { quote: "AMP Marketing really brought a turnaround in our life. In the beginning, we only had 10 leads per week and now we are working with more than 100 clients every week. That AI chatbot? It is working and generating leads 24-hours a day, even while I'm sleeping.", author: "Mike R.", company: "HVAC Company Owner" },
-              { quote: "Unlike other AI teams that promise a lot but never deliver anything, these guys are different. We have been through several agencies before, and these guys are extremely fast. They really care about their clients and business.", author: "Sarah L.", company: "Dental Practice" },
-              { quote: "Before AMP Marketing revamped our lead generation, it was almost non-existent. We are now getting a full pipeline of qualified prospects and our phone has been constantly ringing.", author: "James T.", company: "Local Restaurant Owner" },
-              { quote: "The AI voice receptionist is a self-sustaining investment. It has been associated with us missing 20% of our calls previously. Now every single call is answered professionally, 24/7.", author: "Amanda K.", company: "Law Firm" },
-              { quote: "Our business has been changed by email automation. We used to spend a lot of time every week on our manual follow-ups. The process has been automated, and our close rate has increased by 40%.", author: "David M.", company: "Real Estate Agency" },
-              { quote: "Custom-made AI application from them helped us save around 30 hours a week. That is not a typographical mistake. It is the best investment that we have ever made.", author: "Jennifer P.", company: "E-commerce Business" }
+              { quote: "We went from about 10 leads a week to over 100. The AI chatbot runs around the clock and books appointments while I sleep. AMP Marketing completely changed how we get new business.", author: "Mike R.", company: "HVAC Company Owner" },
+              { quote: "We've worked with several agencies before. These guys actually deliver, and fast. They care about results, not just collecting a monthly check.", author: "Sarah L.", company: "Dental Practice" },
+              { quote: "Our lead generation was basically nonexistent before AMP Marketing stepped in. Now our pipeline stays full and the phone keeps ringing with qualified prospects.", author: "James T.", company: "Local Restaurant Owner" },
+              { quote: "The AI voice receptionist paid for itself in the first month. We used to miss about 20% of our calls. Now every single one gets answered professionally, 24/7.", author: "Amanda K.", company: "Law Firm" },
+              { quote: "Email automation changed everything for us. We used to spend hours every week on manual follow-ups. Now it runs on its own, and our close rate went up 40%.", author: "David M.", company: "Real Estate Agency" },
+              { quote: "Their AI tools save us around 30 hours a week. That's not a typo. Best investment we've ever made, hands down.", author: "Jennifer P.", company: "E-commerce Business" }
             ].map((testimonial, idx) => (
               <div key={idx} className="bg-white/5 rounded-2xl p-8 border border-white/10 backdrop-blur-sm">
                 <div className="flex gap-1 mb-4">
