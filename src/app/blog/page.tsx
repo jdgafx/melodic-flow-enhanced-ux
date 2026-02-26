@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "AMP Marketing Blog | AI Marketing Tips & Growth Strategies",
     description: "Practical marketing advice for small businesses. Learn about AI chatbots, lead generation, SEO, and more.",
-    url: "https://convertiq.com/blog",
+    url: "https://melodic-flow-enhanced-ux.netlify.app/blog",
   },
 };
 

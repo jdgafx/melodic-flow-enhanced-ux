@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/private/', '/admin/'],
     },
-    sitemap: 'https://convertiq.com/sitemap.xml',
+    sitemap: 'https://melodic-flow-enhanced-ux.netlify.app/sitemap.xml',
   };
 }

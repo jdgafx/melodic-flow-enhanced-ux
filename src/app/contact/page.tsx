@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Contact Us | Let's Grow Your Business",
     description: "Schedule a free consultation or start your 7-day trial. Call 617-651-1457 or fill out our contact form.",
-    url: "https://convertiq.com/contact",
+    url: "https://melodic-flow-enhanced-ux.netlify.app/contact",
   },
 };
 
@@ -34,7 +34,7 @@ export default function ContactPage() {
                             <h2 className="text-2xl font-bold text-white mb-6">Drop Us a Line</h2>
                             <form className="space-y-6" action="https://formsubmit.co/michael@primemarketingexperts.com" method="POST">
                                 <input type="hidden" name="_subject" value="New Contact Form Submission - AMP Marketing" />
-                                <input type="hidden" name="_next" value="https://convertiq.com/contact?success=true" />
+                                <input type="hidden" name="_next" value="https://melodic-flow-enhanced-ux.netlify.app/contact?success=true" />
                                 <input type="hidden" name="_honeypot" value="" />
                                 <div>
                                     <label className="block text-sm font-bold text-gray-300 mb-2">Your Name</label>

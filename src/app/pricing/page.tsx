@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "AMP Marketing Pricing | Plans Starting at $99/mo",
     description: "AI marketing tools that fit your budget. Starter, Professional, and Enterprise plans with no long-term contracts. Start your 7-day free trial today.",
-    url: "https://convertiq.com/pricing",
+    url: "https://melodic-flow-enhanced-ux.netlify.app/pricing",
   },
 };
 

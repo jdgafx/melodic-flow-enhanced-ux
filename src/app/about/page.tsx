@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "About Us | Smart Marketing, Real Results",
     description: "From Prime Marketing Experts to AMP Marketing — we've helped 500+ businesses grow with AI-powered lead generation, chatbots, and sales automation.",
-    url: "https://convertiq.com/about",
+    url: "https://melodic-flow-enhanced-ux.netlify.app/about",
   },
 };
 

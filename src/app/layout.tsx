@@ -12,11 +12,11 @@ export const metadata: Metadata = {
   authors: [{ name: "AMP Marketing" }],
   creator: "AMP Marketing",
   publisher: "AMP Marketing",
-  metadataBase: new URL("https://convertiq.com"),
+  metadataBase: new URL("https://melodic-flow-enhanced-ux.netlify.app"),
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://convertiq.com",
+    url: "https://melodic-flow-enhanced-ux.netlify.app",
     siteName: "AMP Marketing",
     title: "AMP Marketing | Smart Tools That Grow Your Business",
     description: "We help you automate lead capture and sales follow-ups with smart technology that actually works.",
@@ -57,7 +57,7 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "AMP Marketing",
-    "image": "https://convertiq.com/branding/site3/logo.svg",
+    "image": "https://melodic-flow-enhanced-ux.netlify.app/branding/site3/logo.svg",
     "description": "We help businesses get more leads and save time with smart marketing tools that work around the clock.",
     "address": {
       "@type": "PostalAddress",
@@ -69,7 +69,7 @@ export default function RootLayout({
     },
     "telephone": "+1-617-651-1457",
     "email": "hello@ampmarketing.io",
-    "url": "https://convertiq.com",
+    "url": "https://melodic-flow-enhanced-ux.netlify.app",
     "priceRange": "$$",
     "openingHoursSpecification": [
       {

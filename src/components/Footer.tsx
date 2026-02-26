@@ -74,7 +74,7 @@ const Footer: React.FC = () => {
         <div className="max-w-7xl mx-auto px-6 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-600 text-[10px] font-bold uppercase tracking-widest">© 2026 AMP Marketing. All rights reserved.</p>
             <div className="flex gap-8 text-[10px] text-gray-600 font-bold uppercase tracking-widest">
-                <span className="hover:text-gray-400 cursor-pointer">Built with AI</span>
+                <span className="text-gray-600 text-[8px] tracking-wider">built by Chris Gentile / CGDarkstardev1 / NewDawn AI</span>
             </div>
         </div>
       </footer>
