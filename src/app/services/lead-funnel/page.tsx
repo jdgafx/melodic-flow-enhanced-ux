@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 
 export const metadata = {
-  title: "AI Assisted Leadgen | AMP Marketing",
+  title: "AI Assisted Leadgen",
   description: "Convert potential customers 24/7. AI-powered lead capture on your website, Facebook, and LinkedIn.",
   keywords: ["lead generation funnel", "AI lead generation system", "automated sales funnel", "lead capture system", "lead nurturing automation", "B2B lead generation service", "appointment booking funnel", "sales funnel agency", "AI-powered lead generation", "multi-channel lead funnel", "lead magnet funnel setup", "best lead generation agency 2025", "automated prospect pipeline", "sales funnel for small business"],
 };

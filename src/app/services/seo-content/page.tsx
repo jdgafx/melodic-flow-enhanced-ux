@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Content That Ranks | AMP Marketing",
+  title: "Content That Ranks",
   description: "Expert articles your audience will read and trust. Boost your site traffic with well-researched, SEO-optimized content.",
   keywords: ["SEO content writing service", "SEO articles for business", "content marketing services", "blog writing service", "organic traffic growth", "keyword-optimized content", "SEO copywriting agency", "AI-assisted SEO writing", "long-form SEO content", "rank on Google with content", "SEO blog posts for small business", "content marketing agency", "best SEO writing service 2025", "Bing search ranking content"],
 };

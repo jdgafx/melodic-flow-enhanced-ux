@@ -5,7 +5,7 @@ import Image from 'next/image';
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Marketing Blog | AI Tips, Lead Generation Strategies & Growth Guides | AMP Marketing",
+  title: "Marketing Blog | AI Tips, Lead Generation Strategies & Growth Guides",
   description: "Expert articles on AI marketing, automated lead generation, chatbot strategies, SEO, and small business growth. Practical advice from the AMP Marketing team.",
   keywords: ["marketing blog", "AI marketing tips", "lead generation strategies", "small business growth blog", "chatbot marketing", "SEO content strategy", "email marketing tips", "digital marketing insights", "AI marketing articles", "business automation blog", "Bing Ads tips", "Google Ads strategies", "marketing automation guides"],
   openGraph: {
