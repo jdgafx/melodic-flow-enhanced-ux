@@ -9,20 +9,20 @@ const Footer: React.FC = () => {
             <div className="col-span-1 md:col-span-1">
                  
                  {/* Footer Logo */}
-                 <Link href="/" className="flex items-center gap-5 cursor-pointer group select-none mb-6">
-                    <div className="relative w-20 h-20 rounded-xl bg-gradient-to-b from-blue-500 to-purple-600 p-[2px] shadow-lg shadow-purple-500/10">
-                    <div className="w-full h-full bg-[#0a0a0f] rounded-[14px] flex items-center justify-center relative overflow-hidden">
+                 <Link href="/" className="flex items-center gap-3 cursor-pointer group select-none mb-6">
+                    <div className="relative w-11 h-11 rounded-xl bg-gradient-to-b from-blue-500 to-purple-600 p-[1px] shadow-lg shadow-purple-500/20 flex-shrink-0">
+                    <div className="w-full h-full bg-[#0a0a0f] rounded-[10px] flex items-center justify-center relative overflow-hidden">
                         <div className="absolute inset-0 bg-gradient-to-br from-blue-500/20 via-transparent to-purple-500/20 opacity-50"></div>
-                        <Zap className="w-10 h-10 text-white fill-white" style={{ filter: 'drop-shadow(0 0 5px rgba(255, 255, 255, 0.3))' }} />
+                        <Zap className="w-5 h-5 text-white fill-white" style={{ filter: 'drop-shadow(0 0 8px rgba(255, 255, 255, 0.4))' }} />
                     </div>
                     </div>
-                    
+
                     <div className="flex flex-col justify-center">
-                    <div className="flex items-baseline leading-none mb-1">
-                        <span className="text-4xl font-bold text-white tracking-tight mr-2">AMP</span>
-                        <span className="text-4xl font-black text-white drop-shadow-[0_2px_5px_rgba(255,255,255,0.2)]">Marketing</span>
+                    <div className="flex items-baseline leading-none mb-0.5">
+                        <span className="text-xl font-bold text-white tracking-tight mr-1">AMP</span>
+                        <span className="text-xl font-black text-white drop-shadow-[0_2px_5px_rgba(255,255,255,0.3)]">Marketing</span>
                     </div>
-                    <span className="text-[18px] font-extrabold text-slate-500 tracking-[0.2em] uppercase pl-0.5">Growth on Autopilot</span>
+                    <span className="text-[10px] font-extrabold text-slate-400 tracking-[0.2em] uppercase pl-0.5">Growth on Autopilot</span>
                     </div>
                  </Link>
 
