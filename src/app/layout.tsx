@@ -1,6 +1,14 @@
 import type { Metadata } from "next";
+import { Poppins } from "next/font/google";
 import "./globals.css";
 import AnimatedBackground from "../components/AnimatedBackground";
+
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800", "900"],
+  variable: "--font-poppins",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
   title: {
@@ -22,7 +30,7 @@ export const metadata: Metadata = {
     description: "We help you automate lead capture and sales follow-ups with smart technology that actually works.",
     images: [
       {
-        url: "/branding/site3/logo.svg",
+        url: "/logo-amp-marketing.svg",
         width: 1200,
         height: 630,
         alt: "AMP Marketing - Solutions That Scale",
@@ -33,7 +41,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "AMP Marketing | Smart Tools That Grow Your Business",
     description: "We help you automate lead capture and sales follow-ups with smart technology that actually works.",
-    images: ["/branding/site3/logo.svg"],
+    images: ["/logo-amp-marketing.svg"],
   },
   robots: {
     index: true,
@@ -57,7 +65,7 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "AMP Marketing",
-    "image": "https://melodic-flow-enhanced-ux.netlify.app/branding/site3/logo.svg",
+    "image": "https://melodic-flow-enhanced-ux.netlify.app/logo-amp-marketing.svg",
     "description": "We help businesses get more leads and save time with smart marketing tools that work around the clock.",
     "address": {
       "@type": "PostalAddress",
@@ -98,7 +106,7 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="en">
+    <html lang="en" className={poppins.variable}>
       <head>
         <script
           type="application/ld+json"
@@ -112,6 +120,7 @@ export default function RootLayout({
         <link rel="apple-touch-icon" href="/favicon-amp.svg" />
         <link rel="icon" type="image/svg+xml" sizes="32x32" href="/favicon-amp.svg" />
         <link rel="icon" type="image/svg+xml" sizes="16x16" href="/favicon-amp.svg" />
+        {/* Google Analytics - uncomment and replace ID when tracking ID is available
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -123,6 +132,7 @@ export default function RootLayout({
             `,
           }}
         />
+        */}
       </head>
       <body className="antialiased">
         <AnimatedBackground />

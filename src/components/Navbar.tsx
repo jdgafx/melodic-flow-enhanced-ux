@@ -79,7 +79,7 @@ const Navbar: React.FC = () => {
 
           {/* Mobile Toggle */}
           <div className="md:hidden">
-            <button onClick={() => setIsOpen(!isOpen)} className="text-white p-2">
+            <button onClick={() => setIsOpen(!isOpen)} className="text-white p-2" aria-label={isOpen ? "Close menu" : "Open menu"} aria-expanded={isOpen}>
               {isOpen ? <X /> : <Menu />}
             </button>
           </div>
