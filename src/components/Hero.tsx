@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, ChevronRight } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 
 const Hero: React.FC = () => {
@@ -12,14 +12,6 @@ const Hero: React.FC = () => {
       <div className="max-w-5xl mx-auto text-center relative z-10">
         
         {/* Glass Badge */}
-        <div className="inline-flex items-center justify-center px-4 py-1.5 rounded-full bg-white/5 border border-white/10 backdrop-blur-md mb-8 shadow-2xl hover:bg-white/10 transition-colors cursor-default">
-          <span className="relative flex h-2 w-2 mr-3">
-            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-500 opacity-75"></span>
-            <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
-          </span>
-          <span className="text-sm font-medium text-gray-200 tracking-wide">Real results in a matter of days</span>
-          <ChevronRight className="w-4 h-4 ml-1 text-gray-400" />
-        </div>
 
         {/* Headline - Added 'text-white' fallback before transparent/clip classes */}
         <h1 className="text-5xl md:text-8xl font-black tracking-tighter leading-[1.1] mb-8 text-white text-transparent bg-clip-text bg-gradient-to-b from-white via-white to-gray-400 drop-shadow-sm">
