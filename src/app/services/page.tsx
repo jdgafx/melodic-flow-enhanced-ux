@@ -22,7 +22,7 @@ const services = [
     title: "SEO Content",
     desc: "We research and write articles that rank well on Google. Fresh content that brings in organic traffic month after month.",
     price: "Starting at $149 per article",
-    href: "/contact",
+    href: "/services/seo-content",
     featured: true
   },
   {
